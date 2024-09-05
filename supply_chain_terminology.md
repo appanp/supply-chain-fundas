@@ -1,15 +1,17 @@
 ### TODOs
 
-1. Complete the terms identified with a TODO - around 30+ of them.
-1. Add the other terms if they are missing from [this link](https://www.inboundlogistics.com/articles/warehousing-process)
+- [ ] Complete the terms identified with a TODO - around 30+ of them.
+- [ ] Add the other terms if they are missing from [this link](https://www.inboundlogistics.com/articles/warehousing-process), []
 
-### Terminology 
+### Terminology
 
 **Advance Shipping Notification (ASN)**: TODO
 
-**Automated Storage and Retrieval System (AS/RS)**: TODO - Exapand from this [link](https://www.bastiansolutions.com/solutions/technology/asrs)
+**Automated Storage and Retrieval System (AS/RS)**: TODO - Expand from this [link](https://www.bastiansolutions.com/solutions/technology/asrs)
 
-**Barcode Symbology**: TODO
+**Barcode**: Barcode is used to encode data in a format which can be easily scanned by scanner for automation. In a warehouse, it is used to identify things and locations.
+
+**Barcode Symbology**: It refers to the sandards used to encode data in a barcode. There are two main types: 1D and 2D. A short list of the barcode standards are listed below, For more info, refer to [this link](https://www.zebra.com/ap/en/resource-library/faq/what-is-barcode-symbology.html) and [this link](https://www.scandit.com/resources/guides/types-of-barcodes-choosing-the-right-barcode/ "Types of barcodes - choosing the right barcode")
 
 **Barcode Symbology Standards**: C128, Code 3 of 9, 205? (TODO correct this)
 
@@ -17,6 +19,7 @@
 
 **Cart Staging**: TODO
 
+**Channel Management**:
 **Cross-docking**: TODO. This is a WMS feature.
 
 **Cubic Storage**: TODO (Autostore)
@@ -26,6 +29,7 @@
 **Dock appointment Scheduling**: This is a WMS feature.
 
 **Fulfillment Center (FC)**: Another name for Distribution Center. There are different types depending on their location, size & purpose:
+
 - Out-of-town FC: located outside of town of a larger size
 - Micro FC: located within town but of smaller size & for local distribution
 - In-store FC: located in a neighborhood and part of a store or the store itself
@@ -39,6 +43,7 @@
 **Inventory Management**: It is the act of managing the product inventory across warehouses and inside a single warehouse. (TODO). This is a WMS feature.
 
 **Labor Management**: TODO (Assume it is allocation of work to pickers & other workers in a warehouse. This is a WMS feature.
+
 - Also known as Workforce Management.
 
 **Light Manufacturing/Kitting**: TODO. This is a WMS feature.
@@ -46,6 +51,8 @@
 **Location Management**: TODO. This is a WMS feature.
 
 **Material Handling Equipment (MHE)**: TODO
+
+**Micro-fulfillment Center (MFC)**: Micro-fulfillment refers to the process of utilizing small-scale automated fulfillment centers strategically located near urban areas to facilitate rapid order processing and delivery. Equipped with advanced robotics, conveyor systems, and software algorithms, these compact facilities efficiently pick, pack, and dispatch orders in a fraction of the time it takes traditional warehouses. For more info refer to [this link](https://www.dropoff.com/blog/micro-fulfillment/)
 
 **Multicarrier Parcel Management**: TODO
 
@@ -74,6 +81,7 @@
 **Replenishment**: Replenishment is a process where stocks stored at non-pickface locations(also referred to as reserved locations or bulk locations) are sent to the pickface locations within the warehouse. A pickface(also referred to as a Forward Location) is a location set up for loose picking. This is a WMS feature.
 
 **Shipping Execution**: It is an IT system which does the following:
+
 - Printing care-compliant label
 - Printing of standard bill of lading
 - Printing parcel carrier label to put on actual box
@@ -93,8 +101,9 @@
 **Third Party Logistics (3PL) Billing**: TODO. This is a WMS feature.
 
 **Transportation Management System (TMS)**: It is an IT system which does the following:
-- Inbound load planning optimization 
-- Outbound load planning optimization 
+
+- Inbound load planning optimization
+- Outbound load planning optimization
 - Routing
 
 **Truck Loading**: TODO. This is a WMS feature.
@@ -104,14 +113,17 @@
 **Warehouse**: It is a physical building which stores products in containers & racks. There can many such warehouses in a place from which orders are fulfilled. A warehouse is also called a **Distribution Center**.
 
 **Warehouse Control System (WCS)**: It is an IT system which implements the following functions:
+
 - Manages many types of automated equipment: conveyor, sorters, ASRS, Pick to light, Carrousels, Print & Apply
 - Exchanges real-time communications (ms), command processing, discrete equipment signals and the optimisation of material (multiple UOML: units, cartons and pallets)
 
 **Warehouse Execution System (WES)**: It is an IT system which does:
+
 - Optimie and balance how work is performed on automated equipment
 - Dynamically allocates orders based upon WCS inputs (machine language)
 
 **Warehouse management System (WMS)**: It is an IT system which implements the following functionality:
+
 - Control flow of inventory into the warehouse
 - Track the location of inventory within the warehouse
 - Control flow of inventory within the warehouse for picking & packing
@@ -139,3 +151,4 @@
 1. [When does automation makes sense - Gradations in Warehouse automation](https://www.igz.com/en/blog/differences-warehouse-automation-levels/), talks about 3 levels
 1. [Four types of warehouse automation explained](https://www.elementlogic.co.uk/insights/category/warehouse-automation/four-types-of-warehouse-automation-explained/), Element Logic
 1. [Inventory Management KPIs Guide](https://www.shipbob.com/inventory-kpis/), defines 11 KPIs
+1. [What is a Warehouse Management System (WMS)? Insights for 2024](https://www.shopify.com/enterprise/blog/warehouse-management-system)
