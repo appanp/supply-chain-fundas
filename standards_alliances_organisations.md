@@ -1,5 +1,17 @@
-## Standards, Alliances, Organisations & Initiatives
+## Alliances, Organisations & Initiatives
 
 1. **[GS1 Sunrise 2027 Initiative](https://www.scandit.com/blog/gs1-sunrise-2027-smart-data-capture-revolution/)**: It is an initiative which will lead to the gradual phasing out of UPC and EAN barcodes. They will be replaced by QR codes and Data Matrix codes – a type of 2D barcode that offers more data storage capacity and improved scanning capabilities.
 1. **[MHI](https://www.mhi.org/about)**: The nation's largest material handling, logistics and supply chain association, we work to deliver the latest knowledge, the strongest connections, powerful industry leadership, and the best market access for manufacturing and supply chain professionals. Our 975+ members and 18 Industry Groups power research and solution sourcing to drive the innovations you can see at our world-class events.
 1. **[The Robotics Group (TRG)](https://www.mhi.org/trg)**: Group of leading manufacturers, integrators, consultants, and component suppliers of robotic solutions designed specifically for warehousing and distribution applications. Traditionally, industrial robots in material handling applications have been limited to palletizing/depalletizing, conveyor picking, or other highly-repetitive tasks. Technology advancements are creating opportunities for robots and automated machinery in a wider variety of applications, including warehousing and distribution center activities.
+
+## Standards
+
+1. [ANSI ICWM-2018 - Vocabulary, Performance and Testing Requirements for Casters and Wheels](https://s3.us-east-1.amazonaws.com/fonteva-customer-media/00D3h000005U9EzEAK/rZbPasEB_10012_pdf)
+1. [ANSI MH10.8.17-2017 - Item Unique Identification (IUID) Data Matrix Encoding Guideline](https://s3.us-east-1.amazonaws.com/fonteva-customer-media/00D3h000005U9EzEAK/SCvKlJWs_10223_pdf)
+1. [ANSI MH1-2021 - Pallets, Slip Sheets, and Other Bases for Unit Loads](https://s3.us-east-1.amazonaws.com/fonteva-customer-media/00D3h000005U9EzEAK/ZrobbSpe_mh1_2021_final_pdf)
+1. [ANSI MH28.3-2022 - Design, Testing and Utilization of Industrial Steel Work Platforms](https://s3.us-east-1.amazonaws.com/fonteva-customer-media/00D3h000005U9EzEAK/XhhklVBM_ANSI_MH28_3_2022_final_pdf)
+1. [ANSI MH32.1-2018 - Stairs, Ladders, and Open-Edge Guards for Use with Material Handling Structures](https://s3.us-east-1.amazonaws.com/fonteva-customer-media/00D3h000005U9EzEAK/qNTHqGdx_10225_pdf)
+1. [ANSI MH28.2-2022 - Design, Testing, and Utilization of Industrial Boltless Steel Shelving](https://s3.us-east-1.amazonaws.com/fonteva-customer-media/00D3h000005U9EzEAK/TNRzTHBY_ANSI_MH28_2_2022_final_1_pdf)
+1. [ANSI MH28.1 - 2024 - Design, Testing, and Utilization of Industrial Steel Bin Shelving](https://s3.us-east-1.amazonaws.com/fonteva-customer-media/00D3h000005U9EzEAK/ePJOELMj_ANSI_MH28_1_2024_Final_pdf)
+1. [ANSI MH28.4-2024 - Testing and Evaluation of Retail/Consumer Boltless Steel Shelving](https://s3.us-east-1.amazonaws.com/fonteva-customer-media/00D3h000005U9EzEAK/CWxbPHmC_ANSI_MH28_4_2024_Final_pdf)
+1. [ANSI MH10.8.2-2021 - Data Identifiers](https://s3.us-east-1.amazonaws.com/fonteva-customer-media/00D3h000005U9EzEAK/ZPOaRZok_ANSI_MH10_8_2_2021_updated_20240614_pdf)
