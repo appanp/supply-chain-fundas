@@ -7,7 +7,12 @@
 
 **Advance Shipping Notification (ASN)**: It is an electronic data interchange (EDI) message sent from the shipper to the receiver prior to the departure of the shipment from the shipper’s facility. The message includes complete information about the shipment and its contents. In today’s environment, this message is more often an “as shipped notice” sent after the departure of the shipment.After receiving an order and preparing a shipment, the sellers or shippers then need to let the buyer, such as a retailer or distributor, know the details for the shipment they are about to receive. This helps the buyer to plan ahead for incoming shipments, reconcile EDI 856 detail with incoming inventory, and automate receiving workflows. For more info refer to [this link](https://www.gartner.com/en/information-technology/glossary/asn-advanced-shipment-notice "EDI856 is an imortant & frequently used transaction among suppliers, distributors, manufacturers and retailers")
 
-**Automated Storage and Retrieval System (AS/RS)**: It is a broader term used to refer to any computer-controlled system that stores and retrieves items automatically. ASRS systems use robots and a grid or shelving system to store items in flexible locations within a grid of shelving system. For more info refer to [this link](https://6river.com/what-is-an-automated-storage-and-retrieval-system/ "Types of ASRS.<br/> How do they work?<br/>Their advantages/disadvantages.<br/>How to choose right system?<br/>How much do they cost?<br/>Alternative: AMR") and [this vendor products specific link](https://www.bastiansolutions.com/solutions/technology/asrs)
+**Automated Storage and Retrieval System (AS/RS)**: It is a broader term used to refer to any computer-controlled system that stores and retrieves items automatically. ASRS systems use robots and a grid or shelving system to store items in flexible locations within a grid of shelving system. For more info refer to [this link](https://6river.com/what-is-an-automated-storage-and-retrieval-system/ "1. Types of ASRS.
+2. How do they work?
+3. Their advantages/disadvantages.
+4. How to choose right system?
+5. How much do they cost?
+6. Alternative: AMR") and [this vendor products specific link](https://www.bastiansolutions.com/solutions/technology/asrs)
 
 **Barcode**: Barcode is used to encode data in a format which can be easily scanned by scanner for automation. In a warehouse, it is used to identify things and locations.
 
