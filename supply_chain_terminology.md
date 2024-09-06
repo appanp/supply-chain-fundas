@@ -1,7 +1,7 @@
 ### TODOs
 
 - [ ] Complete the terms identified with a TODO - around 30+ of them.
-- [ ] Add the other terms if they are missing from [this link](https://www.inboundlogistics.com/articles/warehousing-process), warehouse/reailing related term in [Gartner glossary](https://www.gartner.com/en/information-technology/glossary).
+- [ ] Add the other terms if they are missing from [this link](https://www.inboundlogistics.com/articles/warehousing-process), warehouse/reailing related term in [Gartner glossary](https://www.gartner.com/en/information-technology/glossary) and [IBM WMS Glossary](https://www.ibm.com/docs/en/warehouse-management/9.5.0?topic=glossary)
 
 ### Terminology
 
@@ -20,6 +20,8 @@
 
 **Barcode Symbology Standards**: C128, Code 3 of 9, 205? (TODO correct this)
 
+**Batch Picking**: This is one type of Picking operation. Batch picking involves a worker moving through the warehouse collecting goods for several orders at once.
+
 **Automated MHE Interfaces**: TODO. This is a WMS feature.
 
 **Cart Staging**: TODO
@@ -30,7 +32,9 @@
 
 **Cubic Storage**: TODO (Autostore)
 
-**Cycle Counting**: TODO. This is a WMS feature.
+**Cycle Counting**: This is a warehouse operation. TODO.
+
+**Directed putaway**: This is a warehouse operation. TODO
 
 **Dock appointment Scheduling**: This is a WMS feature.
 
@@ -48,6 +52,8 @@
 
 **Inventory Management**: It is the act of managing the product inventory across warehouses and inside a single warehouse. (TODO). This is a WMS feature.
 
+**Kitting and Bundling**: TODO
+
 **Labor Management**: TODO (Assume it is allocation of work to pickers & other workers in a warehouse. This is a WMS feature.
 
 - Also known as Workforce Management.
@@ -61,6 +67,8 @@
 **Micro-fulfillment Center (MFC)**: Micro-fulfillment refers to the process of utilizing small-scale automated fulfillment centers strategically located near urban areas to facilitate rapid order processing and delivery. Equipped with advanced robotics, conveyor systems, and software algorithms, these compact facilities efficiently pick, pack, and dispatch orders in a fraction of the time it takes traditional warehouses. For more info refer to [this link](https://www.dropoff.com/blog/micro-fulfillment/)
 
 **Multicarrier Parcel Management**: TODO
+
+**Multicarrier Shipping**: At its core, multi-carrier shipping is a B2B logistics operation that involves utilizing multiple carriers to deliver packages. Unlike traditional methods, this approach allows businesses to compare rates, transit times, and routes, optimizing the selection of carriers based on specific package requirements. Multi-carrier shipping solutions, such as those offered by ClickPost and Aftership, use advanced technologies like AI-driven engines and API integrations to streamline the order creation, tracking, and management processes. For more info, refer to [this link](https://www.dropoff.com/blog/multi-carrier-shipping/).
 
 **Order Allocation**: TODO. This is a WMS feature.
 
@@ -78,13 +86,19 @@
 
 **Pick-to-Light System**: Pick to light is a type of order-fulfillment technology designed to improve picking accuracy and efficiency, while simultaneously lowering your labor costs. Notably, pick to light is paperless; it employs alphanumeric displays and buttons at storage locations, to guide your employees in light-aided manual picking, putting, sorting, and assembling.
 
-**Picking**: The act of picking the products required for a fulfillment order n the required quantity. This is a WMS feature.
+**Picking**: The act of picking the products required for a fulfillment order in the required quantity. There are different ways in which picking can be done such as [zone picking](#zone-picking), etc. and are explained [here](https://6river.com/types-of-warehouse-order-picking-systems/). This is a warehouse operation.
+
+**Picking and Packing**: . This is a WMS feature. TODO
+
+**Putaway**: TODO
 
 **Put-to-Light System**: Often referred to as “pick-to-light in reverse,” a put-to-light system uses light modules that direct operators to the correct location to sort, or “put,” items into. (As opposed to a pick-to-light system, where lights direct operators to stock keeping unit/SKU locations to select, or “pick,” items.)
 
-**Receiving**: TODO. This is a WMS feature.
+**Receiving**: . This is a Warehouse operation. TODO.
 
 **Replenishment**: Replenishment is a process where stocks stored at non-pickface locations(also referred to as reserved locations or bulk locations) are sent to the pickface locations within the warehouse. A pickface(also referred to as a Forward Location) is a location set up for loose picking. This is a WMS feature.
+
+**Return Management**: This is a warehouse operation. TODO
 
 **Shipping Execution**: It is an IT system which does the following:
 
@@ -135,11 +149,19 @@
 - Control flow of inventory within the warehouse for picking & packing
 - Manages the order flows and tasking
 
-**Wave Picking**: TODO
+**Wave Picking**: With wave picking, orders are grouped and picked in batches, but at specific times of day. Here’s how it works:
+
+- Worker receives a consolidated pick list.
+- Worker uses a multi-tote picking cart to manage the various items in a particular wave.
+- Worker picks approximately 4 to 12 orders (per wave).
+
+Wave picking is useful for both low-pick and high-pick operations. For low-pick operations, wave picking reduces the number of trips workers take back and forth. For high-pick operations, warehouse managers couple wave picking with zone picking to run the most efficient workflow possible. For more info, refer to [this link](https://www.logiwa.com/blog/warehouse-wave-picking)
 
 **Wave Planning/Management**: TODO. This is a WMS feature.
 
 **Yard Management**: TODO. This is a WMS feature.
+
+**Zone Picking**: This is one type of picking operation. Zone picking involves workers dedicated to a specific section passing order totes from one zone to the next.
 
 ### References to WMS Vendor APIs
 
