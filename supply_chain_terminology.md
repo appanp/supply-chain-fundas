@@ -102,11 +102,11 @@ For vendors who have automated this process are:
 
 - [AIOI has developed Pick to Light System applying Microwave Remote Power Transfer technology first time in the industry.](https://hello-aioi.com/en/news_events/news/aioi-has-developed-pick-to-light-system-applying-microwave-remote-power-transfer-technology-first-time-in-the-industry/)
 
-  **Picking**: The act of picking the products required for a fulfillment order in the required quantity. There are different ways in which picking can be done such as [zone picking](#zone-picking), etc. and are explained [here](https://6river.com/types-of-warehouse-order-picking-systems/). This is a warehouse operation.
+**Picking**: The act of picking the products required for a fulfillment order in the required quantity. There are different ways in which picking can be done such as [zone picking](#zone-picking), etc. and are explained [here](https://6river.com/types-of-warehouse-order-picking-systems/). This is a warehouse operation.
 
-**Picking and Packing**: . This is a WMS feature. TODO
+**Picking and Pass**: A process in which forward piece-picking locations are grouped into zones, and operators in each zone pick items into a carton or tote in their zones, and then “pass” the carton or tote to a picker in the next zone, often assisted by a roller conveyor. This is a WMS operation.
 
-**Putaway**: TODO
+**Putaway**: Putaway is a process that involves receiving inventory in a warehouse or distribution center, organizing it, and then storing it in its designated location. The goal is to ensure that the right items are stored in the optimal storage location and that they are easily accessible when needed. Putaway is a key component of an effective warehouse inventory management system and it can have a major impact on how quickly goods are located and retrieved. For more info, refer to [this link](https://www.cadretech.com/blog/warehouse-putaway-process).
 
 **Put-to-Light System**: Often referred to as “pick-to-light in reverse,” a put-to-light system uses light modules that direct operators to the correct location to sort, or “put,” items into. (As opposed to a pick-to-light system, where lights direct operators to stock keeping unit/SKU locations to select, or “pick,” items.)
 
@@ -134,7 +134,7 @@ For best practices in the receiving process, watch [this video (7 mins)](https:/
 - Printing of standard bill of lading
 - Printing parcel carrier label to put on actual box
 
-**Slotting**: TODO. This is a WMS feature.
+**Slotting**: Warehouse slotting is the step by step process of analyzing inventory data for the purpose of categorizing and organizing inventory throughout a warehouse or distribution center. The purpose of slotting your warehouse is to maximize the overall efficiency of your operations. By maximizing space utilization and reducing inventory handling, you'll see an increase in productivity and a strategic workflow throughout your facility. For more info, refer to [this link](https://us.blog.kardex-remstar.com/warehouse-slotting-strategies-best-practices). This is a WMS feature for warehouse planning or configuration.
 
 **Staging**: TODO. This is a WMS feature.
 
