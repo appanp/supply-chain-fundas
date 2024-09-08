@@ -18,7 +18,6 @@
 1. _Shipping area_: In the shipping or goods dispatch zone, orders are prepared and sent to their final destination. Although it tends to be near the facility’s exit, the positioning of the shipping area will be influenced by several elements. These include the number of shipments, the volume of routes managed daily, scheduling and even the location of the warehouse in relation to its surroundings (which will limit the number of docks or concentrate them in a specific zone).
 
 **Automated Storage and Retrieval System (AS/RS)**: It is a broader term used to refer to any computer-controlled system that stores and retrieves items automatically. ASRS systems use robots and a grid or shelving system to store items in flexible locations within a grid of shelving system. For more info refer to [this link](https://6river.com/what-is-an-automated-storage-and-retrieval-system/ "1. Types of ASRS.
-
 2. How do they work?
 3. Their advantages/disadvantages.
 4. How to choose right system?
@@ -33,24 +32,22 @@
 
 **Batch Picking**: This is one type of Picking operation. Batch picking involves a worker moving through the warehouse collecting goods for several orders at once.
 
-**Automated MHE Interfaces**: TODO. This is a WMS feature.
-
 **Cart Staging**: These are intermediate areas in the picking area where the carts are kept temporarily to be moved to another place. Refer to [this link](https://www.tractonomy.com/kit-carts-to-assembly-lines/) on Autonomous Towing Robots (ATRs) help in moving the carts between the picking/staging area and the shipping area.
-
-**Channel Management**: TODO
 
 **Cross-docking**: Cross-docking is a logistics technique that aims to accelerate goods delivery and increase supply chain efficiency. It involves unloading goods from vehicles making incoming shipments at a logistics facility and transferring them to vehicles handling outgoing shipments, requiring little or no storage time in between. Companies take advantage of cross-docking to consolidate products from multiple suppliers, break down bulk shipments into smaller lots and reorganize items for efficient delivery to retail stores, fulfillment centers and customers. Cross-docking requires close coordination among a company’s supply chain partners, including its suppliers and freight carriers. This is an optional warehouse operation. For more info, refer to [this link](https://www.netsuite.com/portal/resource/articles/inventory-management/cross-docking.shtml).
 
-**Cubic Storage**: TODO (Autostore)
+**Cube Storage**: Pioneered by Autostore, high-density storage by removing all of the empty space found in traditional shelving. Consisting of only five modules, items are stored in [Bins](https://www.autostoresystem.com/system/bins) which are stacked next to and on top of each other like building blocks within an aluminum [Grid](https://www.autostoresystem.com/system/grid). Robots drive on tracks along the top, continuously digging, retrieving, and delivering Bins to Ports (warehouse workstations) as directed by the system. Workers access the inventory at the Port for order fulfillment or stock replenishment. Robots then collect the Bins to return to the Grid. This automatically slots products by popularity and ensures that high runners stay on top and low runners sink to the bottom, ensuring high picking speed. Cube Storage AS/RS combines highly efficient space usage with modular robots and a building block design that enables ease of installation as well as expansion. One limiting factor to consider with cube storage AS/RS is that products need to fit into the Bins, (e.g. the largest AutoStore Bin size measures 449 mm x 649 mm x 425 mm).
 
 **Cycle Counting**: Cycle counting is a method of inventory control used in warehouses to ensure that physical inventory counts match the recorded inventory. It involves counting a subset of inventory on a regular basis in different areas of the warehouse. This is a warehouse operation. For more info, refer to [this link](https://www.cadretech.com/blog/cycle-counting-in-warehousing-best-practices).
 
 For vendors who have automated this process are:
 
 - [Hand Scanners vs. StorTRACK Cycle Count Showdown - Vimaan](https://vimaan.ai/resources/video/cycle-counting-handheld-scanners-vs-stortrack/)
-- Using drones for cycle counting of inventory (TODO)
+- Using drones for cycle counting of inventory - how the drone maker Verity used drones for Swiss shoe maker ON - [Inventory Tracking Solution a High-Flying Success](https://www.inboundlogistics.com/articles/inventory-tracking-solution-a-high-flying-success/), July 2024.
 
 **Directed putaway**: A putaway process in which the WMS determines where a given receipt of goods should be stored in the distribution center. Directed putaway is tightly connected to the concept of “zoning” in which storage locations are grouped together, examples being “fast-movers” or “HAZMAT” products. With directed putaway, companies use a WMS to configure a hierarchical set of rules to identify the best location to store a receipt of inventory. If there is no space available in the preferred zone (e.g., fast-movers), the WMS putaway process would look for the next best available zone (e.g., medium-movers). This is a warehouse operation. For more info, refer to [this link](https://www.softeon.com/glossary/directed-putaway/).
+
+**Distributed Order Management**: The practice of overseeing the shipment of materials and finished goods from multiple distribution points or suppliers to customer locations in an effort to reduce lead times, lower the cost of transportation, and meet non-forecasted demand by providing multiple delivery options to the planner.
 
 **Dock appointment Scheduling**: This is a WMS feature.
 
@@ -64,21 +61,27 @@ For vendors who have automated this process are:
 
 **Goods-to-Person (G2P or GTP)**: Goods-to-Person (GTP) is a warehouse automation solution in which products are brought to a person by a fixed or Autonomous Mobile Robots (AMRs). Associates receive the items needed to prepare an order at their pick stations without having to move in any meaningful way from their location. (Ref 5 gives more details).
 
-**Inspection for Quality Control**: TODO. This is a WMS feature.
+**Inspection for Quality Control**: The practice of inspecting goods upon receipt for any delivery discrepancies such as damage, incorrect quantity compared with purchase order or delivery paperwork, and incomplete or incorrect paperwork. This is a WMS feature.
 
-**Inventory Management**: It is the act of managing the product inventory across warehouses and inside a single warehouse. (TODO). This is a WMS feature.
+**Inventory Management**: It is the act of managing the product inventory across warehouses and inside a single warehouse. Depending on the level of control, the specific locations of each SKU should be available in the inventory management module of WMS. This is a WMS feature.
 
-**Kitting and Bundling**: TODO
+**Kit**: 1) The components of a parent item that have been pulled from stock and prepared for movement to a production area. 2) A group of repair parts to be shipped with an order. Same as kitted material, staged material.
 
-**Labor Management**: TODO (Assume it is allocation of work to pickers & other workers in a warehouse. This is a WMS feature.
+**Kitting**: The process of constructing and staging kits. For more info, refer to [this link](https://www.thefulfillmentlab.com/blog/kitting-warehouse/).
+
+**Labor Management**: Your ecommerce business can’t run without an amazing team of warehouse workers. These individuals carry out daily tasks – like managing inventory, picking products, and packing orders – and you depend on them to get orders out the door. But how you allocate and manage this workforce hugely impacts your operational efficiency. To improve productivity, reduce costs, and minimize idle time and overstaffing, you’ll need an optimized labor management strategy. For more info, refer to [this link](https://www.shipbob.com/warehouse-management/warehouse-labor-management/).
 
 - Also known as Workforce Management.
 
-**Light Manufacturing/Kitting**: TODO. This is a WMS feature.
+**Light Manufacturing**: Refer to Kitting.
 
-**Location Management**: TODO. This is a WMS feature.
+**Location Management**: It is a type of inventory management system. It is an integral part of warehouse management that works at the core of a warehouse or distribution center. The available software solutions help you navigate across the storage to fetch, store, or transfer items based on their location on a shelf, also known as a bin. It is therefore also called bin location management. This warehouse location system works by comparing the specifications of the stock against the specifications of the storage space, allowing it to store any given size of stock in the best space-saving manner. For example, it may take the dimensions and handling of the item, compare it to the dimensions and types of pallets, and set an appropriate storage location. Small but unrelated items might be stocked together to fill a smaller space so that the package does not take up a larger space where another larger item could be stored. This is a WMS feature.
 
 **Material Handling Equipment (MHE)**: TODO
+
+**MHE Interface/Integration**: For controling the MHEs, the WMS has to either directly control or communicate with WCS/WES to control them. For more info, refer to [this link](https://www.warehouse-logistics.com/Download/Flyer/JDA-Material-Handling-Integration_Brochure.pdf)
+- A black-box integration involves handing off a request to the MHE and receiving a response without controlling how the MHE executes the request. An example would be for the WMS to make a pick request to an automated storage and retrieval system (AS/RS). While the WMS remains the system of record for the inventory, it doesn’t care where the AS/RS stores the inventory within its grid or how it retrieves it. In black-box integrations like this, the WMS typically communicates through a warehouse control system (WCS), although this is not required, for sub-second decision-making. JDA’s WMS synchronizes all activities and maximizes asset utilization. It also has intelligent exception handling and embedded analytics to keep any disruptions to a minimum and help analyze deviations.
+- In directed integration, JDA’s WMS directly controls all workflows, with the MHE treated like any other storage location. The WMS not only is the system of record for all inventory, it also knows exactly where each inventory item is within the MHE. In directed integration, the WMS workflows may go through a WCS or go direct to the MHE. The WMS directly manages such actions as put-away, replenishment, picking and cycle counting. The WMS directly controls all inventory movement throughout the MHE and facility under this approach.
 
 **Micro-fulfillment Center (MFC)**: Micro-fulfillment refers to the process of utilizing small-scale automated fulfillment centers strategically located near urban areas to facilitate rapid order processing and delivery. Equipped with advanced robotics, conveyor systems, and software algorithms, these compact facilities efficiently pick, pack, and dispatch orders in a fraction of the time it takes traditional warehouses. For more info refer to [this link](https://www.dropoff.com/blog/micro-fulfillment/)
 
@@ -92,11 +95,21 @@ For vendors who have automated this process are:
 - *Manual Allocation*: A warehouse manager can assign inventory to an open order automatically when it's received or when a line item is entered.
 - *Automated/Semi-automated*: order allocation engines can use AI to make recommendations, analyze data in real-time, and create and adjust allocation rules, example: [Fujitsu's Glovia OM](https://www.fujitsu.com/us/microsite/gloviaom/solutions/intelligent-order-allocation-engine/). 
 
-**Order Management System**: It is an IT system which manages orders. (TODO)
+**Order Management System (OMS)**: OMS platforms provide a single, centralized system for managing orders from multiple sales channels, include brick-and-mortar locations, websites, call centers, mobile orders, kiosks and more. It simplifies the buying process for customers, and makes it easier to manage orders, inventory, fulfillment and returns for businesses. For more info, refer to [this link](https://www.netsuite.com/portal/resource/articles/erp/what-is-oms.shtml)
 
 **Packer**: It is a person who packs the products that are in a specific fulfillment order.
 
-**Parcel manifesting**: TODO. This is a WMS feature.
+**Pallet**: A platform designed to be loaded with packages and moved by a forklift.
+
+**Pallet Jack**: A type of material handling equipment that combines pallets horizontally but has no lifting capability.
+
+**Pallet Positions**: A calculation that determines the space needed for the number of pallets for inventory storage or transportation based on a standard pallet size. Pallet dimensions vary around the globe but are typically constant in regional markets. The term is frequently used to quote storage and transportation rates.
+
+**Pallet Rack**: A single- or multiple-level structure for storage used to support high stacking of palletized loads.
+
+**Pallet Ticket**: A label to track pallet-sized quantities of end-items produced that identifies the specific sublot with specifications determined by periodic sampling and analysis during production.
+
+**Parcel Manifesting**: TODO. This is a WMS feature.
 
 **Packing**: The act of packing a fulfillment order with the products in that order. This is a WMS feature.
 
@@ -111,6 +124,8 @@ For vendors who have automated this process are:
 **Picking**: The act of picking the products required for a fulfillment order in the required quantity. There are different ways in which picking can be done such as [zone picking](#zone-picking), etc. and are explained [here](https://6river.com/types-of-warehouse-order-picking-systems/). This is a warehouse operation.
 
 **Picking and Pass**: A process in which forward piece-picking locations are grouped into zones, and operators in each zone pick items into a carton or tote in their zones, and then “pass” the carton or tote to a picker in the next zone, often assisted by a roller conveyor. This is a WMS operation.
+
+**Piece Picking**: Piece picking is an order picking process in which the individual items of an order are picked and then placed in a container or carton before shipping them to the customers. Order picking is a labor-intensive process that comprises as much as 55% of a warehouse or distribution center’s total operating expenses. So, choosing the right picking method is crucial. Generally, piece picking operations are carried out in warehouses where large quantities of goods are stored before their export or sale. For more info, refer to [this link](https://6river.com/what-is-piece-picking/).
 
 **Putaway**: Putaway is a process that involves receiving inventory in a warehouse or distribution center, organizing it, and then storing it in its designated location. The goal is to ensure that the right items are stored in the optimal storage location and that they are easily accessible when needed. Putaway is a key component of an effective warehouse inventory management system and it can have a major impact on how quickly goods are located and retrieved. For more info, refer to [this link](https://www.cadretech.com/blog/warehouse-putaway-process).
 
@@ -130,9 +145,9 @@ For best practices in the receiving process, watch [this video (7 mins)](https:/
 
 - [Vimaan Automates the Warehouse Inbound/Receiving Process](https://vimaan.ai/warehouse-receiving/)
 
-**Replenishment**: Replenishment is a process where stocks stored at non-pickface locations(also referred to as reserved locations or bulk locations) are sent to the pickface locations within the warehouse. A pickface(also referred to as a Forward Location) is a location set up for loose picking. This is a WMS feature.
+**Replenishment**: Replenishment is a process where stocks stored at non-pickface locations(also referred to as reserved locations or bulk locations) are sent to the pickface locations within the warehouse. A pickface(also referred to as a Forward Location) is a location set up for loose picking. This is a WMS feature. To know more, refer to [this link](https://www.autostoresystem.com/insights/warehouse-inventory-replenishment-and-why-its-mandatory).
 
-**Return Management**: This is a warehouse operation. TODO
+**Return Management**: Returns management is the systematic approach for dealing with customer returns. It ensures efficiency, customer satisfaction, and cost-effectiveness. Returns Management focuses on the efficient handling and processing of customer returns. It is essential for merchants as it directly impacts customer experience, operations efficiency, and business profitability. Managing a return across the full life cycle includes RMA authorization and validation. The final return resolution can be a refund, exchange, store credit, or even a warranty return. Efficient returns management is crucial for maintaining positive customer relationships and loyalty. By providing a seamless and hassle-free returns process, merchants can enhance customer satisfaction and trust. This is a warehouse operation. For more info, refer to [this link](https://www.returnlogic.com/returns-management-software/)
 
 **Supply Chain Operations Reference (SCOR)**: It is a standard from the [Association for Supply Chain Management (ASCM)](https://www.ascm.org/). SCOR is a hierarchical process model. SCOR is not a static set of standards. [SCOR DS](https://www.ascm.org/corporate-solutions/standards-tools/scor-ds), our newest iteration, is open-access and [fully digital](https://scor.ascm.org/). It is even more comprehensive than previous versions with the inclusion of sustainability standards and supply-chain orchestration enablers. SCOR DS shifts thinking from a linear supply chain model to a more synchronous network.
 
@@ -144,15 +159,13 @@ For best practices in the receiving process, watch [this video (7 mins)](https:/
 
 **Slotting**: Warehouse slotting is the step by step process of analyzing inventory data for the purpose of categorizing and organizing inventory throughout a warehouse or distribution center. The purpose of slotting your warehouse is to maximize the overall efficiency of your operations. By maximizing space utilization and reducing inventory handling, you'll see an increase in productivity and a strategic workflow throughout your facility. For more info, refer to [this link](https://us.blog.kardex-remstar.com/warehouse-slotting-strategies-best-practices). This is a WMS feature for warehouse planning or configuration.
 
-**Staging**: TODO. This is a WMS feature.
-
 **Stock-out**: It is the condition of a product going out-of-stock.
 
 **Stock locating**: TODO. This is a WMS feature.
 
 **Task Allocation**: It is the function of allocating or assigning tasks to operators and other automation equipments in the warehouse.
 
-**Task Interleaving**: TODO. This is a WMS feature.
+**Task Interleaving**: Task interleaving consists of combining two or more tasks on a single run through the warehouse. Task interleaving makes it possible, for instance, for pickers to retrieve the SKUs they need to put together an order and to then take advantage of the trip back to replenish a product. This strategy includes all types of logistics activity, from order picking to inventory and goods replenishment operations. The main aims of task interleaving are to increase warehouse productivity and reduce deadheading (unproductive travel). By combining two or more tasks, operators make the most of their trips, cutting down on unnecessary movements. To know more, refer to [this link](https://www.mecalux.com/blog/task-interleaving-warehouse).
 
 **Third Party Logistics (3PL) Billing**: TODO. This is a WMS feature.
 
@@ -162,9 +175,9 @@ For best practices in the receiving process, watch [this video (7 mins)](https:/
 - Outbound load planning optimization
 - Routing
 
-**Truck Loading**: TODO. This is a WMS feature.
+**Truck Loading**: Truck loading constitutes the process by which products are placed on a vehicle in order to be transported to their destination (a distribution center, another warehouse, or directly to the end customer). It’s vital to make sure that the weight distribution in the truck is correct and, particularly, that there are no mistakes in the goods dispatched or assigned. Properly loading goods onto a truck is a complex process, especially when faced with increasingly varied packaging, unit loads, and transportation modes. Software and digitalisation are the solution to this issue, as they help to automate a large part of this process, making it quicker and more effective. This is a WMS feature. To know more, refer to [this link](https://www.mecalux.com/blog/truck-loading-software).
 
-**Voice Picking**: TODO (ref. 2 part 4). This is a WMS feature.
+**Voice Picking**: Voice picking, also known as voice-directed warehousing (VDW), is a system that uses voice prompts to help warehouse workers pick items. It works by using speech recognition software to translate picking orders into voice instructions. These instructions guide workers to the correct locations and items, and they can confirm their actions verbally. (ref. 2 part 4). This is a WMS feature. For more info, refer to [this link](https://www.lucasware.com/voice-picking-introduction/) and [this link](https://www.autostoresystem.com/insights/what-is-voice-picking-a-fading-trend)
 
 **Warehouse**: It is a physical building which stores products in containers & racks. There can many such warehouses in a place from which orders are fulfilled. A warehouse is also called a **Distribution Center**.
 
@@ -193,9 +206,11 @@ For best practices in the receiving process, watch [this video (7 mins)](https:/
 
 Wave picking is useful for both low-pick and high-pick operations. For low-pick operations, wave picking reduces the number of trips workers take back and forth. For high-pick operations, warehouse managers couple wave picking with zone picking to run the most efficient workflow possible. For more info, refer to [this link](https://www.logiwa.com/blog/warehouse-wave-picking).
 
-**Wave Planning/Management**: TODO. This is a WMS feature.
+**Wave Planning/Management**: A process and WMS capability in which groups of orders from the overall order pool are selected for processing (order picking) based on attributes of the orders. For example, pick “waves” might be based on outbound carrier schedules, order priority, store groups in retail or many other variables. In advanced Warehouse Management solutions, wave selection criteria can be pre-configured and automatically released based on a schedule. The WMS should also be able to trigger needed forward pick replenishments for the wave before it is released, and to balance work in creating the wave between different processing areas, such piece and case picking. There should also be flexibility in working across waves as needed, without needing to complete one wave before the next is released. For more info, refer to [this link](https://www.yash.com/blog/sap-ewm-with-wawe-management/).
 
-**Yard Management**: Yard management is the act of planning, controlling, organizing, and guiding vehicles, containers, and other methods of transport to the optimal dock or location in the yard of a distribution center or warehouse to efficiently move goods from the warehouse to the point of transportation. When executed properly, it optimizes the flow of vehicles and cargo within the on-premises yard. This is an optional warehouse operation. For more info, refer to [this link](https://www.manh.com/our-insights/resources/articles/what-is-yard-management).
+**Workstation/Ports**: Place where manual labourer does the tasks assigned to each one of them. For moreinfo, refer to [this link](https://www.autostoresystem.com/system/workstations).
+
+**Yard Management**: Yard management is the act of planning, controlling, organizing, and guiding vehicles, containers, and other methods of transport to the optimal dock or location in the yard of a distribution center or warehouse to efficiently move goods from the warehouse to the point of transportation. When executed properly, it optimizes the flow of vehicles and cargo within the on-premises yard. This is an optional warehouse operation. For more info, refer to [this link](https://www.manh.com/our-insights/resources/articles/what-is-yard-management) and this [Fourkites' What is a Yard Management System?](https://www.fourkites.com/yard-management-system/).
 
 **Yard Management System (YMS)**: Yard Management System, or YMS is a software solution designed to monitor the movement of trailers in the yard and dock of a facility, distribution center, or warehouse. Yard Management Systems can create valuable opportunities for agility and efficiency by filling the visibility gaps in your operations between transportation and warehouse. For more info, refer to this link](https://www.fourkites.com/yard-management-system/).
 
@@ -204,6 +219,7 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 ### References to WMS/TMS/YMS Vendor APIs
 
 1. [Oracle Cloud WMS REST API Guide, Release 24B](https://docs.oracle.com/en/cloud/saas/warehouse-management/24b/owmre/change-history.html#u30239948)
+1. [DHL Transportation Management API](https://developer.dhl.com/api-reference/transportation-management)
 
 ### References
 
@@ -219,4 +235,7 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 1. [Inventory Management KPIs Guide](https://www.shipbob.com/inventory-kpis/), defines 11 KPIs
 1. [What is a Warehouse Management System (WMS)? Insights for 2024](https://www.shopify.com/enterprise/blog/warehouse-management-system)
 1. [Modern Materials Handling Magazine](https://www.mmh.com/archive/magissue/mmh_september_2024)
+1. [Inbound Logistics Magazine, Digital Edition](https://www.inboundlogistics.com/digital-editions/)
 1. [Warehousing Processes](https://www.inboundlogistics.com/articles/warehousing-process/), inboundlogistics.com
+1. [TMS Guide 2023](https://www.inboundlogistics.com/articles/tms-guide-2023/), inboundlogistics.com
+

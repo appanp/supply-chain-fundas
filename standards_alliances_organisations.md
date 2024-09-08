@@ -10,6 +10,8 @@
 1. [SCOR Digital Standard - Quick Reference Guide](https://www.ascm.org/globalassets/documents--files/corporate-transformation/scor-ds-digital-guide_final.pdf), ASCM, 2022
 1. [SCOR v12 - Quick Reference Guide](https://www.apics.org/docs/default-source/scor-p-toolkits/apics-scc-scor-quick-reference-guide.pdf), APICS, 2017
 1. [SCOR DS - Introduction](https://www.ascm.org/globalassets/ascm_website_assets/docs/intro-and-front-matter-scor-digital-standard2.pdf), ASCM
+1. [SCOR DS - Information Model](https://scor.ascm.org/api/files/25?v=1725796233848), ASCM, 2020
+1. [Digital capabilities model for supply networks](https://dcm.ascm.org/) - online
 1. [SCOR DS compared with SCOR v12](https://www.ascm.org/globalassets/ascm_website_assets/img/corp-dev/scor_crosswalk.pdf), ASCM, 2022
 1. [ANSI ICWM-2018 - Vocabulary, Performance and Testing Requirements for Casters and Wheels](https://s3.us-east-1.amazonaws.com/fonteva-customer-media/00D3h000005U9EzEAK/rZbPasEB_10012_pdf), download for free
 1. [ANSI MH10.8.17-2017 - Item Unique Identification (IUID) Data Matrix Encoding Guideline](https://s3.us-east-1.amazonaws.com/fonteva-customer-media/00D3h000005U9EzEAK/SCvKlJWs_10223_pdf), download for free
