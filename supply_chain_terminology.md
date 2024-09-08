@@ -1,11 +1,13 @@
 ### TODOs
 
 - [ ] Complete the terms identified with a TODO - around 30+ of them.
-- [ ] Add the other terms if they are missing from [this link](https://www.inboundlogistics.com/articles/warehousing-process), warehouse/reailing related term in [Gartner glossary](https://www.gartner.com/en/information-technology/glossary), [Softeon glossary](https://www.softeon.com/glossary/) and [IBM WMS Glossary](https://www.ibm.com/docs/en/warehouse-management/9.5.0?topic=glossary)
+- [ ] Add the other terms if they are missing from [ASCM dictionary](https://www.ascm.org/learning-development/certifications-credentials/dictionary/), warehouse/reailing related term in [Gartner glossary](https://www.gartner.com/en/information-technology/glossary), [Softeon glossary](https://www.softeon.com/glossary/) and [IBM WMS Glossary](https://www.ibm.com/docs/en/warehouse-management/9.5.0?topic=glossary)
 
 ### Terminology
 
-**Advance Shipping Notification (ASN)**: It is an electronic data interchange (EDI) message sent from the shipper to the receiver prior to the departure of the shipment from the shipper’s facility. The message includes complete information about the shipment and its contents. In today’s environment, this message is more often an “as shipped notice” sent after the departure of the shipment.After receiving an order and preparing a shipment, the sellers or shippers then need to let the buyer, such as a retailer or distributor, know the details for the shipment they are about to receive. This helps the buyer to plan ahead for incoming shipments, reconcile EDI 856 detail with incoming inventory, and automate receiving workflows. For more info refer to [this link](https://www.gartner.com/en/information-technology/glossary/asn-advanced-shipment-notice "EDI856 is an imortant & frequently used transaction among suppliers, distributors, manufacturers and retailers")
+**Advance Shipping Notification (ASN)**: It is an electronic data interchange (EDI) message sent from the shipper to the receiver prior to the departure of the shipment from the shipper’s facility. The message includes complete information about the shipment and its contents. In today’s environment, this message is more often an “as shipped notice” sent after the departure of the shipment.After receiving an order and preparing a shipment, the sellers or shippers then need to let the buyer, such as a retailer or distributor, know the details for the shipment they are about to receive. This helps the buyer to plan ahead for incoming shipments, reconcile EDI 856 detail with incoming inventory, and automate receiving workflows. 
+- For more info refer to [this link](https://www.gartner.com/en/information-technology/glossary/asn-advanced-shipment-notice "EDI856 is an important & frequently used transaction among suppliers, distributors, manufacturers and retailers")
+- [EDI 856 message details with sample](https://www.truecommerce.com/edi-transaction-codes/edi-856)
 
 **Areas in a Warehouse**: Warehouse areas refer to the specific zones reserved for particular activities such as receiving, storage, order picking and shipping, among others. Each area has a special purpose and is designed to facilitate the flow of materials and products within the facility. For more info, refer to [this link](https://www.mecalux.com/blog/warehouse-areas). There are usually _five areas_ in a warehouse which are the following:
 
@@ -84,7 +86,11 @@ For vendors who have automated this process are:
 
 **Multicarrier Shipping**: At its core, multi-carrier shipping is a B2B logistics operation that involves utilizing multiple carriers to deliver packages. Unlike traditional methods, this approach allows businesses to compare rates, transit times, and routes, optimizing the selection of carriers based on specific package requirements. Multi-carrier shipping solutions, such as those offered by ClickPost and Aftership, use advanced technologies like AI-driven engines and API integrations to streamline the order creation, tracking, and management processes. For more info, refer to [this link](https://www.dropoff.com/blog/multi-carrier-shipping/).
 
-**Order Allocation**: TODO. This is a WMS feature.
+**Order Allocation**: Order allocation in a warehouse is the process of assigning available inventory to customer orders in the most efficient and profitable way. This is a OMS feature. A few point sto note about allocation are:
+- *Allocation rules*: Rules can include priority settings for each warehouse or other criteria such how quickly the products in the order can be fulfilled depending on the order priority, etc.
+- *Allocation types*: There are different types of allocation, including single warehouse, optional, preferred, and required.
+- *Manual Allocation*: A warehouse manager can assign inventory to an open order automatically when it's received or when a line item is entered.
+- *Automated/Semi-automated*: order allocation engines can use AI to make recommendations, analyze data in real-time, and create and adjust allocation rules, example: [Fujitsu's Glovia OM](https://www.fujitsu.com/us/microsite/gloviaom/solutions/intelligent-order-allocation-engine/). 
 
 **Order Management System**: It is an IT system which manages orders. (TODO)
 
@@ -128,7 +134,9 @@ For best practices in the receiving process, watch [this video (7 mins)](https:/
 
 **Return Management**: This is a warehouse operation. TODO
 
-**Shipping Execution**: It is an IT system which does the following:
+**Supply Chain Operations Reference (SCOR)**: It is a standard from the [Association for Supply Chain Management (ASCM)](https://www.ascm.org/). SCOR is a hierarchical process model. SCOR is not a static set of standards. [SCOR DS](https://www.ascm.org/corporate-solutions/standards-tools/scor-ds), our newest iteration, is open-access and [fully digital](https://scor.ascm.org/). It is even more comprehensive than previous versions with the inclusion of sustainability standards and supply-chain orchestration enablers. SCOR DS shifts thinking from a linear supply chain model to a more synchronous network.
+
+**Shipping Execution**: For Oracle specific documentation on shipping execution, refer [this user guide](https://docs.oracle.com/cd/E26401_01/doc.122/e48847/toc.htm). It is an IT system which does the following:
 
 - Printing care-compliant label
 - Printing of standard bill of lading
@@ -193,7 +201,7 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 
 **Zone Picking**: This is one type of picking operation. Zone picking involves workers dedicated to a specific section passing order totes from one zone to the next.
 
-### References to WMS Vendor APIs
+### References to WMS/TMS/YMS Vendor APIs
 
 1. [Oracle Cloud WMS REST API Guide, Release 24B](https://docs.oracle.com/en/cloud/saas/warehouse-management/24b/owmre/change-history.html#u30239948)
 
@@ -211,3 +219,4 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 1. [Inventory Management KPIs Guide](https://www.shipbob.com/inventory-kpis/), defines 11 KPIs
 1. [What is a Warehouse Management System (WMS)? Insights for 2024](https://www.shopify.com/enterprise/blog/warehouse-management-system)
 1. [Modern Materials Handling Magazine](https://www.mmh.com/archive/magissue/mmh_september_2024)
+1. [Warehousing Processes](https://www.inboundlogistics.com/articles/warehousing-process/), inboundlogistics.com
