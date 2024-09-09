@@ -1,9 +1,24 @@
 ### TODOs
 
-- [ ] Complete the terms identified with a TODO - around 30+ of them.
+- [x] Complete the terms identified with a TODO.
 - [ ] Add the other terms if they are missing from [ASCM dictionary](https://www.ascm.org/learning-development/certifications-credentials/dictionary/), warehouse/reailing related term in [Gartner glossary](https://www.gartner.com/en/information-technology/glossary), [Softeon glossary](https://www.softeon.com/glossary/) and [IBM WMS Glossary](https://www.ibm.com/docs/en/warehouse-management/9.5.0?topic=glossary)
+    * One more list of terms or glossary on [3PL logistics](https://www.speedcommerce.com/3pl-glossary/)
+    * Since the ASCM dictionary include the whole of supply chain, it is not considered - some definitions are copied from that reference.
 
 ### Terminology
+
+**Advanced Cartonization**: Cartonization is the process of finding the best way to package items for shipping. By evaluating the size, shape and weight of each item, cartonization can speed up order delivery and increase profitability. Imagine a warehouse, pickers are on the floor going from location to location picking one or two orders into totes. When complete they walk to a pack station and drop off the materials to be packed and ship. Rinse and repeat. This strategy requires a lot of labor and can lead to unacceptable error rates. There is also a good chance the company is losing money in shipping by not taking advantage of the dimensional (DIM) weight protocols. Using advanced cartonization (also called pick to box) in a warehouse can take the guesswork out of the DIM weight rules before a single item is picked. For more info, refer to [this link](https://hy-tek.com/resources/advanced-cartonization/).
+
+Advantages of advanced cartonization are:
+- System-directed box selection
+- 100% vendor and carrier-compliant labeling
+- Reduces shipping costs
+- Minimizes empty spaces in cartons
+- Reduces material waste and packing inefficiencies
+- Reduces labor needs
+- Elimination of packing stations
+- Maximizes orders per truckload
+- Give you the ability to pack orders together (EX: You order items from Amazon on Monday and add another item Tuesday to a separate order. The system can understand that the order is going to the same shipping address and can cartonize them together).
 
 **Advance Shipping Notification (ASN)**: It is an electronic data interchange (EDI) message sent from the shipper to the receiver prior to the departure of the shipment from the shipper’s facility. The message includes complete information about the shipment and its contents. In today’s environment, this message is more often an “as shipped notice” sent after the departure of the shipment.After receiving an order and preparing a shipment, the sellers or shippers then need to let the buyer, such as a retailer or distributor, know the details for the shipment they are about to receive. This helps the buyer to plan ahead for incoming shipments, reconcile EDI 856 detail with incoming inventory, and automate receiving workflows. 
 - For more info refer to [this link](https://www.gartner.com/en/information-technology/glossary/asn-advanced-shipment-notice "EDI856 is an important & frequently used transaction among suppliers, distributors, manufacturers and retailers")
@@ -26,11 +41,16 @@
 
 **Barcode**: Barcode is used to encode data in a format which can be easily scanned by scanner for automation. In a warehouse, it is used to identify things and locations.
 
-**Barcode Symbology**: It refers to the sandards used to encode data in a barcode. There are two main types: 1D and 2D. A short list of the barcode standards are listed below, For more info, refer to [this link](https://www.zebra.com/ap/en/resource-library/faq/what-is-barcode-symbology.html) and [this link](https://www.scandit.com/resources/guides/types-of-barcodes-choosing-the-right-barcode/ "Types of barcodes - choosing the right barcode")
+**Barcode Symbology**: It refers to the sandards used to encode data in a barcode. There are two main types: 1D and 2D. A short list of the barcode standards are listed below, For more info, refer to [this link](https://www.zebra.com/ap/en/resource-library/faq/what-is-barcode-symbology.html).
 
-**Barcode Symbology Standards**: C128, Code 3 of 9, 205? (TODO correct this)
+**Barcode Symbology Standards**: There are around 30 barcode symbology types currently in use, but some are used much more often than others. Some of the  most common types are listed below. For more info, refer to [this link](https://www.scandit.com/resources/guides/types-of-barcodes-choosing-the-right-barcode/ "Types of barcodes - choosing the right barcode")
+- UPC barcodes are used to label and scan consumer goods at points of sale around the world – mainly in the United States.
+- EAN barcodes are also used to label consumer goods worldwide for point-of-sale scanning, primarily in Europe. They look very similar to UPC codes, and the main distinction is their geographical application. While EAN-13 (comprising 13 digits) is the default form factor, you’ll find EAN-8 (covering eight digits) barcodes on products where space is limited, like small candies.
+- Code 39 barcodes (or Code 3 of 9) are used to label goods across many industries and are often found in the automotive industry and the U.S. Department of Defense. It enables the use of both digits and characters, and its name originates in the fact that it could only encode 39 characters – though in its most recent version, the character set has been increased to 43. It’s similar to, but not as compact as, the Code 128 barcode.
+- GS1 DataBar barcodes (formerly known as Reduced Space Symbology) are used by retail outlets to identify consumer coupons, produce and perishables, as well as small objects in the healthcare industry. They are more compact than typical consumer-facing barcodes. GS1 DataBar was introduced in 2001 and has become the mandated barcode type for retail coupons in the U.S.
+- PDF417 codes are used for applications that require the storage of huge amounts of data, such as photographs, fingerprints and signatures. They can hold over 1.1 kilobytes of machine-readable data, making them much more powerful than other 2D barcodes. Like QR codes, PDF417 barcodes are public domain and free to use.
 
-**Batch Picking**: This is one type of Picking operation. Batch picking involves a worker moving through the warehouse collecting goods for several orders at once.
+**Batch Picking**: This is one type of Picking operation. Batch picking involves a worker moving through the warehouse collecting goods for several orders at once. For more info, refer to [this link](https://www.mecalux.com/blog/batch-picking-definition).
 
 **Cart Staging**: These are intermediate areas in the picking area where the carts are kept temporarily to be moved to another place. Refer to [this link](https://www.tractonomy.com/kit-carts-to-assembly-lines/) on Autonomous Towing Robots (ATRs) help in moving the carts between the picking/staging area and the shipping area.
 
@@ -49,7 +69,9 @@ For vendors who have automated this process are:
 
 **Distributed Order Management**: The practice of overseeing the shipment of materials and finished goods from multiple distribution points or suppliers to customer locations in an effort to reduce lead times, lower the cost of transportation, and meet non-forecasted demand by providing multiple delivery options to the planner.
 
-**Dock appointment Scheduling**: This is a WMS feature.
+**Dock Appointment Scheduling (DAS)**: Planning of vehicle arrivals at the warehouse, loading and unloading of the vehicles is important for managing the efficient running of the warehouse and for balancing the workload across the working day. SAP Dock Appointment Scheduling is used to plan vehicle arrival in your warehouses efficiently and allows the carriers to enroll their transportation units for the yard and to book time slots for un- and uploading. In side Yard Logistics, the process starts with the planning document i.e. yard request (YR). This is a WMS feature. For more info, refer to [this link](https://www.dashdoc.com/en-US/blog/trends-dock-appointment) and [this SAP EWM video](https://www.youtube.com/watch?v=845GtJ5Eszo).
+
+**Flexible Path Equipment**: Material handling equipment such as forklifts that are not required to follow fixed paths.
 
 **Fulfillment Center (FC)**: Another name for Distribution Center. There are different types depending on their location, size & purpose:
 
@@ -77,16 +99,22 @@ For vendors who have automated this process are:
 
 **Location Management**: It is a type of inventory management system. It is an integral part of warehouse management that works at the core of a warehouse or distribution center. The available software solutions help you navigate across the storage to fetch, store, or transfer items based on their location on a shelf, also known as a bin. It is therefore also called bin location management. This warehouse location system works by comparing the specifications of the stock against the specifications of the storage space, allowing it to store any given size of stock in the best space-saving manner. For example, it may take the dimensions and handling of the item, compare it to the dimensions and types of pallets, and set an appropriate storage location. Small but unrelated items might be stocked together to fill a smaller space so that the package does not take up a larger space where another larger item could be stored. This is a WMS feature.
 
-**Material Handling Equipment (MHE)**: TODO
+**Materials Handling**: The movement and storage of goods inside the distribution center. This represents a capital cost and is balanced against the operating costs of the facility.
+
+**Material Handling Equipment (MHE)**: Mechanical equipment used in production or warehousing and distribution centers to move, store, control, and protect materials and goods during manufacturing, distribution, consumption, and disposal. See: materials handling, materials-handling system, flexible path equipment.
+
+**Materials Handling System**: The system of transportation that receives, moves, and delivers materials during the production or distribution process.
 
 **MHE Interface/Integration**: For controling the MHEs, the WMS has to either directly control or communicate with WCS/WES to control them. For more info, refer to [this link](https://www.warehouse-logistics.com/Download/Flyer/JDA-Material-Handling-Integration_Brochure.pdf)
 - A black-box integration involves handing off a request to the MHE and receiving a response without controlling how the MHE executes the request. An example would be for the WMS to make a pick request to an automated storage and retrieval system (AS/RS). While the WMS remains the system of record for the inventory, it doesn’t care where the AS/RS stores the inventory within its grid or how it retrieves it. In black-box integrations like this, the WMS typically communicates through a warehouse control system (WCS), although this is not required, for sub-second decision-making. JDA’s WMS synchronizes all activities and maximizes asset utilization. It also has intelligent exception handling and embedded analytics to keep any disruptions to a minimum and help analyze deviations.
 - In directed integration, JDA’s WMS directly controls all workflows, with the MHE treated like any other storage location. The WMS not only is the system of record for all inventory, it also knows exactly where each inventory item is within the MHE. In directed integration, the WMS workflows may go through a WCS or go direct to the MHE. The WMS directly manages such actions as put-away, replenishment, picking and cycle counting. The WMS directly controls all inventory movement throughout the MHE and facility under this approach.
+- SAP EWM: They have defined a [Extended Warehouse Management (EWM) - warehouse control units interface(EWM-WCU 1.0)](https://www.sap.com/documents/2022/09/5c25828c-417e-0010-bca6-c68f7e60039b.html) for other MHE vendors to integrate. A few notable integrations are listed below:
+    * 
 
 **Micro-fulfillment Center (MFC)**: Micro-fulfillment refers to the process of utilizing small-scale automated fulfillment centers strategically located near urban areas to facilitate rapid order processing and delivery. Equipped with advanced robotics, conveyor systems, and software algorithms, these compact facilities efficiently pick, pack, and dispatch orders in a fraction of the time it takes traditional warehouses. For more info refer to [this link](https://www.dropoff.com/blog/micro-fulfillment/)
 
-**Multicarrier Parcel Management**: TODO
-
+**Multicarrier Parcel Management (MCPM)**: Multicarrier parcel management solutions help companies select the most appropriate parcel carrier from among all contracted carriers. This selection is based on order characteristics (such as weight and dimensional properties), delivery rules (such as delivery time and delivery zone) and carrier performance, while considering the cost differentials of various carrier offerings. These tools also enable shippers and 3PLs to manage the creation of labels, create shipper manifests, provide status messages to customers or customer service representatives, and manage carrier rates.
+- 
 **Multicarrier Shipping**: At its core, multi-carrier shipping is a B2B logistics operation that involves utilizing multiple carriers to deliver packages. Unlike traditional methods, this approach allows businesses to compare rates, transit times, and routes, optimizing the selection of carriers based on specific package requirements. Multi-carrier shipping solutions, such as those offered by ClickPost and Aftership, use advanced technologies like AI-driven engines and API integrations to streamline the order creation, tracking, and management processes. For more info, refer to [this link](https://www.dropoff.com/blog/multi-carrier-shipping/).
 
 **Order Allocation**: Order allocation in a warehouse is the process of assigning available inventory to customer orders in the most efficient and profitable way. This is a OMS feature. A few point sto note about allocation are:
@@ -109,13 +137,15 @@ For vendors who have automated this process are:
 
 **Pallet Ticket**: A label to track pallet-sized quantities of end-items produced that identifies the specific sublot with specifications determined by periodic sampling and analysis during production.
 
-**Parcel Manifesting**: TODO. This is a WMS feature.
+**Parcel Manifest System**: It is used by shipping companies and carriers to create, manage, and transmit manifests containing detailed information about packages, shipments, and their contents for tracking and regulatory compliance purposes. A parcel manifest system is a comprehensive electronic tracking and management system designed to streamline the handling and tracking of parcels throughout their journey in the shipping and logistics industry. This system serves as a centralized database that stores detailed information about each parcel, including its origin, destination, contents, weight, and shipping status. By utilizing barcodes, QR codes, or other unique identifiers, the Parcel Manifest System enables real-time tracking and monitoring of parcels at various stages of the shipping process, from dispatch to delivery. This not only enhances the efficiency of the shipping process but also provides transparency for both shippers and recipients. For more info, refer to [this link](https://www.speedcommerce.com/what-is/parcel-manifest-system). This is a WMS feature.
 
 **Packing**: The act of packing a fulfillment order with the products in that order. This is a WMS feature.
 
 **Person-to-Goods (P2G or PTG)**: As the name suggests, Person-to-Goods picking involves workers traveling the aisles of a warehouse or retail facility to manually select items for an order and then bringing them to an area for packing. Today, many Autonomous Mobile Robots (AMR) solutions on the market are based on Person-to-Goods fulfillment and operate as smart carts powered by software. The order picker meets the robot at the pick site, removes items from the shelf, puts them into the smart cart, then each proceeds separately to another pick location. People walk less because they tend to concentrate on a warehouse zone, say an aisle or two, which means less foot travel. The smart carts handle most of the travel including the longer return route to the packing station when all items in the order have been picked.
 
 **Picker**: It is a person who does the picking of items to be packed.
+
+**Pick-to-Box**: Pick-to-box is an order picking technique that consists of retrieving goods from their locations and consolidating several orders at the same time. That is, operators place products directly in the boxes that will be sent to end customers. With this method, three processes are carried out at once: order picking, consolidation and packing. For more info, refer to [this link](https://www.mecalux.com/blog/pick-to-box)
 
 **Pick-to-Light System**: Pick to light is a type of order-fulfillment technology designed to improve picking accuracy and efficiency, while simultaneously lowering your labor costs. Notably, pick to light is paperless; it employs alphanumeric displays and buttons at storage locations, to guide your employees in light-aided manual picking, putting, sorting, and assembling.
 
@@ -161,13 +191,13 @@ For best practices in the receiving process, watch [this video (7 mins)](https:/
 
 **Stock-out**: It is the condition of a product going out-of-stock.
 
-**Stock locating**: TODO. This is a WMS feature.
+**Stock locating**: It is the process the locating the SKUs that are to be shipped in an order and it is required before a picking task is done. This is a WMS feature (Inventory Management).
 
 **Task Allocation**: It is the function of allocating or assigning tasks to operators and other automation equipments in the warehouse.
 
 **Task Interleaving**: Task interleaving consists of combining two or more tasks on a single run through the warehouse. Task interleaving makes it possible, for instance, for pickers to retrieve the SKUs they need to put together an order and to then take advantage of the trip back to replenish a product. This strategy includes all types of logistics activity, from order picking to inventory and goods replenishment operations. The main aims of task interleaving are to increase warehouse productivity and reduce deadheading (unproductive travel). By combining two or more tasks, operators make the most of their trips, cutting down on unnecessary movements. To know more, refer to [this link](https://www.mecalux.com/blog/task-interleaving-warehouse).
 
-**Third Party Logistics (3PL) Billing**: TODO. This is a WMS feature.
+**Third Party Logistics (3PL) Billing**: 3PL billing is the process of calculating charges for services provided to a client and generating an invoice. In a 3PL warehouse, the provided services may include warehousing, transportation, inventory management, order fulfillment, and value-added services. Accurate billing is essential to ensure transparent and accurate financial transactions and bookkeeping. It also facilitates effective revenue management to keep your company profitable. You can bill customers manually or leverage 3PL billing software built for making calculating, generating, issuing, and recording invoices easier. This is a WMS feature. For more info, refer to [this link](https://www.logiwa.com/blog/3pl-billing-automation).
 
 **Transportation Management System (TMS)**: It is an IT system which does the following:
 
@@ -178,6 +208,7 @@ For best practices in the receiving process, watch [this video (7 mins)](https:/
 **Truck Loading**: Truck loading constitutes the process by which products are placed on a vehicle in order to be transported to their destination (a distribution center, another warehouse, or directly to the end customer). It’s vital to make sure that the weight distribution in the truck is correct and, particularly, that there are no mistakes in the goods dispatched or assigned. Properly loading goods onto a truck is a complex process, especially when faced with increasingly varied packaging, unit loads, and transportation modes. Software and digitalisation are the solution to this issue, as they help to automate a large part of this process, making it quicker and more effective. This is a WMS feature. To know more, refer to [this link](https://www.mecalux.com/blog/truck-loading-software).
 
 **Voice Picking**: Voice picking, also known as voice-directed warehousing (VDW), is a system that uses voice prompts to help warehouse workers pick items. It works by using speech recognition software to translate picking orders into voice instructions. These instructions guide workers to the correct locations and items, and they can confirm their actions verbally. (ref. 2 part 4). This is a WMS feature. For more info, refer to [this link](https://www.lucasware.com/voice-picking-introduction/) and [this link](https://www.autostoresystem.com/insights/what-is-voice-picking-a-fading-trend)
+- [Almasons Voice Picking Solutions](https://almasons.com/voice-picking-solutions)
 
 **Warehouse**: It is a physical building which stores products in containers & racks. There can many such warehouses in a place from which orders are fulfilled. A warehouse is also called a **Distribution Center**.
 
@@ -238,4 +269,5 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 1. [Inbound Logistics Magazine, Digital Edition](https://www.inboundlogistics.com/digital-editions/)
 1. [Warehousing Processes](https://www.inboundlogistics.com/articles/warehousing-process/), inboundlogistics.com
 1. [TMS Guide 2023](https://www.inboundlogistics.com/articles/tms-guide-2023/), inboundlogistics.com
-
+1. [Different type of Staging Locations | Retail Warehouse Blueprint | Approach to D365 for Commerce with Adv WH Mgmt](https://sumitnarayanpotbhare.wordpress.com/2020/06/15/different-type-of-staging-locations-retail-warehouse-blueprint-approach-to-d365-for-commerce-with-adv-wh-mgmt/)
+1. [2024 Gartner® Market Guide for Multicarrier Parcel Management Solutions](https://nshift.com/2024-gartner-market-guide-for-multicarrier-parcel-management-solutions)
