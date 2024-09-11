@@ -6,7 +6,11 @@
 
 ## Standards
 
+1. [ISO/IEC 15438 - Automatic identification and data capture techniques - PDF417 bar code symbology specification](https://webstore.iec.ch/en/publication/23356), 2015
 1. [EDI Transaction Set - Quick Reference Guide](https://www.1edisource.com/resources/library/edi-transaction-guide/), 1EDISource, cross-1edi-source-quick-reference-guide-en-us.pdf, accessed 8th Sep, 2024
+1. [EPICS and CBV from GS1](https://www.gs1.org/standards/epcis)
+- EPCIS is GS1's flagship data sharing standard for enabling visibility, within organisations as well as across an entire supply chain of trading partners and other stakeholders. It helps provide the “what, when, where, why and how” of products and other assets, enabling the capture and sharing of interoperable information about status, location, movement and chain of custody.
+- The Core Business Vocabulary (CBV) is a companion standard which provides definitions of data values that may be used to populate the data structures defined in the EPCIS standard.
 1. [SCOR Digital Standard - Quick Reference Guide](https://www.ascm.org/globalassets/documents--files/corporate-transformation/scor-ds-digital-guide_final.pdf), ASCM, 2022
 1. [SCOR v12 - Quick Reference Guide](https://www.apics.org/docs/default-source/scor-p-toolkits/apics-scc-scor-quick-reference-guide.pdf), APICS, 2017
 1. [SCOR DS - Introduction](https://www.ascm.org/globalassets/ascm_website_assets/docs/intro-and-front-matter-scor-digital-standard2.pdf), ASCM
