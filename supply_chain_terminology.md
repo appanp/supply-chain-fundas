@@ -71,7 +71,7 @@ For vendors who have automated this process are:
 - Using drones for cycle counting of inventory - how the drone maker Verity used drones for Swiss shoe maker ON - [Inventory Tracking Solution a High-Flying Success](https://www.inboundlogistics.com/articles/inventory-tracking-solution-a-high-flying-success/), July 2024.
 - [Case Study: Revolutionizing Inventory Management for a Shoe Retailer](https://www.gather.ai/case-studies/managing-inventory-shoes), gather.ai
 
-**Directed putaway**: A putaway process in which the WMS determines where a given receipt of goods should be stored in the distribution center. Directed putaway is tightly connected to the concept of “zoning” in which storage locations are grouped together, examples being “fast-movers” or “HAZMAT” products. With directed putaway, companies use a WMS to configure a hierarchical set of rules to identify the best location to store a receipt of inventory. If there is no space available in the preferred zone (e.g., fast-movers), the WMS putaway process would look for the next best available zone (e.g., medium-movers). This is a warehouse operation. For more info, refer to [this link](https://www.softeon.com/glossary/directed-putaway/).
+**Directed Put-away**: A put-away process in which the WMS determines where a given receipt of goods should be stored in the distribution center. Directed put-away is tightly connected to the concept of “zoning” in which storage locations are grouped together, examples being “fast-movers” or “HAZMAT” products. With directed put-away, companies use a WMS to configure a hierarchical set of rules to identify the best location to store a receipt of inventory. If there is no space available in the preferred zone (e.g., fast-movers), the WMS put-away process would look for the next best available zone (e.g., medium-movers). This is a warehouse operation. For more info, refer to [this link](https://www.softeon.com/glossary/directed-putaway/).
 
 **Distributed Order Management**: The practice of overseeing the shipment of materials and finished goods from multiple distribution points or suppliers to customer locations in an effort to reduce lead times, lower the cost of transportation, and meet non-forecasted demand by providing multiple delivery options to the planner.
 
@@ -91,9 +91,13 @@ For vendors who have automated this process are:
 
 **Goods-to-Robot (GTR)**: The term goods-to-robot (GTR or G2R) refers to fully automated order picking with minimal human intervention. It’s considered an evolution of the goods-to-person system, where a picking robot is integrated to assist with order picking. Aided by computer vision software and a gripping device, these machines autonomously remove products from one box and place them into another. For more info, refer to [this link](https://www.mecalux.com/blog/goods-to-robot) and [this video](https://www.youtube.com/watch?v=N9p6eJ1mhqk).
 
+**Hard Allocation**: Hard Allocation: A type of allocation where specific inventory items are reserved for specific orders. Once inventory is hard allocated, it cannot be used to fulfill any other orders. If hard allocation is the hammer and nails of supply chain, soft allocation is like magnets and a whiteboard. While orders are being placed, you should be able to shift supply to demand as priorities change. Seeing the big picture — whether that’s by channel, customer, product, vendor, or other entities — is key to understanding and managing your supply chain for the best results. For more info, refer to [this link](https://sunrise.co/blog/soft-and-hard-allocation-understanding-the-difference), [this link](https://www.truecommerce.com/blog/inventory-allocation-hard-vs-soft/) and [this link](https://factech.co.in/blog/hard-vs-soft-inventory-allocation/).
+
 **Inspection for Quality Control**: The practice of inspecting goods upon receipt for any delivery discrepancies such as damage, incorrect quantity compared with purchase order or delivery paperwork, and incomplete or incorrect paperwork. This is a WMS feature.
 
 **Inventory Accuracy**: It is a metric that measures the difference between your records of warehouse stock and your real-life inventory. Inventory accuracy is critical for preventing stockouts, shortages, shrinkage, controlling inventory quality, and maintaining a positive customer experience. For more info, refer to [this link](https://claruswms.co.uk/inventory-accuracy-importance).
+
+**Inventory Allocation**: Having the right amount of inventory in the right places is a critical component of inventory management. Let’s say you’re a clothing retailer with multiple locations across the U.S. How do you make sure each one of your stores is sufficiently stocked to meet customer demand? Should each location carry equal amounts of the latest designer jeans, for example, or should more go to locations in colder climates? How much inventory should you keep in your warehouse to fulfill online orders? These decisions, and more, underscore the importance of a sound inventory allocation strategy. For more info, refer to [this link](https://www.netsuite.com/portal/resource/articles/inventory-management/inventory-allocation.shtml).
 
 **Inventory Management**: It is the act of managing the product inventory across warehouses and inside a single warehouse. Depending on the level of control, the specific locations of each SKU should be available in the inventory management module of WMS. This is a WMS feature.
 
@@ -125,7 +129,7 @@ As with vehicle license plates, a lot of different information can be associated
 
 **Materials Handling**: The movement and storage of goods inside the distribution center. This represents a capital cost and is balanced against the operating costs of the facility.
 
-**Material Handling Equipment (MHE)**: Mechanical equipment used in production or warehousing and distribution centers to move, store, control, and protect materials and goods during manufacturing, distribution, consumption, and disposal. See: materials handling, materials-handling system, flexible path equipment. Examples of MHEs are Autonomous Mobile Robots (AMRs), robotic picking, ASRS, and other high-density storage and picking systems. A few other MHE systems include sorters, pick-to-light, put-to-light, and in-motion scales.
+**Material Handling Equipment (MHE)**: Mechanical equipment used in production or warehousing and distribution centers to move, store, control, and protect materials and goods during manufacturing, distribution, consumption, and disposal. See: materials handling, materials-handling system, flexible path equipment. Examples of MHEs are Autonomous Mobile Robots (AMRs), robotic picking, ASRS, and other high-density storage and picking systems. A few other MHE systems include sorters, pick-to-light, put-to-light, conveyers, devices fitted to conveyer for scanning, etc. and in-motion scales.
 
 **Materials Handling System**: The system of transportation that receives, moves, and delivers materials during the production or distribution process.
 
@@ -153,7 +157,7 @@ As with vehicle license plates, a lot of different information can be associated
 
 **Packer**: It is a person who packs the products that are in a specific fulfillment order.
 
-**Pallet**: A platform designed to be loaded with packages and moved by a forklift.
+**Pallet**: A platform designed to be loaded with packages and moved by a forklift or AMRs depending on the load to be carried. For more info, refer to [this link](https://www.inboundlogistics.com/articles/pallets-backbone-of-the-warehouse).
 
 **Pallet Jack**: A type of material handling equipment that combines pallets horizontally but has no lifting capability.
 
@@ -205,7 +209,7 @@ For best practices in the receiving process, watch [this video (7 mins)](https:/
 
 **Return Management**: Returns management is the systematic approach for dealing with customer returns. It ensures efficiency, customer satisfaction, and cost-effectiveness. Returns Management focuses on the efficient handling and processing of customer returns. It is essential for merchants as it directly impacts customer experience, operations efficiency, and business profitability. Managing a return across the full life cycle includes RMA authorization and validation. The final return resolution can be a refund, exchange, store credit, or even a warranty return. Efficient returns management is crucial for maintaining positive customer relationships and loyalty. By providing a seamless and hassle-free returns process, merchants can enhance customer satisfaction and trust. This is a warehouse operation. For more info, refer to [this link](https://www.returnlogic.com/returns-management-software/)
 
-**Supply Chain Operations Reference (SCOR)**: It is a standard from the [Association for Supply Chain Management (ASCM)](https://www.ascm.org/). SCOR is a hierarchical process model. SCOR is not a static set of standards. [SCOR DS](https://www.ascm.org/corporate-solutions/standards-tools/scor-ds), our newest iteration, is open-access and [fully digital](https://scor.ascm.org/). It is even more comprehensive than previous versions with the inclusion of sustainability standards and supply-chain orchestration enablers. SCOR DS shifts thinking from a linear supply chain model to a more synchronous network.
+**Reverse Put-away**: The picking method that is the reverse of direct put-away in a warehouse management system is known as reverse put-away. While direct put-away involves moving goods directly from receiving to their final storage location, reverse put-away typically involves moving items to a temporary staging area or directly to the shipping docks if they are needed immediately for outgoing orders. This method is efficient in operations where inventory turnover is high, and products are dispatched soon after they are received. For more info, refer to [this link](https://support.unicommerce.com/index.php/knowledge-base/putaway-reverse-pickup-items-new-ux/) - specific to Unicommerce.
 
 **Shipping Execution**: For Oracle specific documentation on shipping execution, refer [this user guide](https://docs.oracle.com/cd/E26401_01/doc.122/e48847/toc.htm). It is an IT system which does the following:
 
@@ -217,13 +221,26 @@ For best practices in the receiving process, watch [this video (7 mins)](https:/
 
 **Slotting**: Warehouse slotting is the step by step process of analyzing inventory data for the purpose of categorizing and organizing inventory throughout a warehouse or distribution center. The purpose of slotting your warehouse is to maximize the overall efficiency of your operations. By maximizing space utilization and reducing inventory handling, you'll see an increase in productivity and a strategic workflow throughout your facility. For more info, refer to [this link](https://us.blog.kardex-remstar.com/warehouse-slotting-strategies-best-practices). This is a WMS feature for warehouse planning or configuration.
 
+A few of the vendors smart slotting solutions are listed below:
+- [Slotting IQ Infographic - Korber](https://library.ksc-s.com/m/20f798c09ad60e49/original/Slotting-IQ-Infographic.pdf) and [Slotting Solutions](https://www.koerber-supplychain-software.com/en/supply-chain-solutions/warehouse-management-systems/slotting-solutions)
+- [Slotting Software](https://www.lucasware.com/slotting/), [New AI-powered dynamic slotting simplifies warehouse reslotting with click of a button](https://www.lucasware.com/new-ai-powered-dynamic-slotting-simplifies-warehouse-reslotting-with-click-of-a-button/), Lucasware
+- [Optimizing the picking process using an AI-based slotting engine](https://datakulture.com/case-studies/optimizing-picking-process-using-ai-based-slotting-engine/), Datakulture Analytics Consulting
+
+**Soft Allocation**: This is one of the ways order is allocated with flexiility in mind. A WMS process in which orders are sent to the WMS from the ERP or other order management system, often days or weeks in advance of when they are needing to ship. Some WMS solutions are able to reserve inventory for those orders at a warehouse level, meaning it can prevent subsequent orders from “grabbing” that reserved inventory. That said, a WMS should have the flexibility in applying soft allocation, such as not reserving inventory shipping more than two weeks out, as that could cause nearer term orders to be short-shipped.
+
 **Stock-out**: It is the condition of a product going out-of-stock.
+
+**Stock Keeping Unit (SKU)**: A stock keeping unit is a unique code companies use to track products internally. Because businesses create their own individual SKUs, they are unique to each product and each company. Because SKUs are an internal tool, there are no official rules on how to develop or use them. However, you can learn from the best practices of industry leaders who have well-designed SKU systems that maximize efficiency and include all the key product data. A business often times refers to its sellable products as SKUs. For more info, refer to [this link](https://www.netsuite.com/portal/resource/articles/inventory-management/stock-keeping-unit-SKU.shtml).
+
+**Stock Allocation**: Also known as Inventory Allocation.
 
 **Stock locating**: It is the process the locating the SKUs that are to be shipped in an order and it is required before a picking task is done. This is a WMS feature (Inventory Management).
 
+**Supply Chain Operations Reference (SCOR)**: It is a standard from the [Association for Supply Chain Management (ASCM)](https://www.ascm.org/). SCOR is a hierarchical process model. SCOR is not a static set of standards. [SCOR DS](https://www.ascm.org/corporate-solutions/standards-tools/scor-ds), our newest iteration, is open-access and [fully digital](https://scor.ascm.org/). It is even more comprehensive than previous versions with the inclusion of sustainability standards and supply-chain orchestration enablers. SCOR DS shifts thinking from a linear supply chain model to a more synchronous network.
+
 **Task Allocation**: It is the function of allocating or assigning tasks to operators and other automation equipments in the warehouse.
 
-**Task Interleaving**: Task interleaving consists of combining two or more tasks on a single run through the warehouse. Task interleaving makes it possible, for instance, for pickers to retrieve the SKUs they need to put together an order and to then take advantage of the trip back to replenish a product. This strategy includes all types of logistics activity, from order picking to inventory and goods replenishment operations. The main aims of task interleaving are to increase warehouse productivity and reduce deadheading (unproductive travel). By combining two or more tasks, operators make the most of their trips, cutting down on unnecessary movements. To know more, refer to [this link](https://www.mecalux.com/blog/task-interleaving-warehouse).
+**Task Interleaving**: Task interleaving consists of combining two or more tasks on a single run through the warehouse. Task interleaving makes it possible, for instance, for pickers to retrieve the SKUs they need to put together an order and to then take advantage of the trip back to replenish a product. This strategy includes all types of logistics activity, from order picking to inventory and goods replenishment operations. The main aims of task interleaving are to increase warehouse productivity and reduce deadheading (unproductive travel). By combining two or more tasks, operators make the most of their trips, cutting down on unnecessary movements. For more info, refer to [this link](https://www.mecalux.com/blog/task-interleaving-warehouse).
 
 **Third Party Logistics (3PL) Billing**: 3PL billing is the process of calculating charges for services provided to a client and generating an invoice. In a 3PL warehouse, the provided services may include warehousing, transportation, inventory management, order fulfillment, and value-added services. Accurate billing is essential to ensure transparent and accurate financial transactions and bookkeeping. It also facilitates effective revenue management to keep your company profitable. You can bill customers manually or leverage 3PL billing software built for making calculating, generating, issuing, and recording invoices easier. This is a WMS feature. For more info, refer to [this link](https://www.logiwa.com/blog/3pl-billing-automation).
 
@@ -250,7 +267,7 @@ For best practices in the receiving process, watch [this video (7 mins)](https:/
 
 **Warehouse Execution System (WES)**: It is an IT system which does:
 
-- Optimie and balance how work is performed on automated equipment
+- Optimise and balance how work is performed on automated equipment
 - Dynamically allocates orders based upon WCS inputs (machine language)
 
 **Warehouse management System (WMS)**: It is an IT system which implements the following functionality:
@@ -259,6 +276,8 @@ For best practices in the receiving process, watch [this video (7 mins)](https:/
 - Track the location of inventory within the warehouse
 - Control flow of inventory within the warehouse for picking & packing
 - Manages the order flows and tasking
+
+For a comparison of functionalities between WMS, WES and WCS, refer to [this link](https://www.logiwa.com/blog/wms-wes-wcs-taking-the-confusion-out-of-warehouse-systems).
 
 **Wave Picking**: With wave picking, orders are grouped and picked in batches, but at specific times of day. Here’s how it works:
 
@@ -301,4 +320,6 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 1. [Warehousing Processes](https://www.inboundlogistics.com/articles/warehousing-process/), inboundlogistics.com
 1. [TMS Guide 2023](https://www.inboundlogistics.com/articles/tms-guide-2023/), inboundlogistics.com
 1. [Different type of Staging Locations | Retail Warehouse Blueprint | Approach to D365 for Commerce with Adv WH Mgmt](https://sumitnarayanpotbhare.wordpress.com/2020/06/15/different-type-of-staging-locations-retail-warehouse-blueprint-approach-to-d365-for-commerce-with-adv-wh-mgmt/)
-1. [2024 Gartner® Market Guide for Multicarrier Parcel Management Solutions](https://nshift.com/2024-gartner-market-guide-for-multicarrier-parcel-management-solutions)
+1. 2024 Gartner® Market Guide for Multicarrier Parcel Management Solutions, [form to download](https://nshift.com/2024-gartner-market-guide-for-multicarrier-parcel-management-solutions), [download link](https://www.gartner.com/doc/reprints?id=1-2HV0ZXEH&ct=240617&st=sb)
+1. [Warehouse of the Future, MIT Report](https://ctl.mit.edu/sites/ctl.mit.edu/files/2024-03/The%20Warehouse%20of%20the%20Future.pdf), Mar 2024
+1. [Critical Capabilities for Warehouse Management Systems](https://www.gartner.com/doc/reprints?id=1-2I2QN8RE&ct=240712&st=sb), Gartner, Aug 2024
