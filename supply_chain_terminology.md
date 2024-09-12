@@ -1,7 +1,7 @@
 ### TODOs
 
 - [x] Complete the terms identified with a TODO.
-- [ ] Add the other terms if they are missing from [ASCM dictionary](https://www.ascm.org/learning-development/certifications-credentials/dictionary/), warehouse/reailing related term in [Gartner glossary](https://www.gartner.com/en/information-technology/glossary), [Syrencloud SCM Glossary](https://syrencloud.com/insights/supply-chain-glossary/), [Softeon glossary](https://www.softeon.com/glossary/), Zoho WMS Glossary]()  and [IBM WMS Glossary](https://www.ibm.com/docs/en/warehouse-management/9.5.0?topic=glossary)
+- [ ] Add the other terms if they are missing from [ASCM dictionary](https://www.ascm.org/learning-development/certifications-credentials/dictionary/), warehouse/reailing related term in [Gartner glossary](https://www.gartner.com/en/information-technology/glossary), [Syrencloud SCM Glossary](https://syrencloud.com/insights/supply-chain-glossary/), [Softeon glossary](https://www.softeon.com/glossary/), [Zoho WMS Glossary](https://www.zoho.com/in/inventory/wms-dictionary/3pl.html)  and [IBM WMS Glossary](https://www.ibm.com/docs/en/warehouse-management/9.5.0?topic=glossary)
   - One more list of terms or glossary on [3PL logistics](https://www.speedcommerce.com/3pl-glossary/)
   - Since the ASCM dictionary include the whole of supply chain, it is not considered - some definitions are copied from that reference.
 
