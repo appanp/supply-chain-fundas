@@ -2,7 +2,7 @@
 
 - [x] Complete the terms identified with a TODO.
 - [ ] Add the other terms if they are missing from [ASCM dictionary](https://www.ascm.org/learning-development/certifications-credentials/dictionary/), warehouse/reailing related term in [Gartner glossary](https://www.gartner.com/en/information-technology/glossary), [Syrencloud SCM Glossary](https://syrencloud.com/insights/supply-chain-glossary/), [Softeon glossary](https://www.softeon.com/glossary/), [Zoho WMS Glossary](https://www.zoho.com/in/inventory/wms-dictionary/3pl.html)  and [IBM WMS Glossary](https://www.ibm.com/docs/en/warehouse-management/9.5.0?topic=glossary)
-  - One more list of terms or glossary on [3PL logistics](https://www.speedcommerce.com/3pl-glossary/)
+  - A few more list of terms or glossary on [3PL logistics](https://www.speedcommerce.com/3pl-glossary/), [Numina Group glossary](https://numinagroup.com/glossary/)
   - Since the ASCM dictionary include the whole of supply chain, it is not considered - some definitions are copied from that reference.
 
 ### Terminology
@@ -268,6 +268,11 @@ A few of the vendors smart slotting solutions are listed below:
 **Warehouse Control System (WCS)**: It is an IT system which implements the following functions: (1) Manages many types of automated equipment: conveyor, sorters, ASRS, Pick to light, Carrousels, Print & Apply (2) Exchanges real-time communications (ms), command processing, discrete equipment signals and the optimisation of material (multiple UOML: units, cartons and pallets). For more info, refer to [this link](https://www.conveyco.com/blog/what-is-a-warehouse-control-system-wcs/) and [this link](https://hy-tek.com/resources/what-is-a-warehouse-control-system/).
 
 **Warehouse Execution System (WES)**: It is an IT system which does: (1) Optimise and balance how work is performed on automated equipment (2) Dynamically allocates orders based upon WCS inputs (machine language). Warehouse Execution System (WES) is a software solution that manages and optimizes the operational processes within a warehouse or distribution center. It serves as a bridge between the Warehouse Management System (WMS) and the Warehouse Control System (WCS), coordinating and orchestrating the real-time execution of tasks and resources. For more info, refer to [this link](https://www.autostoresystem.com/insights/warehouse-execution-system-enhancing-efficiency).
+
+A few of the WES vendors are listed below:
+1. [Honeywell Momentum WES Infographic](https://sps.honeywell.com/us/en/support/automation/resources/infographics/momentum-wes), [download link](https://sps.honeywell.com/content/dam/honeywell-edam/sps/igs/en-us/support/resources/infographics/hon-ia-igs-wes-infographic.pdf)
+1. [Roboteon Robotic Fulfillment Platform](https://www.roboteon.com/download/roboteon-brochure_web_2024.pdf), Product brochure, 2024
+1.[Numina RDS WES](https://numinagroup.com/rds-warehouse-execution-system/)
 
 **Warehouse management System (WMS)**: It is an IT system which implements the following functionality:
 
