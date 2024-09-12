@@ -1,7 +1,7 @@
 ### TODOs
 
 - [x] Complete the terms identified with a TODO.
-- [ ] Add the other terms if they are missing from [ASCM dictionary](https://www.ascm.org/learning-development/certifications-credentials/dictionary/), warehouse/reailing related term in [Gartner glossary](https://www.gartner.com/en/information-technology/glossary), [Syrencloud SCM Glossary](https://syrencloud.com/insights/supply-chain-glossary/), [Softeon glossary](https://www.softeon.com/glossary/) and [IBM WMS Glossary](https://www.ibm.com/docs/en/warehouse-management/9.5.0?topic=glossary)
+- [ ] Add the other terms if they are missing from [ASCM dictionary](https://www.ascm.org/learning-development/certifications-credentials/dictionary/), warehouse/reailing related term in [Gartner glossary](https://www.gartner.com/en/information-technology/glossary), [Syrencloud SCM Glossary](https://syrencloud.com/insights/supply-chain-glossary/), [Softeon glossary](https://www.softeon.com/glossary/), Zoho WMS Glossary]()  and [IBM WMS Glossary](https://www.ibm.com/docs/en/warehouse-management/9.5.0?topic=glossary)
   - One more list of terms or glossary on [3PL logistics](https://www.speedcommerce.com/3pl-glossary/)
   - Since the ASCM dictionary include the whole of supply chain, it is not considered - some definitions are copied from that reference.
 
@@ -79,6 +79,8 @@ For vendors who have automated this process are:
 **Dock Appointment Scheduling (DAS)**: Planning of vehicle arrivals at the warehouse, loading and unloading of the vehicles is important for managing the efficient running of the warehouse and for balancing the workload across the working day. SAP Dock Appointment Scheduling is used to plan vehicle arrival in your warehouses efficiently and allows the carriers to enroll their transportation units for the yard and to book time slots for un- and uploading. In side Yard Logistics, the process starts with the planning document i.e. yard request (YR). This is a WMS feature. For more info, refer to [this link](https://www.dashdoc.com/en-US/blog/trends-dock-appointment) and [this SAP EWM video](https://www.youtube.com/watch?v=845GtJ5Eszo).
 
 **Flexible Path Equipment**: Material handling equipment such as forklifts that are not required to follow fixed paths.
+
+**Forward Pick Area/Location**: Storage area where small quantities of frequently purchased items are placed. This enables faster picking as the orders come in. They are then quickly replenished from a secondary location. For more info, refer to [this link](https://og.mhi.org/downloads/industrygroups/solutions-community/white-papers/forward-pick-area.pdf).
 
 **Fulfillment Center (FC)**: Another name for Distribution Center. There are different types depending on their location, size & purpose:
 
@@ -300,6 +302,7 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 1. [Microsoft Warehouse Inventory Visibility Public API](https://learn.microsoft.com/en-us/dynamics365/supply-chain/inventory/inventory-visibility-api)
 1. [ClarusWMS API documentation](https://documentation.claruswms.co.uk/)
 1. [Oracle Cloud WMS REST API Guide, Release 24B](https://docs.oracle.com/en/cloud/saas/warehouse-management/24b/owmre/change-history.html#u30239948)
+1. [Oracle WMS Cloud, Product Doc, Rel.24c](https://docs.oracle.com/en/cloud/saas/warehouse-management/24c/owmap/index.html)
 1. [DHL Transportation Management API](https://developer.dhl.com/api-reference/transportation-management)
 
 ### References
