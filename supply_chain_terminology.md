@@ -88,6 +88,8 @@ For vendors who have automated this process are:
 
 **Fulfillment Order (FO)**: It is an information object which consists of products that are part of a customer order.
 
+**Ghost Inventory**: Phantom Inventory, also known as Ghost Inventory, is an occurrence of unknown stockout due to inaccurate inventory information in operational systems. Phantom inventory can "cost" 1%-3% of revenue depending on the retailer. These unknown or virtual stockouts are detrimental for fast moving consumer goods retailers who have brick-and-mortar stores and/or offer buy-online-pick-in-store (BOPIS). For more info, refer to [this link](https://www.kloud9.nyc/solutions/stockout-sentinel).
+
 **Goods-to-Person (G2P or GTP)**: Goods-to-Person (GTP) is a warehouse automation solution in which products are brought to a person by a fixed or Autonomous Mobile Robots (AMRs). Associates receive the items needed to prepare an order at their pick stations without having to move in any meaningful way from their location. For more info, refer to [Goods-to-Person vs. Person-to-Goods Automation: A Complete Guide](https://inviarobotics.com/blog/goods-to-person-vs-person-to-goods-automation/).
 
 **Goods-to-Robot (GTR)**: The term goods-to-robot (GTR or G2R) refers to fully automated order picking with minimal human intervention. It’s considered an evolution of the goods-to-person system, where a picking robot is integrated to assist with order picking. Aided by computer vision software and a gripping device, these machines autonomously remove products from one box and place them into another. For more info, refer to [this link](https://www.mecalux.com/blog/goods-to-robot) and [this video](https://www.youtube.com/watch?v=N9p6eJ1mhqk).
@@ -206,7 +208,7 @@ For best practices in the receiving process, watch [this video (7 mins)](https:/
 
 - [Vimaan Automates the Warehouse Inbound/Receiving Process](https://vimaan.ai/warehouse-receiving/)
 
-**Replenishment**: Replenishment is a process where stocks stored at non-pickface locations(also referred to as reserved locations or bulk locations) are sent to the pickface locations within the warehouse. A pickface(also referred to as a Forward Location) is a location set up for loose picking. This is a WMS feature. To know more, refer to [this link](https://www.autostoresystem.com/insights/warehouse-inventory-replenishment-and-why-its-mandatory).
+**Replenishment**: Replenishment is a process where stocks stored at non-pickface locations(also referred to as reserved locations or bulk locations) are sent to the pickface locations within the warehouse. A pickface(also referred to as a Forward Location) is a location set up for loose picking. This is a WMS feature. For more info, refer to [this link](https://www.autostoresystem.com/insights/warehouse-inventory-replenishment-and-why-its-mandatory).
 
 **Return Management**: Returns management is the systematic approach for dealing with customer returns. It ensures efficiency, customer satisfaction, and cost-effectiveness. Returns Management focuses on the efficient handling and processing of customer returns. It is essential for merchants as it directly impacts customer experience, operations efficiency, and business profitability. Managing a return across the full life cycle includes RMA authorization and validation. The final return resolution can be a refund, exchange, store credit, or even a warranty return. Efficient returns management is crucial for maintaining positive customer relationships and loyalty. By providing a seamless and hassle-free returns process, merchants can enhance customer satisfaction and trust. This is a warehouse operation. For more info, refer to [this link](https://www.returnlogic.com/returns-management-software/)
 
@@ -247,15 +249,13 @@ A few of the vendors smart slotting solutions are listed below:
 
 **Third Party Logistics (3PL) Billing**: 3PL billing is the process of calculating charges for services provided to a client and generating an invoice. In a 3PL warehouse, the provided services may include warehousing, transportation, inventory management, order fulfillment, and value-added services. Accurate billing is essential to ensure transparent and accurate financial transactions and bookkeeping. It also facilitates effective revenue management to keep your company profitable. You can bill customers manually or leverage 3PL billing software built for making calculating, generating, issuing, and recording invoices easier. This is a WMS feature. For more info, refer to [this link](https://www.logiwa.com/blog/3pl-billing-automation).
 
-**Transportation Management System (TMS)**: It is an IT system which does the following:
+**Transportation Management System (TMS)**: It is a software platform that helps businesses effectively plan, execute, and optimise the movement of goods from point A to point B. It provides end-to-end visibility and control over every aspect of your supply chain, allowing you to streamline operations, enhance collaboration, and make data-driven decisions. For more info, refer to [this link](https://www.maersk.com/logistics-explained/supply-chain-management/2024/05/16/transportation-management-system).
 
-- Inbound load planning optimization
-- Outbound load planning optimization
-- Routing
-
-**Truck Loading**: Truck loading constitutes the process by which products are placed on a vehicle in order to be transported to their destination (a distribution center, another warehouse, or directly to the end customer). It’s vital to make sure that the weight distribution in the truck is correct and, particularly, that there are no mistakes in the goods dispatched or assigned. Properly loading goods onto a truck is a complex process, especially when faced with increasingly varied packaging, unit loads, and transportation modes. Software and digitalisation are the solution to this issue, as they help to automate a large part of this process, making it quicker and more effective. This is a WMS feature. To know more, refer to [this link](https://www.mecalux.com/blog/truck-loading-software).
+**Truck Loading**: Truck loading constitutes the process by which products are placed on a vehicle in order to be transported to their destination (a distribution center, another warehouse, or directly to the end customer). It’s vital to make sure that the weight distribution in the truck is correct and, particularly, that there are no mistakes in the goods dispatched or assigned. Properly loading goods onto a truck is a complex process, especially when faced with increasingly varied packaging, unit loads, and transportation modes. Software and digitalisation are the solution to this issue, as they help to automate a large part of this process, making it quicker and more effective. This is a WMS feature. For more info, refer to [this link](https://www.mecalux.com/blog/truck-loading-software).
 
 **Unit Load Device (ULD) Containers**: Unit load devices, or ULDs, are essential components of air freight transportation. They assist in transporting different kinds of cargo, which are packaged in various pallet and container types. For more info, refer to [this link](https://www.shiprocket.in/blog/uld-containers/)
+
+**Unit of Measure (UOM)**:  Inventory can now be tracked in user defined units of measure belonging to unit of measure classes. Unit of Measure is extremely important in inventory management as it quantifies inventory items in terms terms all parties can understand. If two parties are transacting on an inventory item, UOM defines how much and in what unit the quantity is expected. Also UOMs need to be standardized to make sure that all stakeholders especially across countries. Some countries might use Kilograms or kilometers and other countries might use pounds or miles. For more info, refer to [this link](https://www.ibm.com/docs/en/warehouse-management/9.5.0?topic=tracking-unit-measure).
 
 **Voice Picking**: Voice picking, also known as voice-directed warehousing (VDW), is a system that uses voice prompts to help warehouse workers pick items. It works by using speech recognition software to translate picking orders into voice instructions. These instructions guide workers to the correct locations and items, and they can confirm their actions verbally. (ref. 2 part 4). This is a WMS feature. For more info, refer to [this link](https://www.lucasware.com/voice-picking-introduction/) and [this link](https://www.autostoresystem.com/insights/what-is-voice-picking-a-fading-trend)
 
@@ -263,15 +263,9 @@ A few of the vendors smart slotting solutions are listed below:
 
 **Warehouse**: It is a physical building which stores products in containers & racks. There can many such warehouses in a place from which orders are fulfilled. A warehouse is also called a **Distribution Center**.
 
-**Warehouse Control System (WCS)**: It is an IT system which implements the following functions:
+**Warehouse Control System (WCS)**: It is an IT system which implements the following functions: (1) Manages many types of automated equipment: conveyor, sorters, ASRS, Pick to light, Carrousels, Print & Apply (2) Exchanges real-time communications (ms), command processing, discrete equipment signals and the optimisation of material (multiple UOML: units, cartons and pallets). For more info, refer to [this link](https://www.conveyco.com/blog/what-is-a-warehouse-control-system-wcs/) and [this link](https://hy-tek.com/resources/what-is-a-warehouse-control-system/).
 
-- Manages many types of automated equipment: conveyor, sorters, ASRS, Pick to light, Carrousels, Print & Apply
-- Exchanges real-time communications (ms), command processing, discrete equipment signals and the optimisation of material (multiple UOML: units, cartons and pallets)
-
-**Warehouse Execution System (WES)**: It is an IT system which does:
-
-- Optimise and balance how work is performed on automated equipment
-- Dynamically allocates orders based upon WCS inputs (machine language)
+**Warehouse Execution System (WES)**: It is an IT system which does: (1) Optimise and balance how work is performed on automated equipment (2) Dynamically allocates orders based upon WCS inputs (machine language). Warehouse Execution System (WES) is a software solution that manages and optimizes the operational processes within a warehouse or distribution center. It serves as a bridge between the Warehouse Management System (WMS) and the Warehouse Control System (WCS), coordinating and orchestrating the real-time execution of tasks and resources. For more info, refer to [this link](https://www.autostoresystem.com/insights/warehouse-execution-system-enhancing-efficiency).
 
 **Warehouse management System (WMS)**: It is an IT system which implements the following functionality:
 
@@ -300,8 +294,10 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 
 **Zone Picking**: This is one type of picking operation. Zone picking involves workers dedicated to a specific section passing order totes from one zone to the next.
 
-### References to WMS/TMS/YMS Vendor APIs
+### References to WMS/TMS/YMS Vendor APIs/Product Documentation
 
+1. [Microsoft Dynamics365 Warehouse documentation](https://learn.microsoft.com/en-us/dynamics365/supply-chain/warehousing/warehouse-management-overview)
+1. [Microsoft Warehouse Inventory Visibility Public API](https://learn.microsoft.com/en-us/dynamics365/supply-chain/inventory/inventory-visibility-api)
 1. [ClarusWMS API documentation](https://documentation.claruswms.co.uk/)
 1. [Oracle Cloud WMS REST API Guide, Release 24B](https://docs.oracle.com/en/cloud/saas/warehouse-management/24b/owmre/change-history.html#u30239948)
 1. [DHL Transportation Management API](https://developer.dhl.com/api-reference/transportation-management)
@@ -328,3 +324,4 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 Platforms, Mar 2024 - [Download link](https://www.gartner.com/doc/reprints?id=1-2H5E4M0F&ct=240401&st=sb)
 1. [Warehouse of the Future, MIT Report](https://ctl.mit.edu/sites/ctl.mit.edu/files/2024-03/The%20Warehouse%20of%20the%20Future.pdf), Mar 2024
 1. [Critical Capabilities for Warehouse Management Systems](https://www.gartner.com/doc/reprints?id=1-2I2QN8RE&ct=240712&st=sb), Gartner, Aug 2024
+1. [Warehouse Robotics Software 2024: That was Then, This is Now](https://on24static.akamaized.net/event/46/09/41/7/rt/1/documents/resourceList1718744014646/roboteonrobotics247webcast202406181718744014646.pdf), Webinar slides, Jun 2024, [link to webinar recording](https://event.on24.com/wcc/r/4609417/B80A57EAB9292C1EE678D42CBF648C13)
