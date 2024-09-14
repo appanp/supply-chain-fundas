@@ -2,7 +2,7 @@
 
 - [x] Complete the terms identified with a TODO.
 - [ ] Add the other terms if they are missing from [ASCM dictionary](https://www.ascm.org/learning-development/certifications-credentials/dictionary/), warehouse/reailing related term in [Gartner glossary](https://www.gartner.com/en/information-technology/glossary), [Syrencloud SCM Glossary](https://syrencloud.com/insights/supply-chain-glossary/), [Softeon glossary](https://www.softeon.com/glossary/), [Zoho WMS Glossary](https://www.zoho.com/in/inventory/wms-dictionary/3pl.html)  and [IBM WMS Glossary](https://www.ibm.com/docs/en/warehouse-management/9.5.0?topic=glossary)
-  - A few more list of terms or glossary on [3PL logistics](https://www.speedcommerce.com/3pl-glossary/), [Numina Group glossary](https://numinagroup.com/glossary/)
+  - A few more list of terms or glossary on [3PL logistics](https://www.speedcommerce.com/3pl-glossary/), [cips.org glossary](https://www.cips.org/intelligence-hub/glossary-of-terms), [inboundlogistics glossary](https://www.inboundlogistics.com/logistics-glossary), [Numina Group glossary](https://numinagroup.com/glossary/)
   - Since the ASCM dictionary include the whole of supply chain, it is not considered - some definitions are copied from that reference.
 
 ### Terminology
@@ -106,6 +106,8 @@ For vendors who have automated this process are:
 
 **Inventory Management**: It is the act of managing the product inventory across warehouses and inside a single warehouse. Depending on the level of control, the specific locations of each SKU should be available in the inventory management module of WMS. This is a WMS feature.
 
+**Inventory Serialization**: TODO. For more info, refer to [this link](https://wareiq.com/resources/blogs/inventory-serialization-for-ecommerce-business/)
+
 **Kit**: 1) The components of a parent item that have been pulled from stock and prepared for movement to a production area. 2) A group of repair parts to be shipped with an order. Same as kitted material, staged material.
 
 **Kitting**: The process of constructing and staging kits. For more info, refer to [this link](https://www.thefulfillmentlab.com/blog/kitting-warehouse/).
@@ -131,6 +133,13 @@ As with vehicle license plates, a lot of different information can be associated
 **Light Manufacturing**: Refer to Kitting.
 
 **Location Management**: It is a type of inventory management system. It is an integral part of warehouse management that works at the core of a warehouse or distribution center. The available software solutions help you navigate across the storage to fetch, store, or transfer items based on their location on a shelf, also known as a bin. It is therefore also called bin location management. This warehouse location system works by comparing the specifications of the stock against the specifications of the storage space, allowing it to store any given size of stock in the best space-saving manner. For example, it may take the dimensions and handling of the item, compare it to the dimensions and types of pallets, and set an appropriate storage location. Small but unrelated items might be stocked together to fill a smaller space so that the package does not take up a larger space where another larger item could be stored. This is a WMS feature.
+
+**Less Than TruckLoad (LTL) Operations**: LTL Operations is designed for regional and cross-country LTL (less than truckload) companies. With this application, you can manage multiple business processes, including:
+1. Order entry with automated rating
+1. Order pickup
+1. Crossdock/line haul planning
+1. Order delivery
+1. Billing and invoicing. For more info, refer tp [this link](https://learn.transportation.trimble.com/wp-content/uploads/tte/ebcbe19c93c746dd320c/olhlp/d2bd984013d3/docs/Current/index.html).
 
 **Materials Handling**: The movement and storage of goods inside the distribution center. This represents a capital cost and is balanced against the operating costs of the facility.
 
@@ -222,6 +231,8 @@ For best practices in the receiving process, watch [this video (7 mins)](https:/
 - Printing of standard bill of lading
 - Printing parcel carrier label to put on actual box
 
+**Shpping Manifest**: When a shipment is “manifested,” it means that the details of the cargo have been officially recorded in a shipping manifest, which is prepared by the carrier. This process involves compiling all relevant information about the shipment, including the types of goods, their quantities, weight, origin, and destination, and entering these details into the manifest document. The status of a shipment being “manifested” indicates that it has been documented and is ready for transportation. For more info, refer to [this link](https://www.shipengine.com/blog/what-is-a-manifest) and [What is shipping manifest: A comprehensive guide]().
+
 **Short Pick**: In picking, it refers to order items or SKUs which do not have the requested quantity or which fell short of the requested order quantity. For more info, refer to [this link](https://learn.microsoft.com/en-us/dynamics365/supply-chain/warehousing/tasks/set-up-short-picking-item-reallocation)
 
 **Slotting**: Warehouse slotting is the step by step process of analyzing inventory data for the purpose of categorizing and organizing inventory throughout a warehouse or distribution center. The purpose of slotting your warehouse is to maximize the overall efficiency of your operations. By maximizing space utilization and reducing inventory handling, you'll see an increase in productivity and a strategic workflow throughout your facility. For more info, refer to [this link](https://us.blog.kardex-remstar.com/warehouse-slotting-strategies-best-practices). This is a WMS feature for warehouse planning or configuration.
@@ -244,6 +255,8 @@ A few of the vendors smart slotting solutions are listed below:
 **Stock locating**: It is the process the locating the SKUs that are to be shipped in an order and it is required before a picking task is done. This is a WMS feature (Inventory Management).
 
 **Supply Chain Operations Reference (SCOR)**: It is a standard from the [Association for Supply Chain Management (ASCM)](https://www.ascm.org/). SCOR is a hierarchical process model. SCOR is not a static set of standards. [SCOR DS](https://www.ascm.org/corporate-solutions/standards-tools/scor-ds), our newest iteration, is open-access and [fully digital](https://scor.ascm.org/). It is even more comprehensive than previous versions with the inclusion of sustainability standards and supply-chain orchestration enablers. SCOR DS shifts thinking from a linear supply chain model to a more synchronous network.
+
+**Tagging**: Also called lalelling, it is the act of identifying locations, products, equipments and may be even people in the warehouse using barcodes, RFIDs tags, NFC tags, and other ways so that the systems know what you are taking or leaving and from which place or location in the warehouse. For more info, refer to [this link](https://www.camcode.com/wp-content/uploads/2024/08/Warehouse-Labelling-Checklist-5.pdf)
 
 **Task Allocation**: It is the function of allocating or assigning tasks to operators and other automation equipments in the warehouse.
 
@@ -272,16 +285,19 @@ A few of the vendors smart slotting solutions are listed below:
 A few of the WES vendors are listed below:
 1. [Honeywell Momentum WES Infographic](https://sps.honeywell.com/us/en/support/automation/resources/infographics/momentum-wes), [download link](https://sps.honeywell.com/content/dam/honeywell-edam/sps/igs/en-us/support/resources/infographics/hon-ia-igs-wes-infographic.pdf)
 1. [Roboteon Robotic Fulfillment Platform](https://www.roboteon.com/download/roboteon-brochure_web_2024.pdf), Product brochure, 2024
-1.[Numina RDS WES](https://numinagroup.com/rds-warehouse-execution-system/)
+1. [Numina RDS WES](https://numinagroup.com/rds-warehouse-execution-system/)
+1. [Softeon WMS](https://www.softeon.com/solutions/warehouse-execution-system-wes/) - rule-based engine
 
-**Warehouse management System (WMS)**: It is an IT system which implements the following functionality:
+**Warehouse Management System (WMS)**: It is an IT system which implements the following functionality:
 
 - Control flow of inventory into the warehouse
 - Track the location of inventory within the warehouse
 - Control flow of inventory within the warehouse for picking & packing
 - Manages the order flows and tasking
 
-For a comparison of functionalities between WMS, WES and WCS, refer to [this link](https://www.logiwa.com/blog/wms-wes-wcs-taking-the-confusion-out-of-warehouse-systems).
+For a comparison of functionalities between WMS, WES and WCS, refer to [this link](https://www.logiwa.com/blog/wms-wes-wcs-taking-the-confusion-out-of-warehouse-systems) and [how WES is chainging the landscape TODO](https://www.youtube.com/watch?v=1XEPI9x1vnk).
+
+**Warehouse Racking**: An essential part of warehouse infrastructure, warehouse racking can hinder or accelerate warehouse operations. With proper warehouse racking, warehouse managers maximize space and optimize warehouse organization for efficiency and a streamlined picking process. (Learn more about How to Organize a Warehouse). Warehouse layout plays a major role in warehouse racking, as aisle width, docking locations, shipping areas, and other warehouse components affect warehouse racking options. For more info, refer to [this link](https://www.camcode.com/blog/what-is-warehouse-racking/).
 
 **Wave Picking**: With wave picking, orders are grouped and picked in batches, but at specific times of day. Here’s how it works:
 
@@ -292,6 +308,8 @@ For a comparison of functionalities between WMS, WES and WCS, refer to [this lin
 Wave picking is useful for both low-pick and high-pick operations. For low-pick operations, wave picking reduces the number of trips workers take back and forth. For high-pick operations, warehouse managers couple wave picking with zone picking to run the most efficient workflow possible. For more info, refer to [this link](https://www.logiwa.com/blog/warehouse-wave-picking).
 
 **Wave Planning/Management**: A process and WMS capability in which groups of orders from the overall order pool are selected for processing (order picking) based on attributes of the orders. For example, pick “waves” might be based on outbound carrier schedules, order priority, store groups in retail or many other variables. In advanced Warehouse Management solutions, wave selection criteria can be pre-configured and automatically released based on a schedule. The WMS should also be able to trigger needed forward pick replenishments for the wave before it is released, and to balance work in creating the wave between different processing areas, such piece and case picking. There should also be flexibility in working across waves as needed, without needing to complete one wave before the next is released. For more info, refer to [this link](https://www.yash.com/blog/sap-ewm-with-wawe-management/).
+
+**Waveless Picking**: TODO. For more infor, refer to [this link](https://www.conveyco.com/blog/pros-and-cons-waveless-picking/).
 
 **Workstation/Ports**: Place where manual labourer does the tasks assigned to each one of them. For moreinfo, refer to [this link](https://www.autostoresystem.com/system/workstations).
 
