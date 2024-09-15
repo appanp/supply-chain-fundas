@@ -58,6 +58,8 @@ Advantages of advanced cartonization are:
 
 **Batch Picking**: This is one type of Picking operation. Batch picking involves a worker moving through the warehouse collecting goods for several orders at once. For more info, refer to [this link](https://www.mecalux.com/blog/batch-picking-definition).
 
+**Case Picking**: A “case” is a single carton of items (in the context of picking operations and warehouse operations). Cartons contain a bulk number of items, usually of the same SKU. For example, a case of ballpoint pens may contain 100 pens. For more info, refer to [this link](https://www.amsc-usa.com/blog/what-is-case-picking/) and [this video](https://www.youtube.com/watch?v=eS1ov4cc3oY)
+
 **Cart Staging**: These are intermediate areas in the picking area where the carts are kept temporarily to be moved to another place. Refer to [this link](https://www.tractonomy.com/kit-carts-to-assembly-lines/) on Autonomous Towing Robots (ATRs) help in moving the carts between the picking/staging area and the shipping area.
 
 **Cross-docking**: Cross-docking is a logistics technique that aims to accelerate goods delivery and increase supply chain efficiency. It involves unloading goods from vehicles making incoming shipments at a logistics facility and transferring them to vehicles handling outgoing shipments, requiring little or no storage time in between. Companies take advantage of cross-docking to consolidate products from multiple suppliers, break down bulk shipments into smaller lots and reorganize items for efficient delivery to retail stores, fulfillment centers and customers. Cross-docking requires close coordination among a company’s supply chain partners, including its suppliers and freight carriers. This is an optional warehouse operation. For more info, refer to [this link](https://www.netsuite.com/portal/resource/articles/inventory-management/cross-docking.shtml).
@@ -71,6 +73,8 @@ For vendors who have automated this process are:
 - [Hand Scanners vs. StorTRACK Cycle Count Showdown - Vimaan](https://vimaan.ai/resources/video/cycle-counting-handheld-scanners-vs-stortrack/)
 - Using drones for cycle counting of inventory - how the drone maker Verity used drones for Swiss shoe maker ON - [Inventory Tracking Solution a High-Flying Success](https://www.inboundlogistics.com/articles/inventory-tracking-solution-a-high-flying-success/), July 2024.
 - [Case Study: Revolutionizing Inventory Management for a Shoe Retailer](https://www.gather.ai/case-studies/managing-inventory-shoes), gather.ai
+
+**Dark Stores**: Empty storefronts are used as small fulfillment centers that fill online orders and can even service local retail locations. These "dark stores" are not open to the public. Orders filled can be picked up curbside, dropped off at retail locations for pick up, or delivered directly to customers. One dark store could potentially service several existing retail locations, which greatly reduces the space and cost issues involved with in-store micro-fulfillment. These dark stores can be formatted utilizing lower cost, semi-automation, such as Automated Mobile Robots and automated sortation technologies to aid manual picking efforts, or be fitted for high-automation goods-to-person systems. For more info, refer to [this link](https://www.bastiansolutions.com/solutions/function/microfulfillment/).
 
 **Directed Put-away**: A put-away process in which the WMS determines where a given receipt of goods should be stored in the distribution center. Directed put-away is tightly connected to the concept of “zoning” in which storage locations are grouped together, examples being “fast-movers” or “HAZMAT” products. With directed put-away, companies use a WMS to configure a hierarchical set of rules to identify the best location to store a receipt of inventory. If there is no space available in the preferred zone (e.g., fast-movers), the WMS put-away process would look for the next best available zone (e.g., medium-movers). This is a warehouse operation. For more info, refer to [this link](https://www.softeon.com/glossary/directed-putaway/).
 
@@ -92,7 +96,7 @@ For vendors who have automated this process are:
 
 **Ghost Inventory**: Phantom Inventory, also known as Ghost Inventory, is an occurrence of unknown stockout due to inaccurate inventory information in operational systems. Phantom inventory can "cost" 1%-3% of revenue depending on the retailer. These unknown or virtual stockouts are detrimental for fast moving consumer goods retailers who have brick-and-mortar stores and/or offer buy-online-pick-in-store (BOPIS). For more info, refer to [this link](https://www.kloud9.nyc/solutions/stockout-sentinel).
 
-**Goods-to-Person (G2P or GTP)**: Goods-to-Person (GTP) is a warehouse automation solution in which products are brought to a person by a fixed or Autonomous Mobile Robots (AMRs). Associates receive the items needed to prepare an order at their pick stations without having to move in any meaningful way from their location. For more info, refer to [Goods-to-Person vs. Person-to-Goods Automation: A Complete Guide](https://inviarobotics.com/blog/goods-to-person-vs-person-to-goods-automation/).
+**Goods-to-Person (G2P or GTP)**: Goods-to-Person (GTP) is a warehouse automation solution in which products are brought to a person by a fixed or Autonomous Mobile Robots (AMRs). Associates receive the items needed to prepare an order at their pick stations without having to move in any meaningful way from their location. For more info, refer to [this link](https://hy-tek.com/resources/goods-to-person-picking-systems/) and [Goods-to-Person vs. Person-to-Goods Automation: A Complete Guide](https://inviarobotics.com/blog/goods-to-person-vs-person-to-goods-automation/).
 
 **Goods-to-Robot (GTR)**: The term goods-to-robot (GTR or G2R) refers to fully automated order picking with minimal human intervention. It’s considered an evolution of the goods-to-person system, where a picking robot is integrated to assist with order picking. Aided by computer vision software and a gripping device, these machines autonomously remove products from one box and place them into another. For more info, refer to [this link](https://www.mecalux.com/blog/goods-to-robot) and [this video](https://www.youtube.com/watch?v=N9p6eJ1mhqk).
 
@@ -106,16 +110,16 @@ For vendors who have automated this process are:
 
 **Inventory Management**: It is the act of managing the product inventory across warehouses and inside a single warehouse. Depending on the level of control, the specific locations of each SKU should be available in the inventory management module of WMS. This is a WMS feature.
 
-**Inventory Serialization**: TODO. For more info, refer to [this link](https://wareiq.com/resources/blogs/inventory-serialization-for-ecommerce-business/)
+**Inventory Serialization**: For most inventory management scenarios, each product's total quantity on hand is the most important piece of data to track. As long as you know how much of each product's stock is coming in through the back door and out through the front, your inventory needs are met. But what if individual units need to be tracked separately? This type of situation isn't as uncommon as you might think. There are many cases in which the individual items being kept in inventory and sold to customers need to have unique identifiers attached to them. This is called serialization, and is most commonly used on high-value goods for more precise tracking or for warranty claims.
+
+Serial numbers are a part of everyday life. Your cell phone likely has an IMEI number that your carrier used to activate your phone line. Your car has a VIN for warranty, maintenance, insurance, and recall purposes. Most firearms and laptops will also have serial numbers attached to them. For more info, refer to [this link](https://wareiq.com/resources/blogs/inventory-serialization-for-ecommerce-business/)
 
 **Kit**: 1) The components of a parent item that have been pulled from stock and prepared for movement to a production area. 2) A group of repair parts to be shipped with an order. Same as kitted material, staged material.
 
 **Kitting**: The process of constructing and staging kits. For more info, refer to [this link](https://www.thefulfillmentlab.com/blog/kitting-warehouse/).
 - [OSARO Robot Kitting Solution](https://osaro.com/solutions/kitting)
 
-**Labor Management**: Your ecommerce business can’t run without an amazing team of warehouse workers. These individuals carry out daily tasks – like managing inventory, picking products, and packing orders – and you depend on them to get orders out the door. But how you allocate and manage this workforce hugely impacts your operational efficiency. To improve productivity, reduce costs, and minimize idle time and overstaffing, you’ll need an optimized labor management strategy. For more info, refer to [this link](https://www.shipbob.com/warehouse-management/warehouse-labor-management/).
-
-- Also known as Workforce Management.
+**Labor Management**: Also known as Workforce Management. Your ecommerce business can’t run without an amazing team of warehouse workers. These individuals carry out daily tasks – like managing inventory, picking products, and packing orders – and you depend on them to get orders out the door. But how you allocate and manage this workforce hugely impacts your operational efficiency. To improve productivity, reduce costs, and minimize idle time and overstaffing, you’ll need an optimized labor management strategy. For more info, refer to [this link](https://www.shipbob.com/warehouse-management/warehouse-labor-management/).
 
 **License Plate (LP)**: A license plate is a number assigned to each containment unit, which allows for better grouping and management of inventory. This, in turn, helps businesses in the food supply chain greatly improve operational efficiency by reducing the number of scans necessary to enter a transaction—allowing businesses to overcome many of the common food supply chain challenges. License plates are defined for different types of containers such as bins, totes or railcars, though the most common term used is a pallet. The pallet becomes its own license plate record with the information about the items inside which can be detected with one single barcode scan. For more info, refer to [this link](https://www.aptean.com/en-US/insights/blog/the-importance-of-license-plating).
 
@@ -130,7 +134,7 @@ As with vehicle license plates, a lot of different information can be associated
 
 **License Plating**: License plating in the food supply chain refers to how inventory items are tracked throughout the warehouse environment using a license plate.
 
-**Light Manufacturing**: Refer to Kitting.
+**Light Manufacturing**: Also known as Kitting.
 
 **Location Management**: It is a type of inventory management system. It is an integral part of warehouse management that works at the core of a warehouse or distribution center. The available software solutions help you navigate across the storage to fetch, store, or transfer items based on their location on a shelf, also known as a bin. It is therefore also called bin location management. This warehouse location system works by comparing the specifications of the stock against the specifications of the storage space, allowing it to store any given size of stock in the best space-saving manner. For example, it may take the dimensions and handling of the item, compare it to the dimensions and types of pallets, and set an appropriate storage location. Small but unrelated items might be stocked together to fill a smaller space so that the package does not take up a larger space where another larger item could be stored. This is a WMS feature.
 
@@ -173,7 +177,7 @@ As with vehicle license plates, a lot of different information can be associated
 
 **Pallet**: A platform designed to be loaded with packages and moved by a forklift or AMRs depending on the load to be carried. For more info, refer to [this link](https://www.inboundlogistics.com/articles/pallets-backbone-of-the-warehouse).
 
-**Pallet Jack**: A type of material handling equipment that combines pallets horizontally but has no lifting capability.
+**Pallet Jack**: A type of material handling equipment that combines pallets horizontally but has no lifting capability. A pallet jack is the most basic form of forklift and is intended to move pallets in a warehouse or trailer. Pallet jacks are some of the most essential tools found in warehouses and are used for transporting small loads for short distances. Typically, both manual and powered pallet jacks are used for loading and unloading of trucks while riding electric pallet jacks can be used for horizontal transport through warehouses. For more info, refer to [this link](https://www.raymondcorp.com/information/frequently-asked-questions/what-is-a-pallet-jack).
 
 **Pallet Positions**: A calculation that determines the space needed for the number of pallets for inventory storage or transportation based on a standard pallet size. Pallet dimensions vary around the globe but are typically constant in regional markets. The term is frequently used to quote storage and transportation rates.
 
@@ -191,7 +195,7 @@ As with vehicle license plates, a lot of different information can be associated
 
 **Pick-to-Box**: Pick-to-box is an order picking technique that consists of retrieving goods from their locations and consolidating several orders at the same time. That is, operators place products directly in the boxes that will be sent to end customers. With this method, three processes are carried out at once: order picking, consolidation and packing. For more info, refer to [this link](https://www.mecalux.com/blog/pick-to-box)
 
-**Pick-to-Light System**: Pick to light is a type of order-fulfillment technology designed to improve picking accuracy and efficiency, while simultaneously lowering your labor costs. Notably, pick to light is paperless; it employs alphanumeric displays and buttons at storage locations, to guide your employees in light-aided manual picking, putting, sorting, and assembling.
+**Pick-to-Light System**: Pick to light is a type of order-fulfillment technology designed to improve picking accuracy and efficiency, while simultaneously lowering your labor costs. Notably, pick to light is paperless; it employs alphanumeric displays and buttons at storage locations, to guide your employees in light-aided manual picking, putting, sorting, and assembling. For more info, refer to [this link](https://www.lucasware.com/what-is-a-pick-to-light-system-and-how-does-voice-compare/).
 
 - [AIOI has developed Pick to Light System applying Microwave Remote Power Transfer technology first time in the industry.](https://hello-aioi.com/en/news_events/news/aioi-has-developed-pick-to-light-system-applying-microwave-remote-power-transfer-technology-first-time-in-the-industry/)
 
@@ -199,7 +203,7 @@ As with vehicle license plates, a lot of different information can be associated
 
 **Picking and Pass**: A process in which forward piece-picking locations are grouped into zones, and operators in each zone pick items into a carton or tote in their zones, and then “pass” the carton or tote to a picker in the next zone, often assisted by a roller conveyor. This is a WMS operation.
 
-**Piece Picking**: Piece picking is an order picking process in which the individual items of an order are picked and then placed in a container or carton before shipping them to the customers. Order picking is a labor-intensive process that comprises as much as 55% of a warehouse or distribution center’s total operating expenses. So, choosing the right picking method is crucial. Generally, piece picking operations are carried out in warehouses where large quantities of goods are stored before their export or sale. For more info, refer to [this link](https://6river.com/what-is-piece-picking/).
+**Piece Picking**: This is also called Split-case Picking. Piece picking is an order picking process in which the individual items of an order are picked and then placed in a container or carton before shipping them to the customers. This is in contrast to case picking wherein the full case of one specific SKU of a specific number of items are picked, especially for bulk orders. Order picking is a labor-intensive process that comprises as much as 55% of a warehouse or distribution center’s total operating expenses. So, choosing the right picking method is crucial. Generally, piece picking operations are carried out in warehouses where large quantities of goods are stored before their export or sale. For more info, refer to [this link](https://6river.com/what-is-piece-picking/).
 
 **Put-away**: Put-away is a process that involves receiving inventory in a warehouse or distribution center, organizing it, and then storing it in its designated location. The goal is to ensure that the right items are stored in the optimal storage location and that they are easily accessible when needed. Put-away is a key component of an effective warehouse inventory management system and it can have a major impact on how quickly goods are located and retrieved. For more info, refer to [this link](https://www.cadretech.com/blog/warehouse-putaway-process).
 
@@ -231,7 +235,7 @@ For best practices in the receiving process, watch [this video (7 mins)](https:/
 - Printing of standard bill of lading
 - Printing parcel carrier label to put on actual box
 
-**Shpping Manifest**: When a shipment is “manifested,” it means that the details of the cargo have been officially recorded in a shipping manifest, which is prepared by the carrier. This process involves compiling all relevant information about the shipment, including the types of goods, their quantities, weight, origin, and destination, and entering these details into the manifest document. The status of a shipment being “manifested” indicates that it has been documented and is ready for transportation. For more info, refer to [this link](https://www.shipengine.com/blog/what-is-a-manifest) and [What is shipping manifest: A comprehensive guide]().
+**Shipping Manifest**: When a shipment is “manifested,” it means that the details of the cargo have been officially recorded in a shipping manifest, which is prepared by the carrier. This process involves compiling all relevant information about the shipment, including the types of goods, their quantities, weight, origin, and destination, and entering these details into the manifest document. The status of a shipment being “manifested” indicates that it has been documented and is ready for transportation. For more info, refer to [this link](https://www.shipengine.com/blog/what-is-a-manifest) and [What is shipping manifest: A comprehensive guide]().
 
 **Short Pick**: In picking, it refers to order items or SKUs which do not have the requested quantity or which fell short of the requested order quantity. For more info, refer to [this link](https://learn.microsoft.com/en-us/dynamics365/supply-chain/warehousing/tasks/set-up-short-picking-item-reallocation)
 
@@ -246,6 +250,8 @@ A few of the vendors smart slotting solutions are listed below:
 
 **Soft Allocation**: This is one of the ways order is allocated with flexiility in mind. A WMS process in which orders are sent to the WMS from the ERP or other order management system, often days or weeks in advance of when they are needing to ship. Some WMS solutions are able to reserve inventory for those orders at a warehouse level, meaning it can prevent subsequent orders from “grabbing” that reserved inventory. That said, a WMS should have the flexibility in applying soft allocation, such as not reserving inventory shipping more than two weeks out, as that could cause nearer term orders to be short-shipped.
 
+**Split-Case Picking**: Also known as Piece Picking.
+
 **Stock-out**: It is the condition of a product going out-of-stock.
 
 **Stock Keeping Unit (SKU)**: A stock keeping unit is a unique code companies use to track products internally. Because businesses create their own individual SKUs, they are unique to each product and each company. Because SKUs are an internal tool, there are no official rules on how to develop or use them. However, you can learn from the best practices of industry leaders who have well-designed SKU systems that maximize efficiency and include all the key product data. A business often times refers to its sellable products as SKUs. For more info, refer to [this link](https://www.netsuite.com/portal/resource/articles/inventory-management/stock-keeping-unit-SKU.shtml).
@@ -256,7 +262,7 @@ A few of the vendors smart slotting solutions are listed below:
 
 **Supply Chain Operations Reference (SCOR)**: It is a standard from the [Association for Supply Chain Management (ASCM)](https://www.ascm.org/). SCOR is a hierarchical process model. SCOR is not a static set of standards. [SCOR DS](https://www.ascm.org/corporate-solutions/standards-tools/scor-ds), our newest iteration, is open-access and [fully digital](https://scor.ascm.org/). It is even more comprehensive than previous versions with the inclusion of sustainability standards and supply-chain orchestration enablers. SCOR DS shifts thinking from a linear supply chain model to a more synchronous network.
 
-**Tagging**: Also called lalelling, it is the act of identifying locations, products, equipments and may be even people in the warehouse using barcodes, RFIDs tags, NFC tags, and other ways so that the systems know what you are taking or leaving and from which place or location in the warehouse. For more info, refer to [this link](https://www.camcode.com/wp-content/uploads/2024/08/Warehouse-Labelling-Checklist-5.pdf)
+**Tagging**: Also called labelling, it is the act of identifying locations, products, equipments and may be even people in the warehouse using barcodes, RFIDs tags, NFC tags, and other ways so that the systems know what you are taking or leaving and from which place or location in the warehouse. For more info, refer to [this link](https://www.camcode.com/wp-content/uploads/2024/08/Warehouse-Labelling-Checklist-5.pdf)
 
 **Task Allocation**: It is the function of allocating or assigning tasks to operators and other automation equipments in the warehouse.
 
@@ -295,7 +301,7 @@ A few of the WES vendors are listed below:
 - Control flow of inventory within the warehouse for picking & packing
 - Manages the order flows and tasking
 
-For a comparison of functionalities between WMS, WES and WCS, refer to [this link](https://www.logiwa.com/blog/wms-wes-wcs-taking-the-confusion-out-of-warehouse-systems) and [how WES is chainging the landscape TODO](https://www.youtube.com/watch?v=1XEPI9x1vnk).
+For more info, refer to [this link](https://radiuslogistics.co.uk/10-must-have-features-for-good-warehouse-management-system/). For a comparison of functionalities between WMS, WES and WCS, refer to [this link](https://www.logiwa.com/blog/wms-wes-wcs-taking-the-confusion-out-of-warehouse-systems) and [how WES is changing the status quo in distribution](https://www.youtube.com/watch?v=1XEPI9x1vnk).
 
 **Warehouse Racking**: An essential part of warehouse infrastructure, warehouse racking can hinder or accelerate warehouse operations. With proper warehouse racking, warehouse managers maximize space and optimize warehouse organization for efficiency and a streamlined picking process. (Learn more about How to Organize a Warehouse). Warehouse layout plays a major role in warehouse racking, as aisle width, docking locations, shipping areas, and other warehouse components affect warehouse racking options. For more info, refer to [this link](https://www.camcode.com/blog/what-is-warehouse-racking/).
 
@@ -309,7 +315,7 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 
 **Wave Planning/Management**: A process and WMS capability in which groups of orders from the overall order pool are selected for processing (order picking) based on attributes of the orders. For example, pick “waves” might be based on outbound carrier schedules, order priority, store groups in retail or many other variables. In advanced Warehouse Management solutions, wave selection criteria can be pre-configured and automatically released based on a schedule. The WMS should also be able to trigger needed forward pick replenishments for the wave before it is released, and to balance work in creating the wave between different processing areas, such piece and case picking. There should also be flexibility in working across waves as needed, without needing to complete one wave before the next is released. For more info, refer to [this link](https://www.yash.com/blog/sap-ewm-with-wawe-management/).
 
-**Waveless Picking**: TODO. For more infor, refer to [this link](https://www.conveyco.com/blog/pros-and-cons-waveless-picking/).
+**Waveless Picking**: Dynamically determines what is truly the best next pick and updates the picker's instructions accordingly. For more infor, refer to [this link](https://www.conveyco.com/blog/pros-and-cons-waveless-picking/) and [Wave vs. Waveless: which is more effective? (video)](https://www.youtube.com/watch?v=FzirgyVsoIc).
 
 **Workstation/Ports**: Place where manual labourer does the tasks assigned to each one of them. For moreinfo, refer to [this link](https://www.autostoresystem.com/system/workstations).
 
@@ -351,3 +357,4 @@ Platforms, Mar 2024 - [Download link](https://www.gartner.com/doc/reprints?id=1-
 1. [Warehouse of the Future, MIT Report](https://ctl.mit.edu/sites/ctl.mit.edu/files/2024-03/The%20Warehouse%20of%20the%20Future.pdf), Mar 2024
 1. [Critical Capabilities for Warehouse Management Systems](https://www.gartner.com/doc/reprints?id=1-2I2QN8RE&ct=240712&st=sb), Gartner, Aug 2024
 1. [Warehouse Robotics Software 2024: That was Then, This is Now](https://on24static.akamaized.net/event/46/09/41/7/rt/1/documents/resourceList1718744014646/roboteonrobotics247webcast202406181718744014646.pdf), Webinar slides, Jun 2024, [link to webinar recording](https://event.on24.com/wcc/r/4609417/B80A57EAB9292C1EE678D42CBF648C13)
+1. [2023 Warehouse/DC Operations Survey: Automating while upping performance](https://www.scmr.com/article/2023_warehouse_dc_operations_survey_automating_while_upping_performance), Supplychain Management Review
