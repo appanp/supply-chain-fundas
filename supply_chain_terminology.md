@@ -7,7 +7,7 @@
 
 ### Terminology
 
-**3PL Logistics Provider**: A 3PL (third-party logistics) provider offers outsourced logistics services, which encompass anything that involves management of one or more facets of procurement and fulfillment activities. In business, 3PL has a broad meaning that applies to any service contract that involves storing or shipping items. A 3PL service may be a single provider, such as transportation or warehouse storage, or it can be a systemwide bundle of services capable of handling supply chain management. For more info, refer to [this link](https://www.techtarget.com/searcherp/definition/3PL-third-party-logistics)
+**3PL Logistics Provider**: A 3PL (third-party logistics) provider offers outsourced logistics services, which encompass anything that involves management of one or more facets of procurement and fulfillment activities. In business, 3PL has a broad meaning that applies to any service contract that involves storing or shipping items. A 3PL service may be a single provider, such as transportation or warehouse storage, or it can be a systemwide bundle of services capable of handling supply chain management. For more info, refer to [this link](https://www.techtarget.com/searcherp/definition/3PL-third-party-logistics), [3PL Warehousing 101](https://kanbanlogistics.com/blog/3pl-warehousing-101) and [What is a 3PL? A Complete Guide to 3PL Warehousing](https://www.extensiv.com/what-is-a-3pl).
 
 **Advanced Cartonization**: Cartonization is the process of finding the best way to package items for shipping. By evaluating the size, shape and weight of each item, cartonization can speed up order delivery and increase profitability. Imagine a warehouse, pickers are on the floor going from location to location picking one or two orders into totes. When complete they walk to a pack station and drop off the materials to be packed and ship. Rinse and repeat. This strategy requires a lot of labor and can lead to unacceptable error rates. There is also a good chance the company is losing money in shipping by not taking advantage of the dimensional (DIM) weight protocols. Using advanced cartonization (also called pick to box) in a warehouse can take the guesswork out of the DIM weight rules before a single item is picked. For more info, refer to [this link](https://hy-tek.com/resources/advanced-cartonization/).
 
@@ -42,6 +42,8 @@ Advantages of advanced cartonization are:
 4. How to choose right system?
 5. How much do they cost?
 6. Alternative: AMR") and [this vendor products specific link](https://www.bastiansolutions.com/solutions/technology/asrs)
+
+**Bonded Warehouse**: A bonded warehouse (or customs warehouse) is a secure storage facility where shippers can store their imported goods without needing to immediately pay import taxes and duties. To put it another way: when goods are held in bonded warehouses, they’re considered to be still in transit to their final destination. Only when goods are dispatched from the secure area of a bonded warehouse to their final destination, do these fees apply. These warehouses can be found all over the world and are traditionally operated by governmental authorities or private entities under robust state customs guidelines. For more info, refer to [this link](https://www.maersk.com/logistics-explained/storage-and-warehousing/2024/09/06/bonded-warehouses-explained).
 
 **Barcode**: Barcode is used to encode data in a format which can be easily scanned by scanner for automation. In a warehouse, it is used to identify things and locations.
 
