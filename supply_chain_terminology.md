@@ -332,7 +332,7 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 
 **Yard Management**: Yard management is the act of planning, controlling, organizing, and guiding vehicles, containers, and other methods of transport to the optimal dock or location in the yard of a distribution center or warehouse to efficiently move goods from the warehouse to the point of transportation. When executed properly, it optimizes the flow of vehicles and cargo within the on-premises yard. This is an optional warehouse operation. For more info, refer to [this link](https://www.manh.com/our-insights/resources/articles/what-is-yard-management) and this [Fourkites' What is a Yard Management System?](https://www.fourkites.com/yard-management-system/).
 
-**Yard Management System (YMS)**: Yard Management System, or YMS is a software solution designed to monitor the movement of trailers in the yard and dock of a facility, distribution center, or warehouse. Yard Management Systems can create valuable opportunities for agility and efficiency by filling the visibility gaps in your operations between transportation and warehouse. For more info, refer to [this link](https://www.fourkites.com/yard-management-system/).
+**Yard Management System (YMS)**: Yard Management System, or YMS is a software solution designed to monitor the movement of trailers in the yard and dock of a facility, distribution center, or warehouse. Yard Management Systems can create valuable opportunities for agility and efficiency by filling the visibility gaps in your operations between transportation and warehouse. For more info, refer to [this link](https://kaleris.com/solutions/yard-management/).
 
 **Zone Picking**: This is one type of picking operation. Zone picking involves workers dedicated to a specific section passing order totes from one zone to the next.
 
@@ -345,6 +345,8 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 1. [Oracle Cloud WMS REST API Guide, Release 24B](https://docs.oracle.com/en/cloud/saas/warehouse-management/24b/owmre/change-history.html#u30239948)
 1. [Oracle WMS Cloud, Product Doc, Rel.24c](https://docs.oracle.com/en/cloud/saas/warehouse-management/24c/owmap/index.html)
 1. [DHL Transportation Management API](https://developer.dhl.com/api-reference/transportation-management)
+1. [TMS API - SAP's Business Accelerator Hub](https://api.sap.com/package/TmsForCloudPub/rest)
+1. [TMS Integrations](https://developers.samsara.com/docs/tms-integration-guide), Samsara's connected operations cloud
 
 ### References
 
