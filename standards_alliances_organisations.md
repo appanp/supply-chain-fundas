@@ -8,6 +8,16 @@
 
 ## Standards
 
+1. [MassRobotics AMR Interoperability Standard](https://insights.antdriven.com/massrobotics-amr-interoperabilty-standard)
+    * There are no updates to the github repo for *three years*.
+    * [MassRobotics standard link - 19th Jun 2023](https://www.massrobotics.org/what-is-the-massrobotics-amr-interoperability-standard/)
+    * [Antdriven link on the standard](https://insights.antdriven.com/massrobotics-amr-interoperabilty-standard)
+1. [VDA 5050 - Standarrized interface for AGV communication](https://en.vda.de/en/services/Publications/vda-5050-v-1.1.-agv-communication-interface.html)
+    * [Oct 2021 Blog on the standard](https://ifr.org/post/vda-5050-explained), Intl. Federation of Robotics
+    * [Github repo link of the standard](https://github.com/VDA5050/VDA5050)
+1. [ROS REP-0147 Standard](https://ros.org/reps/rep-0147.html) - status says "deferred".
+1. [NATO SATNAG 4586 - UCS-UAV Interoperability Standard](https://nso.nato.int/nso/nsdd/main/standards?search=4586)
+    * STANAG 4586 (NATO Standardization Agreement 4586) is a NATO Standard Interface of the Unmanned Control System (UCS) Unmanned Aerial Vehicle (UAV) interoperability. It defines architectures, interfaces, communication protocols, data elements and message formats. It includes data link, command and control, and human/computer interfaces.
 1. [ISO/IEC 15438 - Automatic identification and data capture techniques - PDF417 bar code symbology specification](https://webstore.iec.ch/en/publication/23356), 2015
 1. [EDI Transaction Set - Quick Reference Guide](https://www.1edisource.com/resources/library/edi-transaction-guide/), 1EDISource, cross-1edi-source-quick-reference-guide-en-us.pdf, accessed 8th Sep, 2024
 1. [EPICS and CBV from GS1](https://www.gs1.org/standards/epcis)
