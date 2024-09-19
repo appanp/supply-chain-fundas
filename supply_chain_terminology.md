@@ -90,7 +90,7 @@ For vendors who have automated this process are:
 
 **Flexible Path Equipment**: Material handling equipment such as forklifts that are not required to follow fixed paths.
 
-**Forward Pick Area/Location**: Storage area where small quantities of frequently purchased items are placed. This enables faster picking as the orders come in. They are then quickly replenished from a secondary location. For more info, refer to [this link](https://og.mhi.org/downloads/industrygroups/solutions-community/white-papers/forward-pick-area.pdf).
+**Forward Pick Area/Location**: Storage area where small quantities of frequently purchased items are placed. This enables faster picking as the orders come in. They are then quickly replenished from a secondary location called *Reserve Storage Zone*. For more info, refer to [this link](https://og.mhi.org/downloads/industrygroups/solutions-community/white-papers/forward-pick-area.pdf) and [Warehouse within a Warehouse](https://www.impactwms.com/2020/10/01/warehouse-within-a-warehouse/).
 
 **Fulfillment Center (FC)**: Another name for Distribution Center. There are different types depending on their location, size & purpose:
 
@@ -98,7 +98,7 @@ For vendors who have automated this process are:
 - Micro FC: located within town but of smaller size & for local distribution
 - In-store FC: located in a neighborhood and part of a store or the store itself
 
-**Fulfillment Order (FO)**: It is an information object which consists of products that are part of a customer order.
+**Fulfillment Order (FO)**: It is an information object which consists of products that are part of a customer sales order.
 
 **Ghost Inventory**: Phantom Inventory, also known as Ghost Inventory, is an occurrence of unknown stockout due to inaccurate inventory information in operational systems. Phantom inventory can "cost" 1%-3% of revenue depending on the retailer. These unknown or virtual stockouts are detrimental for fast moving consumer goods retailers who have brick-and-mortar stores and/or offer buy-online-pick-in-store (BOPIS). For more info, refer to [this link](https://www.kloud9.nyc/solutions/stockout-sentinel).
 
@@ -120,7 +120,7 @@ For vendors who have automated this process are:
 
 Serial numbers are a part of everyday life. Your cell phone likely has an IMEI number that your carrier used to activate your phone line. Your car has a VIN for warranty, maintenance, insurance, and recall purposes. Most firearms and laptops will also have serial numbers attached to them. For more info, refer to [this link](https://wareiq.com/resources/blogs/inventory-serialization-for-ecommerce-business/)
 
-**Kit**: 1) The components of a parent item that have been pulled from stock and prepared for movement to a production area. 2) A group of repair parts to be shipped with an order. Same as kitted material, staged material.
+**Kit**: 1) The components of a parent item that have been pulled from stock and prepared for movement to a production area. 2) A group of repair parts to be shipped with an order. Same as kitted material, staged material. While the terms kitting and bundling are often used interchangeably, there’s a stark difference between the two. Kitted items are individual yet complementary goods that are packed into a single kit and are sold as one unit. On the other hand, bundling is a broad term used to describe the process of packing several SKUs together, regardless of whether they complement each other. For more info, refer to [this link](https://modula.us/blog/kitting-in-warehouse/).
 
 **Kitting**: The process of constructing and staging kits. For more info, refer to [this link](https://www.thefulfillmentlab.com/blog/kitting-warehouse/).
 - [OSARO Robot Kitting Solution](https://osaro.com/solutions/kitting)
@@ -188,7 +188,7 @@ A few vendors who have MCPM software are listed below:
 
 **Pallet Jack**: A type of material handling equipment that combines pallets horizontally but has no lifting capability. A pallet jack is the most basic form of forklift and is intended to move pallets in a warehouse or trailer. Pallet jacks are some of the most essential tools found in warehouses and are used for transporting small loads for short distances. Typically, both manual and powered pallet jacks are used for loading and unloading of trucks while riding electric pallet jacks can be used for horizontal transport through warehouses. For more info, refer to [this link](https://www.raymondcorp.com/information/frequently-asked-questions/what-is-a-pallet-jack).
 
-**Pallet Positions**: A calculation that determines the space needed for the number of pallets for inventory storage or transportation based on a standard pallet size. Pallet dimensions vary around the globe but are typically constant in regional markets. The term is frequently used to quote storage and transportation rates.
+**Pallet Positions**: A calculation that determines the space needed for the number of pallets for inventory storage or transportation based on a standard pallet size. Pallet dimensions vary around the globe but are typically constant in regional markets. The term is frequently used to quote storage and transportation rates. Pallent position refers to a single slot in a warehouse rack that can fit one 48” by 40” pallet. One warehouse rack usually has multiple pallet positions, with the precise number of positions ranging from 2 to 10. For more info, refer to [this link](https://www.shipbob.com/blog/warehouse-rack/).
 
 **Pallet Rack**: A single- or multiple-level structure for storage used to support high stacking of palletized loads.
 
@@ -198,9 +198,9 @@ A few vendors who have MCPM software are listed below:
 
 **Packing**: The act of packing a fulfillment order with the products in that order. This is a WMS feature.
 
-**Person-to-Goods (P2G or PTG)**: As the name suggests, Person-to-Goods picking involves workers traveling the aisles of a warehouse or retail facility to manually select items for an order and then bringing them to an area for packing. Today, many Autonomous Mobile Robots (AMR) solutions on the market are based on Person-to-Goods fulfillment and operate as smart carts powered by software. The order picker meets the robot at the pick site, removes items from the shelf, puts them into the smart cart, then each proceeds separately to another pick location. People walk less because they tend to concentrate on a warehouse zone, say an aisle or two, which means less foot travel. The smart carts handle most of the travel including the longer return route to the packing station when all items in the order have been picked.
+**Person-to-Goods (P2G or PTG)**: As the name suggests, Person-to-Goods picking involves workers traveling the aisles of a warehouse or retail facility to manually select items for an order and then bringing them to an area for packing. Today, many Autonomous Mobile Robots (AMR) solutions on the market are based on Person-to-Goods fulfillment and operate as smart carts powered by software. The order picker meets the robot at the pick site, removes items from the shelf, puts them into the smart cart, then each proceeds separately to another pick location. People walk less because they tend to concentrate on a warehouse zone, say an aisle or two, which means less foot travel. The smart carts handle most of the travel including the longer return route to the packing station when all items in the order have been picked. For more info, refer to [this link](https://locusrobotics.com/blog/p2g-vs-fixed-automation-warehouse) which lists the pros & cons of fixed automation (a.k.a G2P) and P2G automation.
 
-**Picker**: It is a person who does the picking of items to be packed.
+**Picker**: It is a person or a robot who does the picking of items to be packed or moved to a conveyer/belt (also called Pick-to-Belt) for further processing.
 
 **Pick-to-Box**: Pick-to-box is an order picking technique that consists of retrieving goods from their locations and consolidating several orders at the same time. That is, operators place products directly in the boxes that will be sent to end customers. With this method, three processes are carried out at once: order picking, consolidation and packing. For more info, refer to [this link](https://www.mecalux.com/blog/pick-to-box)
 
@@ -216,7 +216,7 @@ A few vendors who have MCPM software are listed below:
 
 **Put-away**: Put-away is a process that involves receiving inventory in a warehouse or distribution center, organizing it, and then storing it in its designated location. The goal is to ensure that the right items are stored in the optimal storage location and that they are easily accessible when needed. Put-away is a key component of an effective warehouse inventory management system and it can have a major impact on how quickly goods are located and retrieved. For more info, refer to [this link](https://www.cadretech.com/blog/warehouse-putaway-process).
 
-**Put-to-Light System**: Often referred to as “pick-to-light in reverse,” a put-to-light system uses light modules that direct operators to the correct location to sort, or “put,” items into. (As opposed to a pick-to-light system, where lights direct operators to stock keeping unit/SKU locations to select, or “pick,” items.)
+**Put-to-Light System**: Often referred to as “pick-to-light in reverse”, a put-to-light system uses light modules that direct operators to the correct location to sort, or “put,” items into. (As opposed to a pick-to-light system, where lights direct operators to stock keeping unit/SKU locations to select, or “pick,” items.)
 
 **Receiving**: It is the process of handling inbound inventory into a warehouse. This is a Warehouse operation. The warehouse receiving process involves several steps, including:
 
@@ -281,7 +281,7 @@ A few of the vendors smart slotting solutions are listed below:
 
 **Third Party Logistics (3PL) Billing**: 3PL billing is the process of calculating charges for services provided to a client and generating an invoice. In a 3PL warehouse, the provided services may include warehousing, transportation, inventory management, order fulfillment, and value-added services. Accurate billing is essential to ensure transparent and accurate financial transactions and bookkeeping. It also facilitates effective revenue management to keep your company profitable. You can bill customers manually or leverage 3PL billing software built for making calculating, generating, issuing, and recording invoices easier. This is a WMS feature. For more info, refer to [this link](https://www.logiwa.com/blog/3pl-billing-automation) and [3PL Billing: Guide to Optimizing Your Invoicing Process](https://www.cadretech.com/blog/3pl-billing/).
 
-**Transportation Management System (TMS)**: It is a software platform that helps businesses effectively plan, execute, and optimise the movement of goods from point A to point B. It provides end-to-end visibility and control over every aspect of your supply chain, allowing you to streamline operations, enhance collaboration, and make data-driven decisions. For more info, refer to [this link](https://www.maersk.com/logistics-explained/supply-chain-management/2024/05/16/transportation-management-system).
+**Transportation Management System (TMS)**: It is a software platform that helps businesses effectively plan, execute, and optimise the movement of goods from point A to point B. It provides end-to-end visibility and control over every aspect of your supply chain, allowing you to streamline operations, enhance collaboration, and make data-driven decisions. For more info, refer to [this link](https://www.maersk.com/logistics-explained/supply-chain-management/2024/05/16/transportation-management-system) and [Korber TMS infographic](https://library.ksc-s.com/m/4ba6516654de6a2d/original/Transport-Management-Systems-TMS.pdf).
 
 **Truck Loading**: Truck loading constitutes the process by which products are placed on a vehicle in order to be transported to their destination (a distribution center, another warehouse, or directly to the end customer). It’s vital to make sure that the weight distribution in the truck is correct and, particularly, that there are no mistakes in the goods dispatched or assigned. Properly loading goods onto a truck is a complex process, especially when faced with increasingly varied packaging, unit loads, and transportation modes. Software and digitalisation are the solution to this issue, as they help to automate a large part of this process, making it quicker and more effective. This is a WMS feature. For more info, refer to [this link](https://www.mecalux.com/blog/truck-loading-software).
 
@@ -312,7 +312,7 @@ A few of the WES vendors are listed below:
 - Control flow of inventory within the warehouse for picking & packing
 - Manages the order flows and tasking
 
-For more info, refer to [this link](https://radiuslogistics.co.uk/10-must-have-features-for-good-warehouse-management-system/). For a comparison of functionalities between WMS, WES and WCS, refer to [this link](https://www.logiwa.com/blog/wms-wes-wcs-taking-the-confusion-out-of-warehouse-systems) and [how WES is changing the status quo in distribution](https://www.youtube.com/watch?v=1XEPI9x1vnk).
+For more info, refer to [this link](https://radiuslogistics.co.uk/10-must-have-features-for-good-warehouse-management-system/). For a comparison of functionalities between WMS, WES and WCS, refer to [Logiwa's Taking theconfusion out of Warehouse Systems](https://www.logiwa.com/blog/wms-wes-wcs-taking-the-confusion-out-of-warehouse-systems), [Korber's WMS Inforgraphic](https://library.ksc-s.com/m/1251cd59cad5fc82/original/Warehouse-Management-Systems-WMS.pdf), [Making the case for Driving Digital Transformation with a Smarter, Connected WMS, Ehrhardt Partner Group](https://scg-mmh.s3.amazonaws.com/pdfs/MTC_Ehrhardt-MMH-11-15-18.pdf) and [how WES is changing the status quo in distribution](https://www.youtube.com/watch?v=1XEPI9x1vnk).
 
 **Warehouse Racking**: An essential part of warehouse infrastructure, warehouse racking can hinder or accelerate warehouse operations. With proper warehouse racking, warehouse managers maximize space and optimize warehouse organization for efficiency and a streamlined picking process. (Learn more about How to Organize a Warehouse). Warehouse layout plays a major role in warehouse racking, as aisle width, docking locations, shipping areas, and other warehouse components affect warehouse racking options. For more info, refer to [this link](https://www.camcode.com/blog/what-is-warehouse-racking/).
 
