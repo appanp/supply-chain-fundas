@@ -166,6 +166,8 @@ As with vehicle license plates, a lot of different information can be associated
 
 **Micro-fulfillment Center (MFC)**: Micro-fulfillment refers to the process of utilizing small-scale automated fulfillment centers strategically located near urban areas to facilitate rapid order processing and delivery. Equipped with advanced robotics, conveyor systems, and software algorithms, these compact facilities efficiently pick, pack, and dispatch orders in a fraction of the time it takes traditional warehouses. For more info, refer to [this link](https://www.dropoff.com/blog/micro-fulfillment/)
 
+**Multi-Agent Orchestration (MAO)**: Orchestration of multiple robots in the Warehouse.For more info, refer to [this link](https://www.greyorange.com/resource/multiagent-orchestration-explained/).
+
 **Multicarrier Parcel Management (MCPM)**: Multicarrier parcel management solutions help companies select the most appropriate parcel carrier from among all contracted carriers. This selection is based on order characteristics (such as weight and dimensional properties), delivery rules (such as delivery time and delivery zone) and carrier performance, while considering the cost differentials of various carrier offerings. These tools also enable shippers and 3PLs to manage the creation of labels, create shipper manifests, provide status messages to customers or customer service representatives, and manage carrier rates. For more info, refer to [this link](https://www.gartner.com/reviews/market/multicarrier-parcel-management-solutions).
 
 A few vendors who have MCPM software are listed below:
@@ -184,7 +186,7 @@ A few vendors who have MCPM software are listed below:
 
 **Packer**: It is a person who packs the products that are in a specific fulfillment order.
 
-**Pallet**: A platform designed to be loaded with packages and moved by a forklift or AMRs depending on the load to be carried. For more info, refer to [this link](https://www.inboundlogistics.com/articles/pallets-backbone-of-the-warehouse).
+**Pallet**: A platform designed to be loaded with packages and moved by a forklift or AMRs depending on the load to be carried. For more info, refer to [this link](https://www.inboundlogistics.com/articles/pallets-backbone-of-the-warehouse) and [three types of pallets](https://hwppallets.com/news/3-different-types-pallets.aspx).
 
 **Pallet Jack**: A type of material handling equipment that combines pallets horizontally but has no lifting capability. A pallet jack is the most basic form of forklift and is intended to move pallets in a warehouse or trailer. Pallet jacks are some of the most essential tools found in warehouses and are used for transporting small loads for short distances. Typically, both manual and powered pallet jacks are used for loading and unloading of trucks while riding electric pallet jacks can be used for horizontal transport through warehouses. For more info, refer to [this link](https://www.raymondcorp.com/information/frequently-asked-questions/what-is-a-pallet-jack).
 
@@ -372,3 +374,5 @@ Platforms, Mar 2024 - [Download link](https://www.gartner.com/doc/reprints?id=1-
 1. [Critical Capabilities for Warehouse Management Systems](https://www.gartner.com/doc/reprints?id=1-2I2QN8RE&ct=240712&st=sb), Gartner, Aug 2024
 1. [Warehouse Robotics Software 2024: That was Then, This is Now](https://on24static.akamaized.net/event/46/09/41/7/rt/1/documents/resourceList1718744014646/roboteonrobotics247webcast202406181718744014646.pdf), Webinar slides, Jun 2024, [link to webinar recording](https://event.on24.com/wcc/r/4609417/B80A57EAB9292C1EE678D42CBF648C13)
 1. [2023 Warehouse/DC Operations Survey: Automating while upping performance](https://www.scmr.com/article/2023_warehouse_dc_operations_survey_automating_while_upping_performance), Supplychain Management Review
+1. [Checklist to conside before you Automate](https://web.envistacorp.com/hubfs/Checklist_Before-You-Start-to-Automate.pdf), enVista corp.
+1. [Gartner MQ for Indoor Location Services, 2024](https://www.gartner.com/doc/reprints?id=1-2GRMVD7F&ct=240229&st=sb)
