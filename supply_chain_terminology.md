@@ -28,6 +28,8 @@ Advantages of advanced cartonization are:
 - For more info refer to [this link](https://www.gartner.com/en/information-technology/glossary/asn-advanced-shipment-notice "EDI856 is an important & frequently used transaction among suppliers, distributors, manufacturers and retailers")
 - [EDI 856 message details with sample](https://www.truecommerce.com/edi-transaction-codes/edi-856)
 
+**Allocation Rules**: Allocation rules are a set of predefined guidelines and strategies that dictate how products are allocated or assigned to specific locations within a warehouse. These rules are designed to optimize storage space, improve order fulfillment, and enhance overall warehouse efficiency. They take into account various factors, such as product characteristics, demand patterns, and storage capacities. For more info, refer to [this link](https://axacute.com/blog/understanding-allocation-rules-in-warehouses/).
+
 **Areas in a Warehouse**: Warehouse areas refer to the specific zones reserved for particular activities such as receiving, storage, order picking and shipping, among others. Each area has a special purpose and is designed to facilitate the flow of materials and products within the facility. For more info, refer to [this link](https://www.mecalux.com/blog/warehouse-areas). There are usually _five areas_ in a warehouse which are the following:
 
 1. _Docks and loading/unloading area_: where materials enter and leave on trucks or other goods transport vehicles.
@@ -92,13 +94,13 @@ For vendors who have automated this process are:
 
 **Forward Pick Area/Location**: Storage area where small quantities of frequently purchased items are placed. This enables faster picking as the orders come in. They are then quickly replenished from a secondary location called *Reserve Storage Zone*. For more info, refer to [this link](https://og.mhi.org/downloads/industrygroups/solutions-community/white-papers/forward-pick-area.pdf) and [Warehouse within a Warehouse](https://www.impactwms.com/2020/10/01/warehouse-within-a-warehouse/).
 
-**Fulfillment Center (FC)**: Another name for Distribution Center. There are different types depending on their location, size & purpose:
+**Fulfillment Center (FC)**: Also known as Distribution Center (DC). There are different types depending on their location, size & purpose:
 
 - Out-of-town FC: located outside of town of a larger size
 - Micro FC: located within town but of smaller size & for local distribution
 - In-store FC: located in a neighborhood and part of a store or the store itself
 
-**Fulfillment Order (FO)**: It is an information object which consists of products that are part of a customer sales order.
+For differences between Warehouse and FC, refer to [this link](https://www.shipbob.com/blog/differences-warehouse-fulfillment-center).
 
 **Ghost Inventory**: Phantom Inventory, also known as Ghost Inventory, is an occurrence of unknown stockout due to inaccurate inventory information in operational systems. Phantom inventory can "cost" 1%-3% of revenue depending on the retailer. These unknown or virtual stockouts are detrimental for fast moving consumer goods retailers who have brick-and-mortar stores and/or offer buy-online-pick-in-store (BOPIS). For more info, refer to [this link](https://www.kloud9.nyc/solutions/stockout-sentinel).
 
@@ -114,7 +116,9 @@ For vendors who have automated this process are:
 
 **Inventory Allocation**: Having the right amount of inventory in the right places is a critical component of inventory management. Let’s say you’re a clothing retailer with multiple locations across the U.S. How do you make sure each one of your stores is sufficiently stocked to meet customer demand? Should each location carry equal amounts of the latest designer jeans, for example, or should more go to locations in colder climates? How much inventory should you keep in your warehouse to fulfill online orders? These decisions, and more, underscore the importance of a sound inventory allocation strategy. For more info, refer to [this link](https://www.netsuite.com/portal/resource/articles/inventory-management/inventory-allocation.shtml).
 
-**Inventory Management**: It is the act of managing the product inventory across warehouses and inside a single warehouse. Depending on the level of control, the specific locations of each SKU should be available in the inventory management module of WMS. This is a WMS feature.
+**Inventory Management (IM)**: It is the act of managing the product inventory across warehouses and inside a single warehouse. Depending on the level of control, the specific locations of each SKU should be available in the inventory management module of WMS. This is a WMS/OMS/ERP Feature. In the context of a warehouse, IM refers to managing inventory within a warehouse and is an important function of a WMS. For more info, refer to [this link](https://www.netsuite.com/portal/resource/articles/inventory-management/warehouse-inventory-management-guide.shtml) which explains difference between WMS and IMS systems and [Stock overload? 9 inventory management strategies](https://www.maersk.com/logistics-explained/supply-chain-management/2024/02/20/nine-inventory-management-strategies) from Maersk.
+
+**Inventory Management System (IMS)**: A software/hardware system which manages inventory within and across warehouses, DCs and FCs. For more info, refer to [this link](https://www.argosoftware.com/blog/guide-to-warehouse-inventory-management/).
 
 **Inventory Serialization**: For most inventory management scenarios, each product's total quantity on hand is the most important piece of data to track. As long as you know how much of each product's stock is coming in through the back door and out through the front, your inventory needs are met. But what if individual units need to be tracked separately? This type of situation isn't as uncommon as you might think. There are many cases in which the individual items being kept in inventory and sold to customers need to have unique identifiers attached to them. This is called serialization, and is most commonly used on high-value goods for more precise tracking or for warranty claims.
 
@@ -138,7 +142,7 @@ As with vehicle license plates, a lot of different information can be associated
 - Lot number
 - Location
 
-**License Plating**: License plating in the food supply chain refers to how inventory items are tracked throughout the warehouse environment using a license plate.
+**License Plating**: License plating in the food supply chain refers to how inventory items are tracked throughout the warehouse environment using a license plate. For more info, refer to [this link](https://www.cargoz.com/glossary/license-plate-1169).
 
 **Light Manufacturing**: Also known as Kitting.
 
@@ -182,7 +186,11 @@ A few vendors who have MCPM software are listed below:
 - _Manual Allocation_: A warehouse manager can assign inventory to an open order automatically when it's received or when a line item is entered.
 - _Automated/Semi-automated_: order allocation engines can use AI to make recommendations, analyze data in real-time, and create and adjust allocation rules, example: [Fujitsu's Glovia OM](https://www.fujitsu.com/us/microsite/gloviaom/solutions/intelligent-order-allocation-engine/).
 
+**Order Fulfillment**: Refers to the process of fulfilling or completing a sales order by delivering the goods to the customer. For more info, refer to [this link](https://www.salesforce.com/commerce/order-management/order-fulfillment-guide/) which explains the *five steps of fulfillment* and [this link](https://www.shipbob.com/blog/order-fulfillment/).
+
 **Order Management System (OMS)**: OMS platforms provide a single, centralized system for managing orders from multiple sales channels, include brick-and-mortar locations, websites, call centers, mobile orders, kiosks and more. It simplifies the buying process for customers, and makes it easier to manage orders, inventory, fulfillment and returns for businesses. For more info, refer to [this link](https://www.netsuite.com/portal/resource/articles/erp/what-is-oms.shtml)
+
+**Order Picking**: The act of picking the products required for a fulfillment order in the required quantity. There are different ways in which picking can be done such as [zone picking](#zone-picking), etc. and are explained [here](https://6river.com/types-of-warehouse-order-picking-systems/). For more info, refer to [this link](https://www.sciencedirect.com/science/article/pii/S0360835221004150) which introduces 11-types of order picking. This is a warehouse operation.
 
 **Packer**: It is a person who packs the products that are in a specific fulfillment order.
 
@@ -192,13 +200,13 @@ A few vendors who have MCPM software are listed below:
 
 **Pallet Positions**: A calculation that determines the space needed for the number of pallets for inventory storage or transportation based on a standard pallet size. Pallet dimensions vary around the globe but are typically constant in regional markets. The term is frequently used to quote storage and transportation rates. Pallent position refers to a single slot in a warehouse rack that can fit one 48” by 40” pallet. One warehouse rack usually has multiple pallet positions, with the precise number of positions ranging from 2 to 10. For more info, refer to [this link](https://www.shipbob.com/blog/warehouse-rack/).
 
-**Pallet Rack**: A single- or multiple-level structure for storage used to support high stacking of palletized loads.
+**Pallet Rack**: A single- or multiple-level structure for storage used to support high stacking of palletized loads. For more info, refer to [this link](https://www.cargoz.com/glossary/pallet-rack-1434).
 
-**Pallet Ticket**: A label to track pallet-sized quantities of end-items produced that identifies the specific sublot with specifications determined by periodic sampling and analysis during production.
+**Pallet Ticket**: A label to track pallet-sized quantities of end-items produced that identifies the specific sublot with specifications determined by periodic sampling and analysis during production. For more info, refer to [this link](https://www.cargoz.com/glossary/pallet-ticket-1436).
 
 **Parcel Manifest System**: It is used by shipping companies and carriers to create, manage, and transmit manifests containing detailed information about packages, shipments, and their contents for tracking and regulatory compliance purposes. A parcel manifest system is a comprehensive electronic tracking and management system designed to streamline the handling and tracking of parcels throughout their journey in the shipping and logistics industry. This system serves as a centralized database that stores detailed information about each parcel, including its origin, destination, contents, weight, and shipping status. By utilizing barcodes, QR codes, or other unique identifiers, the Parcel Manifest System enables real-time tracking and monitoring of parcels at various stages of the shipping process, from dispatch to delivery. This not only enhances the efficiency of the shipping process but also provides transparency for both shippers and recipients. For more info, refer to [this link](https://www.speedcommerce.com/what-is/parcel-manifest-system). This is a WMS feature.
 
-**Packing**: The act of packing a fulfillment order with the products in that order. This is a WMS feature.
+**Packing**: The act of packing a fulfillment order with the products in that order. This is a WMS feature. For more info, refer to [this link](https://www.dematic.com/en-us/products/workstations/).
 
 **Person-to-Goods (P2G or PTG)**: As the name suggests, Person-to-Goods picking involves workers traveling the aisles of a warehouse or retail facility to manually select items for an order and then bringing them to an area for packing. Today, many Autonomous Mobile Robots (AMR) solutions on the market are based on Person-to-Goods fulfillment and operate as smart carts powered by software. The order picker meets the robot at the pick site, removes items from the shelf, puts them into the smart cart, then each proceeds separately to another pick location. People walk less because they tend to concentrate on a warehouse zone, say an aisle or two, which means less foot travel. The smart carts handle most of the travel including the longer return route to the packing station when all items in the order have been picked. For more info, refer to [this link](https://locusrobotics.com/blog/p2g-vs-fixed-automation-warehouse) which lists the pros & cons of fixed automation (a.k.a G2P) and P2G automation.
 
@@ -210,7 +218,7 @@ A few vendors who have MCPM software are listed below:
 
 - [AIOI has developed Pick to Light System applying Microwave Remote Power Transfer technology first time in the industry.](https://hello-aioi.com/en/news_events/news/aioi-has-developed-pick-to-light-system-applying-microwave-remote-power-transfer-technology-first-time-in-the-industry/)
 
-**Order Picking**: The act of picking the products required for a fulfillment order in the required quantity. There are different ways in which picking can be done such as [zone picking](#zone-picking), etc. and are explained [here](https://6river.com/types-of-warehouse-order-picking-systems/). For more info, refer to [this link](https://www.sciencedirect.com/science/article/pii/S0360835221004150) which introduces 11-types of order picking. This is a warehouse operation.
+**Pick-to-Tote**: In a tote picking (or “pick-to-tote”) operation, there is the advantage of a dedicated packing function – what we mean by this is that since totes can be “one size (or a range of them) fits all,” pickers can easily pick and organize totes as they navigate the system, either on a conveyor or in carts. To put it succinctly, they aren’t thinking of anything but getting the pick right, thus focusing on what really matters: picking. For more info, refer to [this link](https://erpsoftwareblog.com/2020/03/tote-picking-what-you-should-know/).
 
 **Picking and Pass**: A process in which forward piece-picking locations are grouped into zones, and operators in each zone pick items into a carton or tote in their zones, and then “pass” the carton or tote to a picker in the next zone, often assisted by a roller conveyor. This is a WMS operation.
 
@@ -220,7 +228,7 @@ A few vendors who have MCPM software are listed below:
 
 **Put-to-Light System**: Often referred to as “pick-to-light in reverse”, a put-to-light system uses light modules that direct operators to the correct location to sort, or “put,” items into. (As opposed to a pick-to-light system, where lights direct operators to stock keeping unit/SKU locations to select, or “pick,” items.)
 
-**Receiving**: It is the process of handling inbound inventory into a warehouse. This is a Warehouse operation. The warehouse receiving process involves several steps, including:
+**Receiving**: It is the process of handling inbound inventory into a warehouse. This is a Warehouse operation. For more info, refet to [this link](https://www.easyship.com/blog/warehouse-receiving-process). The warehouse receiving process involves several steps, including:
 
 - Pre-arrival preparation: Confirm deliveries with suppliers and establish communication channels
 - Shipment arrival: Verify the driver and delivery truck's identity
@@ -238,6 +246,8 @@ For best practices in the receiving process, watch [this video (7 mins)](https:/
 
 **Return Management**: Returns management is the systematic approach for dealing with customer returns. It ensures efficiency, customer satisfaction, and cost-effectiveness. Returns Management focuses on the efficient handling and processing of customer returns. It is essential for merchants as it directly impacts customer experience, operations efficiency, and business profitability. Managing a return across the full life cycle includes RMA authorization and validation. The final return resolution can be a refund, exchange, store credit, or even a warranty return. Efficient returns management is crucial for maintaining positive customer relationships and loyalty. By providing a seamless and hassle-free returns process, merchants can enhance customer satisfaction and trust. This is a warehouse operation. For more info, refer to [this link](https://www.returnlogic.com/returns-management-software/)
 
+**Reverse Logistics**: Logistics for processing returns. For more info, refer to [this link](https://www.maersk.com/logistics-explained/supply-chain-management/2024/01/30/logistics-types-explained).
+
 **Reverse Put-away**: The picking method that is the reverse of direct put-away in a warehouse management system is known as reverse put-away. While direct put-away involves moving goods directly from receiving to their final storage location, reverse put-away typically involves moving items to a temporary staging area or directly to the shipping docks if they are needed immediately for outgoing orders. This method is efficient in operations where inventory turnover is high, and products are dispatched soon after they are received. For more info, refer to [this link](https://support.unicommerce.com/index.php/knowledge-base/putaway-reverse-pickup-items-new-ux/) - specific to Unicommerce.
 
 **Shipping Execution**: For Oracle specific documentation on shipping execution, refer [this user guide](https://docs.oracle.com/cd/E26401_01/doc.122/e48847/toc.htm). It is an IT system which does the following:
@@ -247,6 +257,8 @@ For best practices in the receiving process, watch [this video (7 mins)](https:/
 - Printing parcel carrier label to put on actual box
 
 **Shipping Manifest**: When a shipment is “manifested,” it means that the details of the cargo have been officially recorded in a shipping manifest, which is prepared by the carrier. This process involves compiling all relevant information about the shipment, including the types of goods, their quantities, weight, origin, and destination, and entering these details into the manifest document. The status of a shipment being “manifested” indicates that it has been documented and is ready for transportation. For more info, refer to [this link](https://www.shipengine.com/blog/what-is-a-manifest) and [What is shipping manifest: A comprehensive guide](https://wareiq.com/resources/blogs/shipping-manifest/).
+
+**Shipping Order (SO)**: A Shipping Order (SO) is a document that is issued by the shipping line which confirms that the equipment and the space on the vessel are available. It also provides information on the container pickup and delivery locations, as well as all of the submission deadlines. For more info, refer to [this link](https://www.freightcourse.com/shipping-order/).
 
 **Shipping Rate**: Shipping rates are what you charge your customer in addition to the cost of the products that they order. The cost of any shipping rates are added to a customer's order at checkout. You can set up one or more shipping rates for your customers to choose from. When you create shipping rates, you can also specify any restrictions or rules around which shipping methods are available based on the contents of the customer's cart. For more info, refer to [this link](https://help.shopify.com/en/manual/fulfillment/setup/shipping-rates/understanding-shipping-rates) and [Negotiating Shipping Rates](https://www.logiwa.com/blog/negotiating-shipping-rates).
 
@@ -265,7 +277,7 @@ A few of the vendors smart slotting solutions are listed below:
 
 **Split-Case Picking**: Also known as Piece Picking.
 
-**Stock-out**: It is the condition of a product going out-of-stock.
+**Stock-out**: It is the condition of a product going out-of-stock. Imagine this: a customer walks into your store, excited to buy their favorite item. They’ve been looking forward to it all day. But when they get to the shelf, it’s empty. Disappointed, they leave without buying anything else. This is the dreaded stockout scenario—a retailer’s worst nightmare. For more info, refer to [this link](https://www.increff.com/say-goodbye-to-stockouts-heres-how-increff-ensures-inventory-availability/) from Increff.
 
 **Stock Keeping Unit (SKU)**: A stock keeping unit is a unique code companies use to track products internally. Because businesses create their own individual SKUs, they are unique to each product and each company. Because SKUs are an internal tool, there are no official rules on how to develop or use them. However, you can learn from the best practices of industry leaders who have well-designed SKU systems that maximize efficiency and include all the key product data. A business often times refers to its sellable products as SKUs. For more info, refer to [this link](https://www.netsuite.com/portal/resource/articles/inventory-management/stock-keeping-unit-SKU.shtml).
 
@@ -277,15 +289,19 @@ A few of the vendors smart slotting solutions are listed below:
 
 **Tagging**: Also called labelling, it is the act of identifying locations, products, equipments and may be even people in the warehouse using barcodes, RFIDs tags, NFC tags, and other ways so that the systems know what you are taking or leaving and from which place or location in the warehouse. For more info, refer to [this link](https://www.camcode.com/wp-content/uploads/2024/08/Warehouse-Labelling-Checklist-5.pdf)
 
-**Task Allocation**: It is the function of allocating or assigning tasks to operators and other automation equipments in the warehouse.
+**Task Allocation**: It is the function of allocating or assigning tasks to operators and other automation equipments in the warehouse. For more info, refer to [this link](https://ieeexplore.ieee.org/document/9841337).
 
 **Task Interleaving**: Task interleaving consists of combining two or more tasks on a single run through the warehouse. Task interleaving makes it possible, for instance, for pickers to retrieve the SKUs they need to put together an order and to then take advantage of the trip back to replenish a product. This strategy includes all types of logistics activity, from order picking to inventory and goods replenishment operations. The main aims of task interleaving are to increase warehouse productivity and reduce deadheading (unproductive travel). By combining two or more tasks, operators make the most of their trips, cutting down on unnecessary movements. For more info, refer to [this link](https://www.mecalux.com/blog/task-interleaving-warehouse).
 
-**Third Party Logistics (3PL) Billing**: 3PL billing is the process of calculating charges for services provided to a client and generating an invoice. In a 3PL warehouse, the provided services may include warehousing, transportation, inventory management, order fulfillment, and value-added services. Accurate billing is essential to ensure transparent and accurate financial transactions and bookkeeping. It also facilitates effective revenue management to keep your company profitable. You can bill customers manually or leverage 3PL billing software built for making calculating, generating, issuing, and recording invoices easier. This is a WMS feature. For more info, refer to [this link](https://www.logiwa.com/blog/3pl-billing-automation) and [3PL Billing: Guide to Optimizing Your Invoicing Process](https://www.cadretech.com/blog/3pl-billing/).
+**Third Party Logistics (3PL) Billing**: 3PL billing is the process of calculating charges for services provided to a client and generating an invoice. In a 3PL warehouse, the provided services may include warehousing, transportation, inventory management, order fulfillment, and value-added services. Accurate billing is essential to ensure transparent and accurate financial transactions and bookkeeping. It also facilitates effective revenue management to keep your company profitable. You can bill customers manually or leverage 3PL billing software built for making calculating, generating, issuing, and recording invoices easier. This is a WMS feature. For more info, refer to [this link](https://www.logiwa.com/blog/3pl-billing-automation), [SphereWMS 3PL Billing](https://spherewms.com/features/3pl-billing) and [3PL Billing: Guide to Optimizing Your Invoicing Process](https://www.cadretech.com/blog/3pl-billing/).
+
+**Tote or Bin**: Totes or Bins: Totes or bins are smaller, stackable containers used for storing and transporting small parts or components. They are commonly used in order picking and assembly processes. For more info, refer to [this link](https://shiphero.com/blog/pick-methods-and-totes/).
 
 **Transportation Management System (TMS)**: It is a software platform that helps businesses effectively plan, execute, and optimise the movement of goods from point A to point B. It provides end-to-end visibility and control over every aspect of your supply chain, allowing you to streamline operations, enhance collaboration, and make data-driven decisions. For more info, refer to [this link](https://www.maersk.com/logistics-explained/supply-chain-management/2024/05/16/transportation-management-system) and [Korber TMS infographic](https://library.ksc-s.com/m/4ba6516654de6a2d/original/Transport-Management-Systems-TMS.pdf).
 
 **Truck Loading**: Truck loading constitutes the process by which products are placed on a vehicle in order to be transported to their destination (a distribution center, another warehouse, or directly to the end customer). It’s vital to make sure that the weight distribution in the truck is correct and, particularly, that there are no mistakes in the goods dispatched or assigned. Properly loading goods onto a truck is a complex process, especially when faced with increasingly varied packaging, unit loads, and transportation modes. Software and digitalisation are the solution to this issue, as they help to automate a large part of this process, making it quicker and more effective. This is a WMS feature. For more info, refer to [this link](https://www.mecalux.com/blog/truck-loading-software).
+
+**Unit Load**: In warehouse management system, “unit load types” refer to the different forms or configurations in which goods or products are grouped together for storage, handling, and transportation within a warehouse or distribution center. Unit load types are designed to facilitate efficient movement and storage of goods, optimize space utilization, and enhance operational processes. For more info, refer to [this link](https://swifthub.net/en/blog-en/6-common-load-types-in-a-warehouse)
 
 **Unit Load Device (ULD) Containers**: Unit load devices, or ULDs, are essential components of air freight transportation. They assist in transporting different kinds of cargo, which are packaged in various pallet and container types. For more info, refer to [this link](https://www.shiprocket.in/blog/uld-containers/)
 
@@ -295,7 +311,7 @@ A few of the vendors smart slotting solutions are listed below:
 
 - [Almasons Voice Picking Solutions](https://almasons.com/voice-picking-solutions)
 
-**Warehouse**: It is a physical building which stores products in containers & racks. There can many such warehouses in a place from which orders are fulfilled. A warehouse is also called a **Distribution Center**.
+**Warehouse**: It is a physical building which stores products in containers & racks. There can many such warehouses in a place from which orders are fulfilled. Also known as **Distribution Center**.
 
 **Warehouse Control System (WCS)**: It is an IT system which implements the following functions: (1) Manages many types of automated equipment: conveyor, sorters, ASRS, Pick to light, Carrousels, Print & Apply (2) Exchanges real-time communications (ms), command processing, discrete equipment signals and the optimisation of material (multiple UOML: units, cartons and pallets). For more info, refer to [this link](https://www.conveyco.com/blog/what-is-a-warehouse-control-system-wcs/) and [this link](https://hy-tek.com/resources/what-is-a-warehouse-control-system/).
 
@@ -306,6 +322,8 @@ A few of the WES vendors are listed below:
 1. [Roboteon Robotic Fulfillment Platform](https://www.roboteon.com/download/roboteon-brochure_web_2024.pdf), Product brochure, 2024
 1. [Numina RDS WES](https://numinagroup.com/rds-warehouse-execution-system/)
 1. [Softeon WMS](https://www.softeon.com/solutions/warehouse-execution-system-wes/) - rule-based engine
+
+**Warehouse Layout**: Maximizing space and ensuring efficiency in your warehouse starts with a smart warehouse layout, from space-saving storage solutions to streamlined picking processes, that directly influence operational productivity. For more info, refer to [this link](https://spherewms.com/blog/warehouse-layout-strategies).
 
 **Warehouse Management System (WMS)**: It is an IT system which implements the following functionality:
 
@@ -330,7 +348,7 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 
 **Waveless Picking**: Dynamically determines what is truly the best next pick and updates the picker's instructions accordingly. For more info, refer to [this link](https://www.conveyco.com/blog/pros-and-cons-waveless-picking/) and [Wave vs. Waveless: which is more effective? (video)](https://www.youtube.com/watch?v=FzirgyVsoIc).
 
-**Workstation/Ports**: Place where manual labourer does the tasks assigned to each one of them. For moreinfo, refer to [this link](https://www.autostoresystem.com/system/workstations).
+**Workstation/Ports**: Place where manual labourer does the tasks assigned to each one of them. For more info, refer to [this link](https://www.autostoresystem.com/system/workstations).
 
 **Yard Management**: Yard management is the act of planning, controlling, organizing, and guiding vehicles, containers, and other methods of transport to the optimal dock or location in the yard of a distribution center or warehouse to efficiently move goods from the warehouse to the point of transportation. When executed properly, it optimizes the flow of vehicles and cargo within the on-premises yard. This is an optional warehouse operation. For more info, refer to [this link](https://www.manh.com/our-insights/resources/articles/what-is-yard-management) and this [Fourkites' What is a Yard Management System?](https://www.fourkites.com/yard-management-system/).
 
@@ -349,6 +367,7 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 1. [DHL Transportation Management API](https://developer.dhl.com/api-reference/transportation-management)
 1. [TMS API - SAP's Business Accelerator Hub](https://api.sap.com/package/TmsForCloudPub/rest)
 1. [TMS Integrations](https://developers.samsara.com/docs/tms-integration-guide), Samsara's connected operations cloud
+1. [ShipHero WMS API](https://developer.shiphero.com/)
 
 ### References
 
