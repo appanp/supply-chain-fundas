@@ -179,6 +179,7 @@ As with vehicle license plates, a lot of different information can be associated
 
 A few vendors who have MCPM software are listed below:
 1. [Fenix Commerce](https://fenixcommerce.com/multi-carrier-parcel-management/)
+1. [Multicarrier Shipping Software, Mecalux module](https://www.mecalux.com/software/multi-carrier-shipping-software)
 
 **Multicarrier Shipping**: At its core, multi-carrier shipping is a B2B logistics operation that involves utilizing multiple carriers to deliver packages. Unlike traditional methods, this approach allows businesses to compare rates, transit times, and routes, optimizing the selection of carriers based on specific package requirements. Multi-carrier shipping solutions, such as those offered by ClickPost and Aftership, use advanced technologies like AI-driven engines and API integrations to streamline the order creation, tracking, and management processes. For more info, refer to [this link](https://www.dropoff.com/blog/multi-carrier-shipping/).
 
@@ -261,6 +262,8 @@ For best practices in the receiving process, watch [this video (7 mins)](https:/
 - Printing care-compliant label
 - Printing of standard bill of lading
 - Printing parcel carrier label to put on actual box
+
+For more info, refer to [this link](https://ctsi-global.com/2022/3-key-components-to-a-successful-shipment-execution-strategy/) and [IBM Sterling WMS doc link](https://www.ibm.com/docs/en/warehouse-management/9.5.0?topic=execution-shipping).
 
 **Shipping Manifest**: When a shipment is “manifested,” it means that the details of the cargo have been officially recorded in a shipping manifest, which is prepared by the carrier. This process involves compiling all relevant information about the shipment, including the types of goods, their quantities, weight, origin, and destination, and entering these details into the manifest document. The status of a shipment being “manifested” indicates that it has been documented and is ready for transportation. For more info, refer to [this link](https://www.shipengine.com/blog/what-is-a-manifest) and [What is shipping manifest: A comprehensive guide](https://wareiq.com/resources/blogs/shipping-manifest/).
 
@@ -403,6 +406,7 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 Platforms, Mar 2024 - [Download link](https://www.gartner.com/doc/reprints?id=1-2H5E4M0F&ct=240401&st=sb)
 1. [Warehouse of the Future, MIT Report](https://ctl.mit.edu/sites/ctl.mit.edu/files/2024-03/The%20Warehouse%20of%20the%20Future.pdf), Mar 2024
 1. [Critical Capabilities for Warehouse Management Systems](https://www.gartner.com/doc/reprints?id=1-2I2QN8RE&ct=240712&st=sb), Gartner, Aug 2024
+1. [Gartner Magic Quadrant for Transportation Management Systems](https://www.gartner.com/doc/reprints?id=1-2H3GE7Y1&ct=240327&st=sb), Jun 2024
 1. [Warehouse Robotics Software 2024: That was Then, This is Now](https://on24static.akamaized.net/event/46/09/41/7/rt/1/documents/resourceList1718744014646/roboteonrobotics247webcast202406181718744014646.pdf), Webinar slides, Jun 2024, [link to webinar recording](https://event.on24.com/wcc/r/4609417/B80A57EAB9292C1EE678D42CBF648C13)
 1. [2023 Warehouse/DC Operations Survey: Automating while upping performance](https://www.scmr.com/article/2023_warehouse_dc_operations_survey_automating_while_upping_performance), Supplychain Management Review
 1. [Checklist to conside before you Automate](https://web.envistacorp.com/hubfs/Checklist_Before-You-Start-to-Automate.pdf), enVista corp.
