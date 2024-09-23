@@ -1,10 +1,10 @@
 ### TODOs
 
 - [x] Complete the terms identified with a TODO.
-- [ ] Add the other terms if they are missing from [ASCM dictionary](https://www.ascm.org/learning-development/certifications-credentials/dictionary/), warehouse/reailing related term in [Gartner glossary](https://www.gartner.com/en/information-technology/glossary), [Syrencloud SCM Glossary](https://syrencloud.com/insights/supply-chain-glossary/), [Softeon glossary](https://www.softeon.com/glossary/), [Zoho WMS Glossary](https://www.zoho.com/in/inventory/wms-dictionary/3pl.html)  and [IBM WMS Glossary](https://www.ibm.com/docs/en/warehouse-management/9.5.0?topic=glossary)
-    - A few more list of terms or glossary on [3PL logistics](https://www.speedcommerce.com/3pl-glossary/), [cips.org glossary](https://www.cips.org/intelligence-hub/glossary-of-terms), [inboundlogistics glossary](https://www.inboundlogistics.com/logistics-glossary), [Numina Group glossary](https://numinagroup.com/glossary/)
-    - [Cargo transportation terminilogy](https://www.vinculum.ru/en/informatsiya/glossarium), 300+ terms from Vinculum
-    - Since the ASCM dictionary include the whole of supply chain, it is not considered - some definitions are copied from that reference.
+- [ ] Add the other terms if they are missing from [ASCM dictionary](https://www.ascm.org/learning-development/certifications-credentials/dictionary/), warehouse/reailing related term in [Gartner glossary](https://www.gartner.com/en/information-technology/glossary), [Syrencloud SCM Glossary](https://syrencloud.com/insights/supply-chain-glossary/), [Softeon glossary](https://www.softeon.com/glossary/), [Zoho WMS Glossary](https://www.zoho.com/in/inventory/wms-dictionary/3pl.html) and [IBM WMS Glossary](https://www.ibm.com/docs/en/warehouse-management/9.5.0?topic=glossary)
+  - A few more list of terms or glossary on [3PL logistics](https://www.speedcommerce.com/3pl-glossary/), [cips.org glossary](https://www.cips.org/intelligence-hub/glossary-of-terms), [inboundlogistics glossary](https://www.inboundlogistics.com/logistics-glossary), [Numina Group glossary](https://numinagroup.com/glossary/)
+  - [Cargo transportation terminilogy](https://www.vinculum.ru/en/informatsiya/glossarium), 300+ terms from Vinculum
+  - Since the ASCM dictionary include the whole of supply chain, it is not considered - some definitions are copied from that reference.
 
 ### Terminology
 
@@ -87,7 +87,7 @@ For vendors who have automated this process are:
 
 **Directed Put-away**: A put-away process in which the WMS determines where a given receipt of goods should be stored in the distribution center. Directed put-away is tightly connected to the concept of “zoning” in which storage locations are grouped together, examples being “fast-movers” or “HAZMAT” products. With directed put-away, companies use a WMS to configure a hierarchical set of rules to identify the best location to store a receipt of inventory. If there is no space available in the preferred zone (e.g., fast-movers), the WMS put-away process would look for the next best available zone (e.g., medium-movers). This is a warehouse operation. For more info, refer to [this link](https://www.softeon.com/glossary/directed-putaway/) and [this Logiwa page](https://www.logiwa.com/blog/directed-putaway-a-smart-approach).
 
-**Distributed Order Management**: The practice of overseeing the shipment of materials and finished goods from multiple distribution points or suppliers to customer locations in an effort to reduce lead times, lower the cost of transportation, and meet non-forecasted demand by providing multiple delivery options to the planner. Unlike traditional order management systems, which lack the flexibility to support multiple channels, a distributed order management system works to unify a business by blending multiple platforms. This system provides visibility into inventory across the supply chain while not impacting the customer experience and keeping the bottom line in check. For more info, refer to [this link](https://fabric.inc/blog/product/distributed-order-management) and [Kibo Commerce's Why you need DOM in a customer-centric retail world](https://kibocommerce.com/blog/distributed-order-management-customer-centric-retail/).
+**Distributed Order Management**: The practice of overseeing the shipment of materials and finished goods from multiple distribution points or suppliers to customer locations in an effort to reduce lead times, lower the cost of transportation, and meet non-forecasted demand by providing multiple delivery options to the planner. Unlike traditional order management systems, which lack the flexibility to support multiple channels, a distributed order management system works to unify a business by blending multiple platforms. This system provides visibility into inventory across the supply chain while not impacting the customer experience and keeping the bottom line in check. For more info, refer to [this link](https://fabric.inc/blog/product/distributed-order-management), [Mecalux's DOM](https://mecaluxcom.cdnwm.com/pdf/catalogues/catalogue-distributed-order-management-dom-un.2.2.pdf) and [Kibo Commerce's Why you need DOM in a customer-centric retail world](https://kibocommerce.com/blog/distributed-order-management-customer-centric-retail/).
 
 **Dock Appointment Scheduling (DAS)**: Planning of vehicle arrivals at the warehouse, loading and unloading of the vehicles is important for managing the efficient running of the warehouse and for balancing the workload across the working day. SAP Dock Appointment Scheduling is used to plan vehicle arrival in your warehouses efficiently and allows the carriers to enroll their transportation units for the yard and to book time slots for un- and uploading. In side Yard Logistics, the process starts with the planning document i.e. yard request (YR). This is a WMS feature. For more info, refer to [this link](https://www.dashdoc.com/en-US/blog/trends-dock-appointment) and [this SAP EWM video](https://www.youtube.com/watch?v=845GtJ5Eszo).
 
@@ -95,7 +95,7 @@ For vendors who have automated this process are:
 
 **Flexible Path Equipment**: Material handling equipment such as forklifts that are not required to follow fixed paths. For more info, refer to [this link](https://www.waredock.com/glossary/flexible-path-equipment/) and [Nido Automations's Sirius AMRs](https://nidoautomation.com/solutions-by-product/nidobots-mobile-robots-nidonav/sirius/).
 
-**Forward Pick Area/Location**: Storage area where small quantities of frequently purchased items are placed. This enables faster picking as the orders come in. They are then quickly replenished from a secondary location called *Reserve Storage Zone*. For more info, refer to [this link](https://og.mhi.org/downloads/industrygroups/solutions-community/white-papers/forward-pick-area.pdf) and [Warehouse within a Warehouse](https://www.impactwms.com/2020/10/01/warehouse-within-a-warehouse/).
+**Forward Pick Area/Location**: Storage area where small quantities of frequently purchased items are placed. This enables faster picking as the orders come in. They are then quickly replenished from a secondary location called _Reserve Storage Zone_. For more info, refer to [this link](https://og.mhi.org/downloads/industrygroups/solutions-community/white-papers/forward-pick-area.pdf) and [Warehouse within a Warehouse](https://www.impactwms.com/2020/10/01/warehouse-within-a-warehouse/).
 
 **Fulfillment Center (FC)**: Also known as Distribution Center (DC). There are different types depending on their location, size & purpose:
 
@@ -130,6 +130,7 @@ Serial numbers are a part of everyday life. Your cell phone likely has an IMEI n
 **Kit**: 1) The components of a parent item that have been pulled from stock and prepared for movement to a production area. 2) A group of repair parts to be shipped with an order. Same as kitted material, staged material. While the terms kitting and bundling are often used interchangeably, there’s a stark difference between the two. Kitted items are individual yet complementary goods that are packed into a single kit and are sold as one unit. On the other hand, bundling is a broad term used to describe the process of packing several SKUs together, regardless of whether they complement each other. For more info, refer to [this link](https://modula.us/blog/kitting-in-warehouse/).
 
 **Kitting**: The process of constructing and staging kits. For more info, refer to [this link](https://www.thefulfillmentlab.com/blog/kitting-warehouse/).
+
 - [OSARO Robot Kitting Solution](https://osaro.com/solutions/kitting)
 
 **Labor Management**: Also known as Workforce Management. Your ecommerce business can’t run without an amazing team of warehouse workers. These individuals carry out daily tasks – like managing inventory, picking products, and packing orders – and you depend on them to get orders out the door. But how you allocate and manage this workforce hugely impacts your operational efficiency. To improve productivity, reduce costs, and minimize idle time and overstaffing, you’ll need an optimized labor management strategy. For more info, refer to [this link](https://www.shipbob.com/warehouse-management/warehouse-labor-management/) and [The ultimate guide to Dynamic Worforce Management for Warehouses](https://ortec.com/assets/content/paragraph/file/The%20Ultimate%20Guide%20to%20Dynamic%20Workforce%20Management%20for%20Warehouses%20%28EN%29.pdf).
@@ -137,6 +138,7 @@ Serial numbers are a part of everyday life. Your cell phone likely has an IMEI n
 **License Plate (LP)**: A license plate is a number assigned to each containment unit, which allows for better grouping and management of inventory. This, in turn, helps businesses in the food supply chain greatly improve operational efficiency by reducing the number of scans necessary to enter a transaction—allowing businesses to overcome many of the common food supply chain challenges. License plates are defined for different types of containers such as bins, totes or railcars, though the most common term used is a pallet. The pallet becomes its own license plate record with the information about the items inside which can be detected with one single barcode scan. For more info, refer to [this link](https://www.aptean.com/en-US/insights/blog/the-importance-of-license-plating).
 
 As with vehicle license plates, a lot of different information can be associated with the common pallet license plate, such as:
+
 - Item
 - Quantity
 - Serial Number
@@ -152,6 +154,7 @@ As with vehicle license plates, a lot of different information can be associated
 **Location Management**: It is a type of inventory management system. It is an integral part of warehouse management that works at the core of a warehouse or distribution center. The available software solutions help you navigate across the storage to fetch, store, or transfer items based on their location on a shelf, also known as a bin. It is therefore also called bin location management. This warehouse location system works by comparing the specifications of the stock against the specifications of the storage space, allowing it to store any given size of stock in the best space-saving manner. For example, it may take the dimensions and handling of the item, compare it to the dimensions and types of pallets, and set an appropriate storage location. Small but unrelated items might be stocked together to fill a smaller space so that the package does not take up a larger space where another larger item could be stored. This is a WMS feature. For more info, refer to [this link](https://www.southwestsolutions.com/ssg/warehouse-location-management-systems-what-you-need-to-know/).
 
 **Less Than TruckLoad (LTL) Operations**: LTL Operations is designed for regional and cross-country LTL (less than truckload) companies. With this application, you can manage multiple business processes, including:
+
 1. Order entry with automated rating
 1. Order pickup
 1. Crossdock/line haul planning
@@ -178,6 +181,7 @@ As with vehicle license plates, a lot of different information can be associated
 **Multicarrier Parcel Management (MCPM)**: Multicarrier parcel management solutions help companies select the most appropriate parcel carrier from among all contracted carriers. This selection is based on order characteristics (such as weight and dimensional properties), delivery rules (such as delivery time and delivery zone) and carrier performance, while considering the cost differentials of various carrier offerings. These tools also enable shippers and 3PLs to manage the creation of labels, create shipper manifests, provide status messages to customers or customer service representatives, and manage carrier rates. For more info, refer to [this link](https://www.gartner.com/reviews/market/multicarrier-parcel-management-solutions).
 
 A few vendors who have MCPM software are listed below:
+
 1. [Fenix Commerce](https://fenixcommerce.com/multi-carrier-parcel-management/)
 1. [Multicarrier Shipping Software, Mecalux module](https://www.mecalux.com/software/multi-carrier-shipping-software)
 
@@ -190,7 +194,7 @@ A few vendors who have MCPM software are listed below:
 - _Manual Allocation_: A warehouse manager can assign inventory to an open order automatically when it's received or when a line item is entered.
 - _Automated/Semi-automated_: order allocation engines can use AI to make recommendations, analyze data in real-time, and create and adjust allocation rules, example: [Fujitsu's Glovia OM](https://www.fujitsu.com/us/microsite/gloviaom/solutions/intelligent-order-allocation-engine/). For more info, refer to [this link](https://help.shipstream.io/article/t0edb4p21c-order-allocation).
 
-**Order Fulfillment**: Refers to the process of fulfilling or completing a sales order by delivering the goods to the customer. For more info, refer to [this link](https://www.salesforce.com/commerce/order-management/order-fulfillment-guide/) which explains the *five steps of fulfillment* and [this link](https://www.shipbob.com/blog/order-fulfillment/).
+**Order Fulfillment**: Refers to the process of fulfilling or completing a sales order by delivering the goods to the customer. For more info, refer to [this link](https://www.salesforce.com/commerce/order-management/order-fulfillment-guide/) which explains the _five steps of fulfillment_ and [this link](https://www.shipbob.com/blog/order-fulfillment/).
 
 **Order Management System (OMS)**: OMS platforms provide a single, centralized system for managing orders from multiple sales channels, include brick-and-mortar locations, websites, call centers, mobile orders, kiosks and more. It simplifies the buying process for customers, and makes it easier to manage orders, inventory, fulfillment and returns for businesses. For more info, refer to [this link](https://www.netsuite.com/portal/resource/articles/erp/what-is-oms.shtml)
 
@@ -276,6 +280,7 @@ For more info, refer to [this link](https://ctsi-global.com/2022/3-key-component
 **Slotting**: Warehouse slotting is the step by step process of analyzing inventory data for the purpose of categorizing and organizing inventory throughout a warehouse or distribution center. The purpose of slotting your warehouse is to maximize the overall efficiency of your operations. By maximizing space utilization and reducing inventory handling, you'll see an increase in productivity and a strategic workflow throughout your facility. For more info, refer to [this link](https://us.blog.kardex-remstar.com/warehouse-slotting-strategies-best-practices). This is a WMS feature for warehouse planning or configuration.
 
 A few of the vendors smart slotting solutions are listed below:
+
 - [Digital Twin approach to Slotting using ML](https://fulfilld.wistia.com/medias/v6vlbcydbz), Fulfilld
 - [Slotting by Fulfilld, powered by ML & AI](https://vimeo.com/798222789), Mainfest 2023
 - [Slotting IQ Infographic - Korber](https://library.ksc-s.com/m/20f798c09ad60e49/original/Slotting-IQ-Infographic.pdf) and [Slotting Solutions](https://www.koerber-supplychain-software.com/en/supply-chain-solutions/warehouse-management-systems/slotting-solutions)
@@ -315,7 +320,7 @@ A few of the vendors smart slotting solutions are listed below:
 
 **Unit Load Device (ULD) Containers**: Unit load devices, or ULDs, are essential components of air freight transportation. They assist in transporting different kinds of cargo, which are packaged in various pallet and container types. For more info, refer to [this link](https://www.shiprocket.in/blog/uld-containers/)
 
-**Unit of Measure (UOM)**:  Inventory can now be tracked in user defined units of measure belonging to unit of measure classes. Unit of Measure is extremely important in inventory management as it quantifies inventory items in terms terms all parties can understand. If two parties are transacting on an inventory item, UOM defines how much and in what unit the quantity is expected. Also UOMs need to be standardized to make sure that all stakeholders especially across countries. Some countries might use Kilograms or kilometers and other countries might use pounds or miles. For more info, refer to [this link](https://www.ibm.com/docs/en/warehouse-management/9.5.0?topic=tracking-unit-measure).
+**Unit of Measure (UOM)**: Inventory can now be tracked in user defined units of measure belonging to unit of measure classes. Unit of Measure is extremely important in inventory management as it quantifies inventory items in terms terms all parties can understand. If two parties are transacting on an inventory item, UOM defines how much and in what unit the quantity is expected. Also UOMs need to be standardized to make sure that all stakeholders especially across countries. Some countries might use Kilograms or kilometers and other countries might use pounds or miles. For more info, refer to [this link](https://www.ibm.com/docs/en/warehouse-management/9.5.0?topic=tracking-unit-measure).
 
 **Voice Picking**: Voice picking, also known as voice-directed warehousing (VDW), is a system that uses voice prompts to help warehouse workers pick items. It works by using speech recognition software to translate picking orders into voice instructions. These instructions guide workers to the correct locations and items, and they can confirm their actions verbally. (ref. 2 part 4). This is a WMS feature. For more info, refer to [this link](https://www.lucasware.com/voice-picking-introduction/) and [this link](https://www.autostoresystem.com/insights/what-is-voice-picking-a-fading-trend)
 
@@ -329,6 +334,7 @@ A few of the vendors smart slotting solutions are listed below:
 **Warehouse Execution System (WES)**: It is an IT system which does: (1) Optimise and balance how work is performed on automated equipment (2) Dynamically allocates orders based upon WCS inputs (machine language). Warehouse Execution System (WES) is a software solution that manages and optimizes the operational processes within a warehouse or distribution center. It serves as a bridge between the Warehouse Management System (WMS) and the Warehouse Control System (WCS), coordinating and orchestrating the real-time execution of tasks and resources. For more info, refer to [this link](https://www.autostoresystem.com/insights/warehouse-execution-system-enhancing-efficiency).
 
 A few of the WES vendors are listed below:
+
 1. [Honeywell Momentum WES Infographic](https://sps.honeywell.com/us/en/support/automation/resources/infographics/momentum-wes), [download link](https://sps.honeywell.com/content/dam/honeywell-edam/sps/igs/en-us/support/resources/infographics/hon-ia-igs-wes-infographic.pdf)
 1. [Roboteon Robotic Fulfillment Platform](https://www.roboteon.com/download/roboteon-brochure_web_2024.pdf), Product brochure, 2024
 1. [Numina RDS WES](https://numinagroup.com/rds-warehouse-execution-system/)
@@ -383,7 +389,7 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 1. [TMS API - SAP's Business Accelerator Hub](https://api.sap.com/package/TmsForCloudPub/rest)
 1. [TMS Integrations](https://developers.samsara.com/docs/tms-integration-guide), Samsara's connected operations cloud
 1. [ShipHero WMS API](https://developer.shiphero.com/)
-1. [ShipStream API Documentation](https://docs.shipstream.io/)
+1. [ShipStream Radical WMS API Documentation](https://docs.shipstream.io/),
 
 ### References
 
@@ -391,7 +397,6 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 1. [Warehouse Automation Integration Walk Through - RDS WES](https://www.youtube.com/watch?v=FXPPOZZRf1o), Numina Group, Aug 2022
 1. [WMS, WCS, WES: Understanding the Differences](https://www.designedconveyor.com/resource/wms-wcs-wes-understanding-the-differences/)
 1. [Modernizing order fulfillment - GTP](https://www.bastiansolutions.com/solutions/technology/goods-to-person/), Bastian Solutions
-1. [4 Types of Goods-to-Person Systems](https://hy-tek.com/resources/goods-to-person-picking-systems/), Hy-tek Intralogistics, Aug 2023
 1. [When does automation makes sense - Gradations in Warehouse automation](https://www.igz.com/en/blog/differences-warehouse-automation-levels/), talks about 3 levels
 1. [Four types of warehouse automation explained](https://www.elementlogic.co.uk/insights/category/warehouse-automation/four-types-of-warehouse-automation-explained/), Element Logic
 1. [Inventory Management KPIs Guide](https://www.shipbob.com/inventory-kpis/), defines 11 KPIs
@@ -403,7 +408,7 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 1. [Different type of Staging Locations | Retail Warehouse Blueprint | Approach to D365 for Commerce with Adv WH Mgmt](https://sumitnarayanpotbhare.wordpress.com/2020/06/15/different-type-of-staging-locations-retail-warehouse-blueprint-approach-to-d365-for-commerce-with-adv-wh-mgmt/)
 1. 2024 Gartner® Market Guide for Multicarrier Parcel Management Solutions, [form to download](https://nshift.com/2024-gartner-market-guide-for-multicarrier-parcel-management-solutions), [download link](https://www.gartner.com/doc/reprints?id=1-2HV0ZXEH&ct=240617&st=sb)
 1. Gartner Magic Quadrant for Real-Time Transportation Visibility
-Platforms, Mar 2024 - [Download link](https://www.gartner.com/doc/reprints?id=1-2H5E4M0F&ct=240401&st=sb)
+   Platforms, Mar 2024 - [Download link](https://www.gartner.com/doc/reprints?id=1-2H5E4M0F&ct=240401&st=sb)
 1. [Warehouse of the Future, MIT Report](https://ctl.mit.edu/sites/ctl.mit.edu/files/2024-03/The%20Warehouse%20of%20the%20Future.pdf), Mar 2024
 1. [Critical Capabilities for Warehouse Management Systems](https://www.gartner.com/doc/reprints?id=1-2I2QN8RE&ct=240712&st=sb), Gartner, Aug 2024
 1. [Gartner Magic Quadrant for Transportation Management Systems](https://www.gartner.com/doc/reprints?id=1-2H3GE7Y1&ct=240327&st=sb), Jun 2024
