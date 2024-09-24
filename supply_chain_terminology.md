@@ -111,6 +111,10 @@ For differences between Warehouse and FC, refer to [this link](https://www.shipb
 
 **Goods-to-Robot (GTR)**: The term goods-to-robot (GTR or G2R) refers to fully automated order picking with minimal human intervention. It’s considered an evolution of the goods-to-person system, where a picking robot is integrated to assist with order picking. Aided by computer vision software and a gripping device, these machines autonomously remove products from one box and place them into another. For more info, refer to [this link](https://www.mecalux.com/blog/goods-to-robot) and [this video](https://www.youtube.com/watch?v=N9p6eJ1mhqk).
 
+**Goods In Notification (GIN)**: Also known as GRN.
+
+**Goods Received Note (GRN)**:  Goods Received Note is a record of goods received from suppliers, and the record is shown as a proof that ordered products had been received. Moreover, the record is used by the buyer for comparing the number of goods ordered to the ones delivered. GRN plays an important role among various departments for several companies. Primarily, factory/store, procurement and finance/accounting departments use the record for stock updates and the payment of goods procured. For more info, refer to [this link](https://kissflow.com/procurement/purchase-invoices/grn-goods-received-note/).
+
 **Hard Allocation**: Hard Allocation: A type of allocation where specific inventory items are reserved for specific orders. Once inventory is hard allocated, it cannot be used to fulfill any other orders. If hard allocation is the hammer and nails of supply chain, soft allocation is like magnets and a whiteboard. While orders are being placed, you should be able to shift supply to demand as priorities change. Seeing the big picture — whether that’s by channel, customer, product, vendor, or other entities — is key to understanding and managing your supply chain for the best results. For more info, refer to [this link](https://sunrise.co/blog/soft-and-hard-allocation-understanding-the-difference) and [difference between hard & soft allocation](https://factech.co.in/blog/hard-vs-soft-inventory-allocation/).
 
 **Inspection for Quality Control**: The practice of inspecting goods upon receipt for any delivery discrepancies such as damage, incorrect quantity compared with purchase order or delivery paperwork, and incomplete or incorrect paperwork. This is a WMS feature. Since the inspection can be done manual or automated using machine vision or both, this task has to be scheduled by the labour management module in WMS. For more info, refer to [this link](https://www.extensiv.com/blog/what-is-warehouse-quality-control-how-to-implement-it).
@@ -390,6 +394,7 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 1. [TMS Integrations](https://developers.samsara.com/docs/tms-integration-guide), Samsara's connected operations cloud
 1. [ShipHero WMS API](https://developer.shiphero.com/)
 1. [ShipStream Radical WMS API Documentation](https://docs.shipstream.io/),
+1. MercuryGate TMS API - [Swagger doc link](https://qa-api-docs.mercurygate.net/documentation/webjars/swagger-ui/index.html), [Swagger Spec](https://qa-api-docs.mercurygate.net/documentation/api-docs)
 
 ### References
 
