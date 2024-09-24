@@ -46,7 +46,7 @@ Advantages of advanced cartonization are:
 5. How much do they cost?
 6. Alternative: AMR") and [this vendor products specific link](https://www.bastiansolutions.com/solutions/technology/asrs)
 
-**Bonded Warehouse**: A bonded warehouse (or customs warehouse) is a secure storage facility where shippers can store their imported goods without needing to immediately pay import taxes and duties. To put it another way: when goods are held in bonded warehouses, they’re considered to be still in transit to their final destination. Only when goods are dispatched from the secure area of a bonded warehouse to their final destination, do these fees apply. These warehouses can be found all over the world and are traditionally operated by governmental authorities or private entities under robust state customs guidelines. For more info, refer to [this link](https://www.maersk.com/logistics-explained/storage-and-warehousing/2024/09/06/bonded-warehouses-explained).
+**Backorder**: Backorders in the supply chain are requests that sellers guarantee to fulfill despite not having the requested item in stock. Your consumer agrees to hold off until the shipping date specified in the guarantee. As an illustration, suppose you are selling a product and have received orders from three clients. They want four products each, but you only have seven in stock. In this circumstance, you must complete more than one order while letting the other three go unfulfilled and losing them to the competitors. A better solution would be to send one item to each of them and tell them that the rest of their order will be fulfilled soon. For more info, refer to [this link](https://wareiq.com/resources/blogs/backorders-in-supply-chain) and [What They Are and How to Manage Them Effectively](https://www.orderful.com/blog/what-is-a-backorder).
 
 **Barcode**: Barcode is used to encode data in a format which can be easily scanned by scanner for automation. In a warehouse, it is used to identify things and locations. For more info, refer to [this link](https://www.camcode.com/blog/how-to-implement-barcodes-in-your-warehouse-a-step-by-step-guide).
 
@@ -64,6 +64,8 @@ Advantages of advanced cartonization are:
 **Batch Picking**: This is one type of Picking operation. Batch picking involves a worker moving through the warehouse collecting goods for several orders at once. For more info, refer to [this link](https://www.mecalux.com/blog/batch-picking-definition).
 
 **Bill of Lading**: A bill of lading is a legal document that is issued by a carrier to the shipper. It contains details about which goods are being shipped, where the shipment is coming from and going to, as well as details of the shipper, carrier, and consignee. For more info, refer to [this link](https://www.maersk.com/logistics-explained/shipping-documentation/2023/10/02/what-is-bill-of-lading).
+
+**Bonded Warehouse**: A bonded warehouse (or customs warehouse) is a secure storage facility where shippers can store their imported goods without needing to immediately pay import taxes and duties. To put it another way: when goods are held in bonded warehouses, they’re considered to be still in transit to their final destination. Only when goods are dispatched from the secure area of a bonded warehouse to their final destination, do these fees apply. These warehouses can be found all over the world and are traditionally operated by governmental authorities or private entities under robust state customs guidelines. For more info, refer to [this link](https://www.maersk.com/logistics-explained/storage-and-warehousing/2024/09/06/bonded-warehouses-explained).
 
 **Case Picking**: A “case” is a single carton of items (in the context of picking operations and warehouse operations). Cartons contain a bulk number of items, usually of the same SKU. For example, a case of ballpoint pens may contain 100 pens. For more info, refer to [this link](https://www.amsc-usa.com/blog/what-is-case-picking/) and [this video](https://www.youtube.com/watch?v=eS1ov4cc3oY)
 
@@ -312,11 +314,23 @@ A few of the vendors smart slotting solutions are listed below:
 
 **Task Interleaving**: Task interleaving consists of combining two or more tasks on a single run through the warehouse. Task interleaving makes it possible, for instance, for pickers to retrieve the SKUs they need to put together an order and to then take advantage of the trip back to replenish a product. This strategy includes all types of logistics activity, from order picking to inventory and goods replenishment operations. The main aims of task interleaving are to increase warehouse productivity and reduce deadheading (unproductive travel). By combining two or more tasks, operators make the most of their trips, cutting down on unnecessary movements. For more info, refer to [this link](https://www.mecalux.com/blog/task-interleaving-warehouse).
 
-**Third Party Logistics (3PL) Billing**: 3PL billing is the process of calculating charges for services provided to a client and generating an invoice. In a 3PL warehouse, the provided services may include warehousing, transportation, inventory management, order fulfillment, and value-added services. Accurate billing is essential to ensure transparent and accurate financial transactions and bookkeeping. It also facilitates effective revenue management to keep your company profitable. You can bill customers manually or leverage 3PL billing software built for making calculating, generating, issuing, and recording invoices easier. This is a WMS feature. For more info, refer to [this link](https://www.logiwa.com/blog/3pl-billing-automation), [SphereWMS 3PL Billing](https://spherewms.com/features/3pl-billing) and [3PL Billing: Guide to Optimizing Your Invoicing Process](https://www.cadretech.com/blog/3pl-billing/).
+**Third Party Logistics (3PL) Billing**: 3PL billing is the process of calculating charges for services provided to a client and generating an invoice. In a 3PL warehouse, the provided services may include warehousing, transportation, inventory management, order fulfillment, and value-added services. Accurate billing is essential to ensure transparent and accurate financial transactions and bookkeeping. It also facilitates effective revenue management to keep your company profitable. You can bill customers manually or leverage 3PL billing software built for making calculating, generating, issuing, and recording invoices easier. This is a WMS feature. For more info, refer to [this link](https://www.logiwa.com/blog/3pl-billing-automation), [SphereWMS 3PL Billing](https://spherewms.com/features/3pl-billing), [Extensiv's 3PL Pricing by Service & How To Maximize Value On Your Fees Structure](https://www.extensiv.com/blog/3pl-pricing) and [3PL Billing: Guide to Optimizing Your Invoicing Process](https://www.cadretech.com/blog/3pl-billing/). Example of pricing calculator from 3PL providers:
+
+1. [3PL Manager - Quick warehousing cost estimator](https://www.3plmanager.com/resources/tools/party-logistics-3pl-quick-warehousing-cost-estimator)
+1. [Bulu Group Calculator](https://www.bulugroup.com/calculator)
+1. [ShipRelay Pricing page](https://shiprelay.com/pricing)
+1. [ShippingTree Pricing Page](https://shippingtree.co/pricing/)
 
 **Tote or Bin**: Totes or Bins: Totes or bins are smaller, stackable containers used for storing and transporting small parts or components. They are commonly used in order picking and assembly processes. For more info, refer to [this link](https://shiphero.com/blog/pick-methods-and-totes/).
 
-**Transportation Management System (TMS)**: It is a software platform that helps businesses effectively plan, execute, and optimise the movement of goods from point A to point B. It provides end-to-end visibility and control over every aspect of your supply chain, allowing you to streamline operations, enhance collaboration, and make data-driven decisions. For more info, refer to [this link](https://www.maersk.com/logistics-explained/supply-chain-management/2024/05/16/transportation-management-system) and [Korber TMS infographic](https://library.ksc-s.com/m/4ba6516654de6a2d/original/Transport-Management-Systems-TMS.pdf).
+**Transportation Management System (TMS)**: It is a software platform that helps businesses effectively plan, execute, and optimise the movement of goods from point A to point B. It provides end-to-end visibility and control over every aspect of your supply chain, allowing you to streamline operations, enhance collaboration, and make data-driven decisions. The main functionalities are:
+1. Transportation Procurement: Transportation Procurement solutions streamline global collaboration with carriers to reduce costs and time-to-value.
+1. Transportation Modeling: Transportation modeling solution empowers your business with the real-time data you need to streamline and create cost effective transportation networks.
+1. Transportation Execution: Transportation program uses advanced forecasting with predictive exception and capacity management regardless of mode or region.
+1. Transportation Planning: Transportation planning capabilities including street-level routing, fleet integration, dynamic intercontinental planning, dock management, and precise driver assignment.
+1. Load Building: Load building software builds three-dimensional (3-D), inventory-aware truckloads for maximized trailer utilization.
+
+ For more info, refer to [this link](https://www.maersk.com/logistics-explained/supply-chain-management/2024/05/16/transportation-management-system), [BlueYonder's TM Solution](https://blueyonder.com/solutions/transportation-management) and [Korber TMS infographic](https://library.ksc-s.com/m/4ba6516654de6a2d/original/Transport-Management-Systems-TMS.pdf).
 
 **Truck Loading**: Truck loading constitutes the process by which products are placed on a vehicle in order to be transported to their destination (a distribution center, another warehouse, or directly to the end customer). It’s vital to make sure that the weight distribution in the truck is correct and, particularly, that there are no mistakes in the goods dispatched or assigned. Properly loading goods onto a truck is a complex process, especially when faced with increasingly varied packaging, unit loads, and transportation modes. Software and digitalisation are the solution to this issue, as they help to automate a large part of this process, making it quicker and more effective. This is a WMS feature. For more info, refer to [this link](https://www.mecalux.com/blog/truck-loading-software).
 
@@ -395,6 +409,8 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 1. [ShipHero WMS API](https://developer.shiphero.com/)
 1. [ShipStream Radical WMS API Documentation](https://docs.shipstream.io/),
 1. MercuryGate TMS API - [Swagger doc link](https://qa-api-docs.mercurygate.net/documentation/webjars/swagger-ui/index.html), [Swagger Spec](https://qa-api-docs.mercurygate.net/documentation/api-docs)
+1. [3PL Central REST APIs](https://developer.3plcentral.com/#intro)
+1. [Shipbob's Developer API](https://developer.shipbob.com/)
 
 ### References
 
@@ -415,13 +431,19 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 1. Gartner Magic Quadrant for Real-Time Transportation Visibility
    Platforms, Mar 2024 - [Download link](https://www.gartner.com/doc/reprints?id=1-2H5E4M0F&ct=240401&st=sb)
 1. [Warehouse of the Future, MIT Report](https://ctl.mit.edu/sites/ctl.mit.edu/files/2024-03/The%20Warehouse%20of%20the%20Future.pdf), Mar 2024
+1. [Critical Capabilities for Transportation Management Systems](https://www.gartner.com/doc/reprints?id=1-2H605JL2&ct=240402&st=sb), Gartner, Mar 2024
 1. [Critical Capabilities for Warehouse Management Systems](https://www.gartner.com/doc/reprints?id=1-2I2QN8RE&ct=240712&st=sb), Gartner, Aug 2024
 1. [Gartner Magic Quadrant for Transportation Management Systems](https://www.gartner.com/doc/reprints?id=1-2H3GE7Y1&ct=240327&st=sb), Jun 2024
 1. [Warehouse Robotics Software 2024: That was Then, This is Now](https://on24static.akamaized.net/event/46/09/41/7/rt/1/documents/resourceList1718744014646/roboteonrobotics247webcast202406181718744014646.pdf), Webinar slides, Jun 2024, [link to webinar recording](https://event.on24.com/wcc/r/4609417/B80A57EAB9292C1EE678D42CBF648C13)
 1. [2023 Warehouse/DC Operations Survey: Automating while upping performance](https://www.scmr.com/article/2023_warehouse_dc_operations_survey_automating_while_upping_performance), Supplychain Management Review
 1. [Checklist to conside before you Automate](https://web.envistacorp.com/hubfs/Checklist_Before-You-Start-to-Automate.pdf), enVista corp.
 1. [Gartner MQ for Indoor Location Services, 2024](https://www.gartner.com/doc/reprints?id=1-2GRMVD7F&ct=240229&st=sb)
-1. [To walk or not to walk? Designing intelligent order picking warehouses with collaborative robots](https://www.sciencedirect.com/science/article/abs/pii/S1366554524002874), Transportation Research Part E: Logistics & Transportation Review, Oct 2024.
 1. [The Perfect Return](https://www.theaccessgroup.com/media/8026/the-perfect-return-whitepaper.pdf), Access Group Whitepaper.
 1. [Warehousing Industry Report - 2024, Kardex](https://cdn.bfldr.com/EL3HU3A3/at/6w5sthpts6w3bc98n6hkv5n/WarehouseInsights_US_2024-Warehousing-Industry-Report), [blog entry](https://us.blog.kardex-remstar.com/warehouse-automation-outlook-2024).
 1. [The ultimate guide to order management](https://www.zorp.one/blog/order-management)
+1. [3PL Providers Directory](https://www.fulfill.com/3pl-directory), around 600+ companies listed
+1. [TMS Implementation Guide](https://envistacorp.com/consulting/software-selection-implementation/transportation-management-systems)
+1. [To walk or not to walk? Designing intelligent order picking warehouses with collaborative robots](https://www.sciencedirect.com/science/article/abs/pii/S1366554524002874), Transportation Research Part E: Logistics & Transportation Review, Oct 2024.
+1. [Software Component Architecture for SCM](https://www.researchgate.net/publication/222833882_Software_component_architecture_in_supply_chain_management), 2004
+1. [Shipbob's Peak Season - Fulfillment Checklist](https://resources.shipbob.com/peak-season-checklist)
+1. [Shipping & TRansportation APIs](https://www.altexsoft.com/blog/shipping-api/), Altexsoft
