@@ -165,7 +165,7 @@ As with vehicle license plates, a lot of different information can be associated
 1. Order pickup
 1. Crossdock/line haul planning
 1. Order delivery
-1. Billing and invoicing. For more info, refer tp [this link](https://learn.transportation.trimble.com/wp-content/uploads/tte/ebcbe19c93c746dd320c/olhlp/d2bd984013d3/docs/Current/index.html).
+1. Billing and invoicing. For more info, refer to [this link](https://learn.transportation.trimble.com/wp-content/uploads/tte/ebcbe19c93c746dd320c/olhlp/d2bd984013d3/docs/Current/index.html).
 
 **Materials Handling**: The movement and storage of goods inside the distribution center. This represents a capital cost and is balanced against the operating costs of the facility. Material handling is concerned with moving raw materials, work-in-process, and finished goods into the plant, within the plant, and out of the plant to warehouses, distribution networks, or directly to the customers. The basic objective is to move the right combination of tools and materials (raw materials, parts and finished products) at the right time, to the right place, in the right form, and in the right orientation. And to do it with the minimum total cost. For more info, refer to [this link](https://www.slideshare.net/AshishHande/materials-handling-equipment).
 
@@ -443,7 +443,8 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 1. [The ultimate guide to order management](https://www.zorp.one/blog/order-management)
 1. [3PL Providers Directory](https://www.fulfill.com/3pl-directory), around 600+ companies listed
 1. [TMS Implementation Guide](https://envistacorp.com/consulting/software-selection-implementation/transportation-management-systems)
+1. [Shipbob's Peak Season - Fulfillment Checklist](https://resources.shipbob.com/peak-season-checklist)
+1. [Shipping & Transportation APIs](https://www.altexsoft.com/blog/shipping-api/), Altexsoft
+1. [Transportation Management System: Benefits, Features, and Main Providers](https://www.altexsoft.com/blog/shipping-api/), Altexsoft, Apr 2022
 1. [To walk or not to walk? Designing intelligent order picking warehouses with collaborative robots](https://www.sciencedirect.com/science/article/abs/pii/S1366554524002874), Transportation Research Part E: Logistics & Transportation Review, Oct 2024.
 1. [Software Component Architecture for SCM](https://www.researchgate.net/publication/222833882_Software_component_architecture_in_supply_chain_management), 2004
-1. [Shipbob's Peak Season - Fulfillment Checklist](https://resources.shipbob.com/peak-season-checklist)
-1. [Shipping & TRansportation APIs](https://www.altexsoft.com/blog/shipping-api/), Altexsoft
