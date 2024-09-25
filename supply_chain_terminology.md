@@ -69,6 +69,8 @@ Advantages of advanced cartonization are:
 
 **Bonded Warehouse**: A bonded warehouse (or customs warehouse) is a secure storage facility where shippers can store their imported goods without needing to immediately pay import taxes and duties. To put it another way: when goods are held in bonded warehouses, they’re considered to be still in transit to their final destination. Only when goods are dispatched from the secure area of a bonded warehouse to their final destination, do these fees apply. These warehouses can be found all over the world and are traditionally operated by governmental authorities or private entities under robust state customs guidelines. For more info, refer to [this link](https://www.maersk.com/logistics-explained/storage-and-warehousing/2024/09/06/bonded-warehouses-explained).
 
+**Carrier**: A shipping carrier is an enterprise that moves commodities between different locations. These companies usually possess their vehicles and undertake tasks such as loading, unloading, and transporting the goods. For more info, refer to [this link](https://www.shipbob.com/ecommerce-shipping/carriers/) and [Difference between carrier & shipper and how they impact your business](https://xpdel.com/blog/differences-between-a-carrier-and-a-shipper-and-how-they-impact-your-business/).
+
 **Case Picking**: A “case” is a single carton of items (in the context of picking operations and warehouse operations). Cartons contain a bulk number of items, usually of the same SKU. For example, a case of ballpoint pens may contain 100 pens. For more info, refer to [this link](https://www.amsc-usa.com/blog/what-is-case-picking/) and [this video](https://www.youtube.com/watch?v=eS1ov4cc3oY)
 
 **Cart Staging**: These are intermediate areas in the picking area where the carts are kept temporarily to be moved to another place. For more info, refer to [this link](https://www.tractonomy.com/kit-carts-to-assembly-lines/) on Autonomous Towing Robots (ATRs) help in moving the carts between the picking/staging area and the shipping area and [this paper](https://www.mdpi.com/2076-3417/11/9/4049).
@@ -100,6 +102,10 @@ For vendors who have automated this process are:
 **Flexible Path Equipment**: Material handling equipment such as forklifts that are not required to follow fixed paths. For more info, refer to [this link](https://www.waredock.com/glossary/flexible-path-equipment/) and [Nido Automations's Sirius AMRs](https://nidoautomation.com/solutions-by-product/nidobots-mobile-robots-nidonav/sirius/).
 
 **Forward Pick Area/Location**: Storage area where small quantities of frequently purchased items are placed. This enables faster picking as the orders come in. They are then quickly replenished from a secondary location called _Reserve Storage Zone_. For more info, refer to [this link](https://og.mhi.org/downloads/industrygroups/solutions-community/white-papers/forward-pick-area.pdf) and [Warehouse within a Warehouse](https://www.impactwms.com/2020/10/01/warehouse-within-a-warehouse/).
+
+**Freight Brokers**: Freight brokers are crucial in connecting shippers with carriers. They help bridge the gap between shippers and carriers to ensure seamless transit of goods across various transport modes, be it by truck, rail, or sea. They act as a link between shippers who need to ship their goods and carriers who can transport their goods. For more info, refer to [this link](https://usravens.com/types-of-freight-brokers/).
+
+**Freight Marketplace**: A freight marketplace (also called digital freight marketplaces or digital freight matching platforms) is an online platform that connects shippers and logistics service providers such as air, ocean, and land carriers, freight forwarders, 3PLs, custom brokers, consolidators, etc. For more info, refer to [this link](https://www.altexsoft.com/blog/freight-marketplaces/).
 
 **Fulfillment Center (FC)**: Also known as Distribution Center (DC). There are different types depending on their location, size & purpose:
 
@@ -269,6 +275,8 @@ For best practices in the receiving process, watch [this video (7 mins)](https:/
 
 **Reverse Put-away**: The picking method that is the reverse of direct put-away in a warehouse management system is known as reverse put-away. While direct put-away involves moving goods directly from receiving to their final storage location, reverse put-away typically involves moving items to a temporary staging area or directly to the shipping docks if they are needed immediately for outgoing orders. This method is efficient in operations where inventory turnover is high, and products are dispatched soon after they are received. For more info, refer to [this link](https://support.unicommerce.com/index.php/knowledge-base/putaway-reverse-pickup-items-new-ux/) - specific to Unicommerce.
 
+**Shipment Tracking**: What happens from the time an online order is made and then delivered to the customer? It's shipment - something all parties involved want to track. They want to be well-informed about its movements, how soon it will reach its destination, and whether any delays are expected. For more info, refer to [this link](https://www.altexsoft.com/blog/shipment-tracking-integration-apis-edis-carriers-aggregators/).
+
 **Shipping Execution**: For Oracle specific documentation on shipping execution, refer [this user guide](https://docs.oracle.com/cd/E26401_01/doc.122/e48847/toc.htm). It is an IT system which does the following:
 
 - Printing care-compliant label
@@ -276,6 +284,8 @@ For best practices in the receiving process, watch [this video (7 mins)](https:/
 - Printing parcel carrier label to put on actual box
 
 For more info, refer to [this link](https://ctsi-global.com/2022/3-key-components-to-a-successful-shipment-execution-strategy/) and [IBM Sterling WMS doc link](https://www.ibm.com/docs/en/warehouse-management/9.5.0?topic=execution-shipping).
+
+**Shipping Label**: Shipping labels are crucial for the seamless operation of the logistics and transportation industry. These labels contain crucial information without which the shipment would not be delivered to the destination. Shipping labels share all the relevant information about your packaged goods with your supply chain. They contain the recipient’s name, product type, quantity, price of the order, and origin and destination address. Having all this information, makes the supply chain process run smoothly, saving time, cost, money, and effort. For more info, refer to [this link](https://www.shiprocket.in/blog/what-is-shipping-label-print-automatically/), [How to create, print, and manage shipping labels, Fedex](https://www.fedex.com/en-us/shipping/create-shipping-label.html) and [Printer maintenance & label quality](https://www.fedex.com/content/dam/fedex/us-united-states/shipping/images/printer_maintenance_guidelines.pdf).
 
 **Shipping Manifest**: When a shipment is “manifested,” it means that the details of the cargo have been officially recorded in a shipping manifest, which is prepared by the carrier. This process involves compiling all relevant information about the shipment, including the types of goods, their quantities, weight, origin, and destination, and entering these details into the manifest document. The status of a shipment being “manifested” indicates that it has been documented and is ready for transportation. For more info, refer to [this link](https://www.shipengine.com/blog/what-is-a-manifest) and [What is shipping manifest: A comprehensive guide](https://wareiq.com/resources/blogs/shipping-manifest/).
 
