@@ -373,6 +373,8 @@ A few of the WES vendors are listed below:
 1. [Numina RDS WES](https://numinagroup.com/rds-warehouse-execution-system/)
 1. [Softeon WMS](https://www.softeon.com/solutions/warehouse-execution-system-wes/) - rule-based engine
 
+**Warehouse Labor Standard**: In warehousing, a labor standard is the amount of time required by a fully trained associate, working at a reasonable effort level under normal operating conditions, to complete a task. Labor standards are critical to fulfillment organizations since they provide a benchmark to evaluate worker efficiency. For more info, refer to [this link](https://logisticsviewpoints.com/2010/09/07/warehousing-labor-standards-basics-part-1/), [Optimizing warehouse efficiency with labor standards](https://www.logiwa.com/blog/optimizing-warehouse-efficiency-with-labor-standards) and [Creating Successful Engineered Labor Standards](https://envistacorp.com/blog/creating-successful-engineered-labor-standards/).
+
 **Warehouse Layout**: Maximizing space and ensuring efficiency in your warehouse starts with a smart warehouse layout, from space-saving storage solutions to streamlined picking processes, that directly influence operational productivity. For more info, refer to [this link](https://spherewms.com/blog/warehouse-layout-strategies).
 
 **Warehouse Management System (WMS)**: It is an IT system which implements the following functionality:
