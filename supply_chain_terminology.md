@@ -468,3 +468,4 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 1. [Three-Step Plan for Supply Chain Digital Transformation](https://emt.gartnerweb.com/ngw/globalassets/en/supply-chain/documents/trends/three-step-plan-for-supply-chain-digital-transformation.pdf), Gartner, 2020
 1. [The top 8 Supply Chain Technology Trends](https://emt.gartnerweb.com/ngw/globalassets/en/supply-chain/documents/trends/the-top-8-supply-chain-technology-trends.pdf), Gartner, 2022
 1. [Nine skills that fuel Digital Supply Chain Planning](https://emt.gartnerweb.com/ngw/globalassets/en/supply-chain/documents/trends/9-skills-that-fuel-digital-supply-chain-planning.pdf), Gartner, 2020
+1. [AI use-case prism for Supply Chain](https://emt.gartnerweb.com/ngw/globalassets/en/supply-chain/documents/ai-use-case-prism-for-supply-chain.pdf), Gartner, 2023
