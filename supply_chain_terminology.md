@@ -465,3 +465,6 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 1. [Transportation Management System: Benefits, Features, and Main Providers](https://www.altexsoft.com/blog/shipping-api/), Altexsoft, Apr 2022
 1. [To walk or not to walk? Designing intelligent order picking warehouses with collaborative robots](https://www.sciencedirect.com/science/article/abs/pii/S1366554524002874), Transportation Research Part E: Logistics & Transportation Review, Oct 2024.
 1. [Software Component Architecture for SCM](https://www.researchgate.net/publication/222833882_Software_component_architecture_in_supply_chain_management), 2004
+1. [Three-Step Plan for Supply Chain Digital Transformation](https://emt.gartnerweb.com/ngw/globalassets/en/supply-chain/documents/trends/three-step-plan-for-supply-chain-digital-transformation.pdf), Gartner, 2020
+1. [The top 8 Supply Chain Technology Trends](https://emt.gartnerweb.com/ngw/globalassets/en/supply-chain/documents/trends/the-top-8-supply-chain-technology-trends.pdf), Gartner, 2022
+1. [Nine skills that fuel Digital Supply Chain Planning](https://emt.gartnerweb.com/ngw/globalassets/en/supply-chain/documents/trends/9-skills-that-fuel-digital-supply-chain-planning.pdf), Gartner, 2020
