@@ -349,6 +349,8 @@ For more info, refer to [this link](https://www.maersk.com/logistics-explained/s
 
 **Truck Loading**: Truck loading constitutes the process by which products are placed on a vehicle in order to be transported to their destination (a distribution center, another warehouse, or directly to the end customer). It’s vital to make sure that the weight distribution in the truck is correct and, particularly, that there are no mistakes in the goods dispatched or assigned. Properly loading goods onto a truck is a complex process, especially when faced with increasingly varied packaging, unit loads, and transportation modes. Software and digitalisation are the solution to this issue, as they help to automate a large part of this process, making it quicker and more effective. This is a WMS feature. For more info, refer to [this link](https://www.mecalux.com/blog/truck-loading-software).
 
+**Types of Robots**: TODO. For more info, refer to [this link]().
+
 **Unit Load**: In warehouse management system, “unit load types” refer to the different forms or configurations in which goods or products are grouped together for storage, handling, and transportation within a warehouse or distribution center. Unit load types are designed to facilitate efficient movement and storage of goods, optimize space utilization, and enhance operational processes. For more info, refer to [this link](https://swifthub.net/en/blog-en/6-common-load-types-in-a-warehouse)
 
 **Unit Load Device (ULD) Containers**: Unit load devices, or ULDs, are essential components of air freight transportation. They assist in transporting different kinds of cargo, which are packaged in various pallet and container types. For more info, refer to [this link](https://www.shiprocket.in/blog/uld-containers/)
@@ -471,3 +473,6 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 1. [The top 8 Supply Chain Technology Trends](https://emt.gartnerweb.com/ngw/globalassets/en/supply-chain/documents/trends/the-top-8-supply-chain-technology-trends.pdf), Gartner, 2022
 1. [Nine skills that fuel Digital Supply Chain Planning](https://emt.gartnerweb.com/ngw/globalassets/en/supply-chain/documents/trends/9-skills-that-fuel-digital-supply-chain-planning.pdf), Gartner, 2020
 1. [AI use-case prism for Supply Chain](https://emt.gartnerweb.com/ngw/globalassets/en/supply-chain/documents/ai-use-case-prism-for-supply-chain.pdf), Gartner, 2023
+1. [The state of warehouse management and fulfillment in 2024](https://4565296.fs1.hubspotusercontent-na1.net/hubfs/4565296/05%20AutoStore%20Brochures/English%20Brochures/AutoStore%20%7C%20State%20of%20the%20Market%20Report%202024.pdf), AutoStore, 2024
+1. [Getting warehouse automation right](https://www.mckinsey.com/capabilities/operations/our-insights/getting-warehouse-automation-right), McKinsey report, Dec 2023
+    * A warehouse automation revolution is underway, but too many projects are not delivering the results.
