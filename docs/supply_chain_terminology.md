@@ -5,6 +5,7 @@
   - A few more list of terms or glossary on [3PL logistics](https://www.speedcommerce.com/3pl-glossary/), [cips.org glossary](https://www.cips.org/intelligence-hub/glossary-of-terms), [inboundlogistics glossary](https://www.inboundlogistics.com/logistics-glossary), [Numina Group glossary](https://numinagroup.com/glossary/)
   - [Cargo transportation terminilogy](https://www.vinculum.ru/en/informatsiya/glossarium), 300+ terms from Vinculum
   - Since the ASCM dictionary include the whole of supply chain, it is not considered - some definitions are copied from that reference.
+- [ ] Add alphabetical index into the terms since the list is getting longer ...
 
 ### Terminology
 
@@ -349,8 +350,6 @@ For more info, refer to [this link](https://www.maersk.com/logistics-explained/s
 
 **Truck Loading**: Truck loading constitutes the process by which products are placed on a vehicle in order to be transported to their destination (a distribution center, another warehouse, or directly to the end customer). It’s vital to make sure that the weight distribution in the truck is correct and, particularly, that there are no mistakes in the goods dispatched or assigned. Properly loading goods onto a truck is a complex process, especially when faced with increasingly varied packaging, unit loads, and transportation modes. Software and digitalisation are the solution to this issue, as they help to automate a large part of this process, making it quicker and more effective. This is a WMS feature. For more info, refer to [this link](https://www.mecalux.com/blog/truck-loading-software).
 
-**Types of Robots**: TODO. For more info, refer to [this link]().
-
 **Unit Load**: In warehouse management system, “unit load types” refer to the different forms or configurations in which goods or products are grouped together for storage, handling, and transportation within a warehouse or distribution center. Unit load types are designed to facilitate efficient movement and storage of goods, optimize space utilization, and enhance operational processes. For more info, refer to [this link](https://swifthub.net/en/blog-en/6-common-load-types-in-a-warehouse)
 
 **Unit Load Device (ULD) Containers**: Unit load devices, or ULDs, are essential components of air freight transportation. They assist in transporting different kinds of cargo, which are packaged in various pallet and container types. For more info, refer to [this link](https://www.shiprocket.in/blog/uld-containers/)
@@ -389,6 +388,17 @@ A few of the WES vendors are listed below:
 For more info, refer to [this link](https://radiuslogistics.co.uk/10-must-have-features-for-good-warehouse-management-system/). For a comparison of functionalities between WMS, WES and WCS, refer to [Logiwa's Taking theconfusion out of Warehouse Systems](https://www.logiwa.com/blog/wms-wes-wcs-taking-the-confusion-out-of-warehouse-systems), [Korber's WMS Inforgraphic](https://library.ksc-s.com/m/1251cd59cad5fc82/original/Warehouse-Management-Systems-WMS.pdf), [Making the case for Driving Digital Transformation with a Smarter, Connected WMS, Ehrhardt Partner Group](https://scg-mmh.s3.amazonaws.com/pdfs/MTC_Ehrhardt-MMH-11-15-18.pdf) and [how WES is changing the status quo in distribution](https://www.youtube.com/watch?v=1XEPI9x1vnk).
 
 **Warehouse Racking**: An essential part of warehouse infrastructure, warehouse racking can hinder or accelerate warehouse operations. With proper warehouse racking, warehouse managers maximize space and optimize warehouse organization for efficiency and a streamlined picking process. (Learn more about How to Organize a Warehouse). Warehouse layout plays a major role in warehouse racking, as aisle width, docking locations, shipping areas, and other warehouse components affect warehouse racking options. For more info, refer to [this link](https://www.camcode.com/blog/what-is-warehouse-racking/).
+
+**Warehouse Robotics**: Refers to the study of robots used in acomplishing the warehouse tasks such as picking, packing, palletizing, depalletizing, etc. With warehouse robotics, companies can serve their customers without interruption. Robots and automatic handling equipment perform operations in logistics facilities with minimal operator intervention. List of some of the warehouse robots are:
+
+1. *Automatic guided vehicles (AGVs)*: AGVs are transport machines which are similar to forklifts but are driverless and move around the warehouse following a preset route. They are tasked with moving goods between two points in the building with full autonomy, freeing operators from this tedious work.
+1. *Autonomous Mobile Robots (AMRs)*: These are devices capable of performing tasks and moving around the warehouse without the need for anyone to direct them. To that end, they are equipped with sensors, software to guide them, and digital layouts of the warehouse to interpret their environment.
+1. *AS/RS*: Automated storage equipment such as stacker cranes for pallets, miniload systems, and the automated Pallet Shuttle system are responsible for storing the goods in their corresponding locations with complete autonomy.
+1. *Robotic Arms*: The use of robotic arms in warehouses is also on the rise, as they facilitate order preparation and help operators to manage heavy loads. These robots are similar to human arms, as they contain components that carry out rotational motion and linear displacement.
+
+For more info, refer to [this link](https://modula.us/blog/warehouse-robotics) which lists around 15 types of robots.
+
+**Warehouse Robots**: Warehouse robots are devices employed to automate flows of goods and increase productivity. These technologies work with full autonomy or in collaboration with operators to perform tasks such as moving products between two points, preparing orders, and storing products on racks. In recent years, warehouse robots have had a huge impact on the supply chain and have been implemented in many facilities. The reason is obvious: companies turn to technology to boost the flexibility and throughput of their logistics operations. According to a study by consulting company [Research and Markets](https://www.researchandmarkets.com/reports/4896740/global-logistics-robots-market-by-type-co), the global logistics robots market was valued at over $1.8 billion in 2020 and is slated to reach over $2.35 billion in 2026. For more info, refer to [this link](https://www.interlakemecalux.com/blog/warehouse-robots), [Warehouse robots: technology automates logistics](https://www.mecalux.com/blog/warehouse-robots) and [Guide to Warehouse Robots](https://6river.com/guide-to-warehouse-robots).
 
 **Wave Picking**: With wave picking, orders are grouped and picked in batches, but at specific times of day. Here’s how it works:
 
