@@ -486,3 +486,4 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 1. [The state of warehouse management and fulfillment in 2024](https://4565296.fs1.hubspotusercontent-na1.net/hubfs/4565296/05%20AutoStore%20Brochures/English%20Brochures/AutoStore%20%7C%20State%20of%20the%20Market%20Report%202024.pdf), AutoStore, 2024
 1. [Getting warehouse automation right](https://www.mckinsey.com/capabilities/operations/our-insights/getting-warehouse-automation-right), McKinsey report, Dec 2023
     * A warehouse automation revolution is underway, but too many projects are not delivering the results.
+1. [5 Things to have in your connected warehouse in 2025](https://scg-mmh.s3.amazonaws.com/pdfs/conductix-wp-5_things_to_have_in_your_connected_warehouse_in_2025-102224.pdf), Conductix Wampfler
