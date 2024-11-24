@@ -4,26 +4,35 @@
 
 BEGIN {
     RS="\n\\*\\*";
-    term_cnt=0;
     url_cnt=0;
     } 
 !/For more info/ {
     if(!/Also known as/) {
-        term_cnt+=1;
-        print FNR ":" substr($0,1,index($0,"**"))
+        if(FNR != 1) {
+            term_cnt+=1;
+            print FNR ":" substr($0,1,index($0,"**"))
+        }
     } 
 }
+# n = split($i,arr,/\]\(/)
+# print substr(arr[1],2,length(arr[1])-2) "-" substr(arr[2],2,length(arr[2])-2)
 {
     for(i=1; i<=NF; i++) {
         #if ($i ~ /\[[^\]]*\]\(http[^\)]*\)/) {
         if ($i ~ /\(http(.*)/) {
-            #print arr[i]
-            print $i;
+            n = split($i,arr,/\]\(/)
+            cb_idx = index(arr[2],")")
+            if (cb_idx != 0) {
+                print substr(arr[2],1,cb_idx-1) > "urls.txt"
+            } else {
+                print arr[2] > "urls.txt"
+            }
             url_cnt+=1;
         }
     }
 }
 END {
-    print term_cnt "/" FNR ":" url_cnt;
+    print "No. of Terms without links: " term_cnt "/" (FNR-1)
+    print "No. of URL links: " url_cnt;
 }
 

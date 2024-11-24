@@ -3,11 +3,19 @@
 - [x] Complete the terms identified with a TODO.
 - [ ] Add the other terms if they are missing from [ASCM dictionary](https://www.ascm.org/learning-development/certifications-credentials/dictionary/), warehouse/reailing related term in [Gartner glossary](https://www.gartner.com/en/information-technology/glossary), [Syrencloud SCM Glossary](https://syrencloud.com/insights/supply-chain-glossary/), [Softeon glossary](https://www.softeon.com/glossary/), [Zoho WMS Glossary](https://www.zoho.com/in/inventory/wms-dictionary/3pl.html) and [IBM WMS Glossary](https://www.ibm.com/docs/en/warehouse-management/9.5.0?topic=glossary)
   - A few more list of terms or glossary on [3PL logistics](https://www.speedcommerce.com/3pl-glossary/), [cips.org glossary](https://www.cips.org/intelligence-hub/glossary-of-terms), [inboundlogistics glossary](https://www.inboundlogistics.com/logistics-glossary), [Numina Group glossary](https://numinagroup.com/glossary/)
-  - [Cargo transportation terminilogy](https://www.vinculum.ru/en/informatsiya/glossarium), 300+ terms from Vinculum
+  - [Cargo transportation terminology](https://www.vinculum.ru/en/informatsiya/glossarium), 300+ terms from Vinculum
+  - [IWLA Glossary and Terminology](http://31y.93c.myftpupload.com/wp-content/uploads/2020/09/IWLA-Glossary-and-Terminology.pdf), Dec 2018.
   - Since the ASCM dictionary include the whole of supply chain, it is not considered - some definitions are copied from that reference.
 - [ ] Add alphabetical index into the terms since the list is getting longer ...
 
 ### Terminology
+
+**3PL Billing**: 3PL billing refers to how third-party logistics providers charge for their services. This involves various fees like receiving, storage, and outbound fees. Managing these bills manually can lead to errors and inefficiencies. This article will break down the key components, explore common billing models, and show how automation can simplify the process. For more info, refer to [this link](https://www.cadretech.com/blog/3pl-billing/) and [this 3PL billing process description](https://www.altexsoft.com/blog/3pl-billing/). 3PL billing is the process of calculating charges for services provided to a client and generating an invoice. In a 3PL warehouse, the provided services may include warehousing, transportation, inventory management, order fulfillment, and value-added services. Accurate billing is essential to ensure transparent and accurate financial transactions and bookkeeping. It also facilitates effective revenue management to keep your company profitable. You can bill customers manually or leverage 3PL billing software built for making calculating, generating, issuing, and recording invoices easier. This is a WMS feature. For more info, refer to [this link](https://www.logiwa.com/blog/3pl-billing-automation), [SphereWMS 3PL Billing](https://spherewms.com/features/3pl-billing), [Extensiv's 3PL Pricing by Service & How To Maximize Value On Your Fees Structure](https://www.extensiv.com/blog/3pl-pricing) and [3PL Billing: Guide to Optimizing Your Invoicing Process](https://www.cadretech.com/blog/3pl-billing/). Example of pricing calculator from 3PL providers:
+
+1. [3PL Manager - Quick warehousing cost estimator](https://www.3plmanager.com/resources/tools/party-logistics-3pl-quick-warehousing-cost-estimator)
+1. [Bulu Group Calculator](https://www.bulugroup.com/calculator)
+1. [ShipRelay Pricing page](https://shiprelay.com/pricing)
+1. [ShippingTree Pricing Page](https://shippingtree.co/pricing/)
 
 **3PL Logistics Provider**: A 3PL (third-party logistics) provider offers outsourced logistics services, which encompass anything that involves management of one or more facets of procurement and fulfillment activities. In business, 3PL has a broad meaning that applies to any service contract that involves storing or shipping items. A 3PL service may be a single provider, such as transportation or warehouse storage, or it can be a systemwide bundle of services capable of handling supply chain management. For more info, refer to [this link](https://www.techtarget.com/searcherp/definition/3PL-third-party-logistics), [3PL Warehousing 101](https://kanbanlogistics.com/blog/3pl-warehousing-101) and [What is a 3PL? A Complete Guide to 3PL Warehousing](https://www.extensiv.com/what-is-a-3pl).
 
@@ -27,7 +35,7 @@ Advantages of advanced cartonization are:
 
 **Advance Shipping Notification (ASN)**: It is an electronic data interchange (EDI) message sent from the shipper to the receiver prior to the departure of the shipment from the shipper’s facility. The message includes complete information about the shipment and its contents. In today’s environment, this message is more often an “as shipped notice” sent after the departure of the shipment.After receiving an order and preparing a shipment, the sellers or shippers then need to let the buyer, such as a retailer or distributor, know the details for the shipment they are about to receive. This helps the buyer to plan ahead for incoming shipments, reconcile EDI 856 detail with incoming inventory, and automate receiving workflows.
 
-- For more info refer to [this link](https://www.gartner.com/en/information-technology/glossary/asn-advanced-shipment-notice "EDI856 is an important & frequently used transaction among suppliers, distributors, manufacturers and retailers")
+- For more info, refer to [this link](https://www.gartner.com/en/information-technology/glossary/asn-advanced-shipment-notice "EDI856 is an important & frequently used transaction among suppliers, distributors, manufacturers and retailers")
 - [EDI 856 message details with sample](https://www.truecommerce.com/edi-transaction-codes/edi-856)
 
 **Allocation Rules**: Allocation rules are a set of predefined guidelines and strategies that dictate how products are allocated or assigned to specific locations within a warehouse. These rules are designed to optimize storage space, improve order fulfillment, and enhance overall warehouse efficiency. They take into account various factors, such as product characteristics, demand patterns, and storage capacities. For more info, refer to [this link](https://axacute.com/blog/understanding-allocation-rules-in-warehouses/).
@@ -40,7 +48,7 @@ Advantages of advanced cartonization are:
 1. _Picking area_: In the picking zone, warehouse operators retrieve the merchandise they need to fill customers’ orders. This space can be integrated with the storage area, as in the case of picking from pallets. Picking areas can also be set up in specific zones within the facility, normally with automated or semi-automated systems.
 1. _Shipping area_: In the shipping or goods dispatch zone, orders are prepared and sent to their final destination. Although it tends to be near the facility’s exit, the positioning of the shipping area will be influenced by several elements. These include the number of shipments, the volume of routes managed daily, scheduling and even the location of the warehouse in relation to its surroundings (which will limit the number of docks or concentrate them in a specific zone).
 
-**Automated Storage and Retrieval System (AS/RS)**: It is a broader term used to refer to any computer-controlled system that stores and retrieves items automatically. ASRS systems use robots and a grid or shelving system to store items in flexible locations within a grid of shelving system. For more info refer to [this link](https://6river.com/what-is-an-automated-storage-and-retrieval-system/ "1. Types of ASRS.
+**Automated Storage and Retrieval System (AS/RS)**: It is a broader term used to refer to any computer-controlled system that stores and retrieves items automatically. ASRS systems use robots and a grid or shelving system to store items in flexible locations within a grid of shelving system. For more info, refer to [this link](https://6river.com/what-is-an-automated-storage-and-retrieval-system/ "1. Types of ASRS.
 2. How do they work?
 3. Their advantages/disadvantages.
 4. How to choose right system?
@@ -66,7 +74,7 @@ Advantages of advanced cartonization are:
 
 **Batch Picking**: This is one type of Picking operation. Batch picking involves a worker moving through the warehouse collecting goods for several orders at once. For more info, refer to [this link](https://www.mecalux.com/blog/batch-picking-definition).
 
-**Bill of Lading**: A bill of lading is a legal document that is issued by a carrier to the shipper. It contains details about which goods are being shipped, where the shipment is coming from and going to, as well as details of the shipper, carrier, and consignee. For more info, refer to [this link](https://www.maersk.com/logistics-explained/shipping-documentation/2023/10/02/what-is-bill-of-lading).
+**Bill of Lading**: A bill of lading is a legal document that is issued by a carrier to the shipper. It contains details about which goods are being shipped, where the shipment is coming from and going to, as well as details of the shipper, carrier, and consignee. For more info, refer to [this link](https://www.maersk.com/logistics-explained/shipping-documentation/2023/10/02/what-is-bill-of-lading) and [UPS definition](https://www.ups.com/us/en/supplychain/resources/glossary-term/bill-of-lading.page).
 
 **Bonded Warehouse**: A bonded warehouse (or customs warehouse) is a secure storage facility where shippers can store their imported goods without needing to immediately pay import taxes and duties. To put it another way: when goods are held in bonded warehouses, they’re considered to be still in transit to their final destination. Only when goods are dispatched from the secure area of a bonded warehouse to their final destination, do these fees apply. These warehouses can be found all over the world and are traditionally operated by governmental authorities or private entities under robust state customs guidelines. For more info, refer to [this link](https://www.maersk.com/logistics-explained/storage-and-warehousing/2024/09/06/bonded-warehouses-explained).
 
@@ -106,6 +114,8 @@ For vendors who have automated this process are:
 
 **Freight Brokers**: Freight brokers are crucial in connecting shippers with carriers. They help bridge the gap between shippers and carriers to ensure seamless transit of goods across various transport modes, be it by truck, rail, or sea. They act as a link between shippers who need to ship their goods and carriers who can transport their goods. For more info, refer to [this link](https://usravens.com/types-of-freight-brokers/).
 
+**Freight Forwarders**: They are intermediaries between shippers (manufacturers, wholesalers, or retailers) and carriers (sea, air, and land transportation providers) that organize and coordinate the movement of goods across international borders. For more info, refer to [this link](https://www.altexsoft.com/blog/freight-forwarder/).
+
 **Freight Marketplace**: A freight marketplace (also called digital freight marketplaces or digital freight matching platforms) is an online platform that connects shippers and logistics service providers such as air, ocean, and land carriers, freight forwarders, 3PLs, custom brokers, consolidators, etc. For more info, refer to [this link](https://www.altexsoft.com/blog/freight-marketplaces/).
 
 **Fulfillment Center (FC)**: Also known as Distribution Center (DC). There are different types depending on their location, size & purpose:
@@ -124,7 +134,7 @@ For differences between Warehouse and FC, refer to [this link](https://www.shipb
 
 **Goods In Notification (GIN)**: Also known as GRN.
 
-**Goods Received Note (GRN)**:  Goods Received Note is a record of goods received from suppliers, and the record is shown as a proof that ordered products had been received. Moreover, the record is used by the buyer for comparing the number of goods ordered to the ones delivered. GRN plays an important role among various departments for several companies. Primarily, factory/store, procurement and finance/accounting departments use the record for stock updates and the payment of goods procured. For more info, refer to [this link](https://kissflow.com/procurement/purchase-invoices/grn-goods-received-note/).
+**Goods Received Note (GRN)**: Goods Received Note is a record of goods received from suppliers, and the record is shown as a proof that ordered products had been received. Moreover, the record is used by the buyer for comparing the number of goods ordered to the ones delivered. GRN plays an important role among various departments for several companies. Primarily, factory/store, procurement and finance/accounting departments use the record for stock updates and the payment of goods procured. For more info, refer to [this link](https://kissflow.com/procurement/purchase-invoices/grn-goods-received-note/).
 
 **Hard Allocation**: Hard Allocation: A type of allocation where specific inventory items are reserved for specific orders. Once inventory is hard allocated, it cannot be used to fulfill any other orders. If hard allocation is the hammer and nails of supply chain, soft allocation is like magnets and a whiteboard. While orders are being placed, you should be able to shift supply to demand as priorities change. Seeing the big picture — whether that’s by channel, customer, product, vendor, or other entities — is key to understanding and managing your supply chain for the best results. For more info, refer to [this link](https://sunrise.co/blog/soft-and-hard-allocation-understanding-the-difference) and [difference between hard & soft allocation](https://factech.co.in/blog/hard-vs-soft-inventory-allocation/).
 
@@ -201,6 +211,8 @@ A few vendors who have MCPM software are listed below:
 1. [Multicarrier Shipping Software, Mecalux module](https://www.mecalux.com/software/multi-carrier-shipping-software)
 
 **Multicarrier Shipping**: At its core, multi-carrier shipping is a B2B logistics operation that involves utilizing multiple carriers to deliver packages. Unlike traditional methods, this approach allows businesses to compare rates, transit times, and routes, optimizing the selection of carriers based on specific package requirements. Multi-carrier shipping solutions, such as those offered by ClickPost and Aftership, use advanced technologies like AI-driven engines and API integrations to streamline the order creation, tracking, and management processes. For more info, refer to [this link](https://www.dropoff.com/blog/multi-carrier-shipping/).
+
+**Non-Vessel Operating Common Carrier (NVOCC)**: An ocean carrier who performs all of the services of a carrier, but who does not own their own vessel(s). They operate by leasing or buying available space in containers and using their own House Bill of Lading to contract with customers. For more info, refer to [this link](https://www.ups.com/us/en/supplychain/resources/glossary-term/nvocc.page) and [this comparison of Freight forwarders, 3PLs, NVOCCs, freight brokers and customs agents](https://www.altexsoft.com/blog/freight-forwarder/).
 
 **Order Allocation**: Order allocation in a warehouse is the process of assigning available inventory to customer orders in the most efficient and profitable way. This is a OMS feature. A few points to note about allocation are:
 
@@ -331,22 +343,16 @@ A few of the vendors smart slotting solutions are listed below:
 
 **Task Interleaving**: Task interleaving consists of combining two or more tasks on a single run through the warehouse. Task interleaving makes it possible, for instance, for pickers to retrieve the SKUs they need to put together an order and to then take advantage of the trip back to replenish a product. This strategy includes all types of logistics activity, from order picking to inventory and goods replenishment operations. The main aims of task interleaving are to increase warehouse productivity and reduce deadheading (unproductive travel). By combining two or more tasks, operators make the most of their trips, cutting down on unnecessary movements. For more info, refer to [this link](https://www.mecalux.com/blog/task-interleaving-warehouse).
 
-**Third Party Logistics (3PL) Billing**: 3PL billing is the process of calculating charges for services provided to a client and generating an invoice. In a 3PL warehouse, the provided services may include warehousing, transportation, inventory management, order fulfillment, and value-added services. Accurate billing is essential to ensure transparent and accurate financial transactions and bookkeeping. It also facilitates effective revenue management to keep your company profitable. You can bill customers manually or leverage 3PL billing software built for making calculating, generating, issuing, and recording invoices easier. This is a WMS feature. For more info, refer to [this link](https://www.logiwa.com/blog/3pl-billing-automation), [SphereWMS 3PL Billing](https://spherewms.com/features/3pl-billing), [Extensiv's 3PL Pricing by Service & How To Maximize Value On Your Fees Structure](https://www.extensiv.com/blog/3pl-pricing) and [3PL Billing: Guide to Optimizing Your Invoicing Process](https://www.cadretech.com/blog/3pl-billing/). Example of pricing calculator from 3PL providers:
-
-1. [3PL Manager - Quick warehousing cost estimator](https://www.3plmanager.com/resources/tools/party-logistics-3pl-quick-warehousing-cost-estimator)
-1. [Bulu Group Calculator](https://www.bulugroup.com/calculator)
-1. [ShipRelay Pricing page](https://shiprelay.com/pricing)
-1. [ShippingTree Pricing Page](https://shippingtree.co/pricing/)
-
 **Tote or Bin**: Totes or Bins: Totes or bins are smaller, stackable containers used for storing and transporting small parts or components. They are commonly used in order picking and assembly processes. For more info, refer to [this link](https://shiphero.com/blog/pick-methods-and-totes/).
 
 **Transportation Management System (TMS)**: It is a software platform that helps businesses effectively plan, execute, and optimise the movement of goods from point A to point B. It provides end-to-end visibility and control over every aspect of your supply chain, allowing you to streamline operations, enhance collaboration, and make data-driven decisions. According to [BlueYonder TMS buying Guide](https://edge.sitecorecloud.io/blueyonderie8e6-corporateefb0-prod6ccb-be06/media/project/blueyonder/corporate/files/resources/selecting-the-right-trasnportation-management-system.pdf), the main functionalities are:
-1. *Transportation Planning*: Transportation planning capabilities including street-level routing, fleet integration, dynamic intercontinental planning, dock management, and precise driver assignment.
-1. *Transportation Execution*: Transportation program uses advanced forecasting with predictive exception and capacity management regardless of mode or region.
-1. *Transportation Procurement*: Transportation Procurement solutions streamline global collaboration with carriers to reduce costs and time-to-value.
-1. *Load Building*: Load building software builds three-dimensional (3-D), inventory-aware truckloads for maximized trailer utilization.
-1. *Transportation Modeling* (Optional): Transportation modeling solution empowers your business with the real-time data you need to streamline and create cost effective transportation networks.
-1. *Carrier Network Management* (Optional): Most companies rely on external carriers to manage their global transportation activiies. While these carriers are external to the suply chain, they play a central role in keeping customer promises. CN ensures that all partners cereive critical suply chain information in a timely, transparent manner, enabling supply chain resiliency.
+
+1. _Transportation Planning_: Transportation planning capabilities including street-level routing, fleet integration, dynamic intercontinental planning, dock management, and precise driver assignment.
+1. _Transportation Execution_: Transportation program uses advanced forecasting with predictive exception and capacity management regardless of mode or region.
+1. _Transportation Procurement_: Transportation Procurement solutions streamline global collaboration with carriers to reduce costs and time-to-value.
+1. _Load Building_: Load building software builds three-dimensional (3-D), inventory-aware truckloads for maximized trailer utilization.
+1. _Transportation Modeling_ (Optional): Transportation modeling solution empowers your business with the real-time data you need to streamline and create cost effective transportation networks.
+1. _Carrier Network Management_ (Optional): Most companies rely on external carriers to manage their global transportation activiies. While these carriers are external to the suply chain, they play a central role in keeping customer promises. CN ensures that all partners cereive critical suply chain information in a timely, transparent manner, enabling supply chain resiliency.
 
 For more info, refer to [this link](https://www.maersk.com/logistics-explained/supply-chain-management/2024/05/16/transportation-management-system), [BlueYonder's TM Solution](https://blueyonder.com/solutions/transportation-management) and [Korber TMS infographic](https://library.ksc-s.com/m/4ba6516654de6a2d/original/Transport-Management-Systems-TMS.pdf).
 
@@ -393,10 +399,10 @@ For more info, refer to [this link](https://radiuslogistics.co.uk/10-must-have-f
 
 **Warehouse Robotics**: Refers to the study of robots used in acomplishing the warehouse tasks such as picking, packing, palletizing, depalletizing, etc. With warehouse robotics, companies can serve their customers without interruption. Robots and automatic handling equipment perform operations in logistics facilities with minimal operator intervention. List of some of the warehouse robots are:
 
-1. *Automatic guided vehicles (AGVs)*: AGVs are transport machines which are similar to forklifts but are driverless and move around the warehouse following a preset route. They are tasked with moving goods between two points in the building with full autonomy, freeing operators from this tedious work.
-1. *Autonomous Mobile Robots (AMRs)*: These are devices capable of performing tasks and moving around the warehouse without the need for anyone to direct them. To that end, they are equipped with sensors, software to guide them, and digital layouts of the warehouse to interpret their environment.
-1. *AS/RS*: Automated storage equipment such as stacker cranes for pallets, miniload systems, and the automated Pallet Shuttle system are responsible for storing the goods in their corresponding locations with complete autonomy.
-1. *Robotic Arms*: The use of robotic arms in warehouses is also on the rise, as they facilitate order preparation and help operators to manage heavy loads. These robots are similar to human arms, as they contain components that carry out rotational motion and linear displacement.
+1. _Automatic guided vehicles (AGVs)_: AGVs are transport machines which are similar to forklifts but are driverless and move around the warehouse following a preset route. They are tasked with moving goods between two points in the building with full autonomy, freeing operators from this tedious work.
+1. _Autonomous Mobile Robots (AMRs)_: These are devices capable of performing tasks and moving around the warehouse without the need for anyone to direct them. To that end, they are equipped with sensors, software to guide them, and digital layouts of the warehouse to interpret their environment.
+1. _AS/RS_: Automated storage equipment such as stacker cranes for pallets, miniload systems, and the automated Pallet Shuttle system are responsible for storing the goods in their corresponding locations with complete autonomy.
+1. _Robotic Arms_: The use of robotic arms in warehouses is also on the rise, as they facilitate order preparation and help operators to manage heavy loads. These robots are similar to human arms, as they contain components that carry out rotational motion and linear displacement.
 
 For more info, refer to [this link](https://modula.us/blog/warehouse-robotics) which lists around 15 types of robots.
 
@@ -431,19 +437,9 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 ### References to WMS/TMS/YMS Vendor APIs/Product Documentation
 
 1. [Microsoft Dynamics365 Warehouse documentation](https://learn.microsoft.com/en-us/dynamics365/supply-chain/warehousing/warehouse-management-overview)
-1. [Microsoft Warehouse Inventory Visibility Public API](https://learn.microsoft.com/en-us/dynamics365/supply-chain/inventory/inventory-visibility-api)
-1. [ClarusWMS API documentation](https://documentation.claruswms.co.uk/)
-1. [Logiwa Warehouse Open API](https://developer.logiwa.com/?id=5e209fbee6466c2b285d6dc2) - has REST API, Web hooks and subscriptions.
 1. [Oracle Cloud WMS REST API Guide, Release 24B](https://docs.oracle.com/en/cloud/saas/warehouse-management/24b/owmre/change-history.html#u30239948)
 1. [Oracle WMS Cloud, Product Doc, Rel.24c](https://docs.oracle.com/en/cloud/saas/warehouse-management/24c/owmap/index.html)
-1. [DHL Transportation Management API](https://developer.dhl.com/api-reference/transportation-management)
-1. [TMS API - SAP's Business Accelerator Hub](https://api.sap.com/package/TmsForCloudPub/rest)
 1. [TMS Integrations](https://developers.samsara.com/docs/tms-integration-guide), Samsara's connected operations cloud
-1. [ShipHero WMS API](https://developer.shiphero.com/)
-1. [ShipStream Radical WMS API Documentation](https://docs.shipstream.io/),
-1. MercuryGate TMS API - [Swagger doc link](https://qa-api-docs.mercurygate.net/documentation/webjars/swagger-ui/index.html), [Swagger Spec](https://qa-api-docs.mercurygate.net/documentation/api-docs)
-1. [3PL Central REST APIs](https://developer.3plcentral.com/#intro)
-1. [Shipbob's Developer API](https://developer.shipbob.com/)
 
 ### References
 
@@ -478,7 +474,7 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 1. [TMS Implementation Guide](https://envistacorp.com/consulting/software-selection-implementation/transportation-management-systems)
 1. [Shipbob's Peak Season - Fulfillment Checklist](https://resources.shipbob.com/peak-season-checklist)
 1. [Shipping & Transportation APIs](https://www.altexsoft.com/blog/shipping-api/), Altexsoft
-1. [Transportation Management System: Benefits, Features, and Main Providers](https://www.altexsoft.com/blog/shipping-api/), Altexsoft, Apr 2022
+1. [Transportation Management System: Benefits, Features, and Main Providers](https://www.altexsoft.com/blog/transportation-management-system/), Altexsoft, Apr 2022
 1. [To walk or not to walk? Designing intelligent order picking warehouses with collaborative robots](https://www.sciencedirect.com/science/article/abs/pii/S1366554524002874), Transportation Research Part E: Logistics & Transportation Review, Oct 2024.
 1. [Software Component Architecture for SCM](https://www.researchgate.net/publication/222833882_Software_component_architecture_in_supply_chain_management), 2004
 1. [Three-Step Plan for Supply Chain Digital Transformation](https://emt.gartnerweb.com/ngw/globalassets/en/supply-chain/documents/trends/three-step-plan-for-supply-chain-digital-transformation.pdf), Gartner, 2020
@@ -487,5 +483,5 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 1. [AI use-case prism for Supply Chain](https://emt.gartnerweb.com/ngw/globalassets/en/supply-chain/documents/ai-use-case-prism-for-supply-chain.pdf), Gartner, 2023
 1. [The state of warehouse management and fulfillment in 2024](https://4565296.fs1.hubspotusercontent-na1.net/hubfs/4565296/05%20AutoStore%20Brochures/English%20Brochures/AutoStore%20%7C%20State%20of%20the%20Market%20Report%202024.pdf), AutoStore, 2024
 1. [Getting warehouse automation right](https://www.mckinsey.com/capabilities/operations/our-insights/getting-warehouse-automation-right), McKinsey report, Dec 2023
-    * A warehouse automation revolution is underway, but too many projects are not delivering the results.
+   - A warehouse automation revolution is underway, but too many projects are not delivering the results.
 1. [5 Things to have in your connected warehouse in 2025](https://scg-mmh.s3.amazonaws.com/pdfs/conductix-wp-5_things_to_have_in_your_connected_warehouse_in_2025-102224.pdf), Conductix Wampfler
