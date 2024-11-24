@@ -48,12 +48,7 @@ Advantages of advanced cartonization are:
 1. _Picking area_: In the picking zone, warehouse operators retrieve the merchandise they need to fill customers’ orders. This space can be integrated with the storage area, as in the case of picking from pallets. Picking areas can also be set up in specific zones within the facility, normally with automated or semi-automated systems.
 1. _Shipping area_: In the shipping or goods dispatch zone, orders are prepared and sent to their final destination. Although it tends to be near the facility’s exit, the positioning of the shipping area will be influenced by several elements. These include the number of shipments, the volume of routes managed daily, scheduling and even the location of the warehouse in relation to its surroundings (which will limit the number of docks or concentrate them in a specific zone).
 
-**Automated Storage and Retrieval System (AS/RS)**: It is a broader term used to refer to any computer-controlled system that stores and retrieves items automatically. ASRS systems use robots and a grid or shelving system to store items in flexible locations within a grid of shelving system. For more info, refer to [this link](https://6river.com/what-is-an-automated-storage-and-retrieval-system/ "1. Types of ASRS.
-2. How do they work?
-3. Their advantages/disadvantages.
-4. How to choose right system?
-5. How much do they cost?
-6. Alternative: AMR") and [this vendor products specific link](https://www.bastiansolutions.com/solutions/technology/asrs)
+**Automated Storage and Retrieval System (AS/RS)**: It is a broader term used to refer to any computer-controlled system that stores and retrieves items automatically. ASRS systems use robots and a grid or shelving system to store items in flexible locations within a grid of shelving system. For more info, refer to [this link](https://6river.com/what-is-an-automated-storage-and-retrieval-system/ "1. Types of ASRS. 2. How do they work? 3. Their advantages/disadvantages. 4. How to choose right system? 5. How much do they cost? 6. Alternative: AMR") and [this vendor products specific link](https://www.bastiansolutions.com/solutions/technology/asrs)
 
 **BFCM**: Black Friday Cyber Monday, referred to in the business as BFCM, is a weeklong holiday shopping extravaganza full of discounts and heavy traffic immediately following the Thanksgiving holiday. For eCommerce sellers, Black Friday Cyber Monday is a huge revenue opportunity – especially as more shoppers move online. For more info, refer to [this link](https://www.8fig.co/blog/bfcm).
 
@@ -436,8 +431,7 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 
 ### References to WMS/TMS/YMS Vendor APIs/Product Documentation
 
-1. [Microsoft Dynamics365 Warehouse documentation](https://learn.microsoft.com/en-us/dynamics365/supply-chain/warehousing/warehouse-management-overview)
-1. [Oracle Cloud WMS REST API Guide, Release 24B](https://docs.oracle.com/en/cloud/saas/warehouse-management/24b/owmre/change-history.html#u30239948)
+1. [Microsoft Dynamics365 Warehouse documentation](https://learn.microsoft.com/en-us/dynamics365/supply-chain/warehousing/warehouse-management-overview))
 1. [Oracle WMS Cloud, Product Doc, Rel.24c](https://docs.oracle.com/en/cloud/saas/warehouse-management/24c/owmap/index.html)
 1. [TMS Integrations](https://developers.samsara.com/docs/tms-integration-guide), Samsara's connected operations cloud
 
