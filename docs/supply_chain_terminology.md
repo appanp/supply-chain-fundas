@@ -10,6 +10,10 @@
 
 ### Terminology
 
+[3](#anc-3) [A](#anc-a) [B](#anc-b) [Z](#anc-z)
+
+<a name="anc-3">
+
 **3PL Billing**: 3PL billing refers to how third-party logistics providers charge for their services. This involves various fees like receiving, storage, and outbound fees. Managing these bills manually can lead to errors and inefficiencies. This article will break down the key components, explore common billing models, and show how automation can simplify the process. For more info, refer to [this link](https://www.cadretech.com/blog/3pl-billing/) and [this 3PL billing process description](https://www.altexsoft.com/blog/3pl-billing/). 3PL billing is the process of calculating charges for services provided to a client and generating an invoice. In a 3PL warehouse, the provided services may include warehousing, transportation, inventory management, order fulfillment, and value-added services. Accurate billing is essential to ensure transparent and accurate financial transactions and bookkeeping. It also facilitates effective revenue management to keep your company profitable. You can bill customers manually or leverage 3PL billing software built for making calculating, generating, issuing, and recording invoices easier. This is a WMS feature. For more info, refer to [this link](https://www.logiwa.com/blog/3pl-billing-automation), [SphereWMS 3PL Billing](https://spherewms.com/features/3pl-billing), [Extensiv's 3PL Pricing by Service & How To Maximize Value On Your Fees Structure](https://www.extensiv.com/blog/3pl-pricing) and [3PL Billing: Guide to Optimizing Your Invoicing Process](https://www.cadretech.com/blog/3pl-billing/). Example of pricing calculator from 3PL providers:
 
 1. [3PL Manager - Quick warehousing cost estimator](https://www.3plmanager.com/resources/tools/party-logistics-3pl-quick-warehousing-cost-estimator)
@@ -18,6 +22,8 @@
 1. [ShippingTree Pricing Page](https://shippingtree.co/pricing/)
 
 **3PL Logistics Provider**: A 3PL (third-party logistics) provider offers outsourced logistics services, which encompass anything that involves management of one or more facets of procurement and fulfillment activities. In business, 3PL has a broad meaning that applies to any service contract that involves storing or shipping items. A 3PL service may be a single provider, such as transportation or warehouse storage, or it can be a systemwide bundle of services capable of handling supply chain management. For more info, refer to [this link](https://www.techtarget.com/searcherp/definition/3PL-third-party-logistics), [3PL Warehousing 101](https://kanbanlogistics.com/blog/3pl-warehousing-101) and [What is a 3PL? A Complete Guide to 3PL Warehousing](https://www.extensiv.com/what-is-a-3pl).
+
+<a name="anc-a">
 
 **Advanced Cartonization**: Cartonization is the process of finding the best way to package items for shipping. By evaluating the size, shape and weight of each item, cartonization can speed up order delivery and increase profitability. Imagine a warehouse, pickers are on the floor going from location to location picking one or two orders into totes. When complete they walk to a pack station and drop off the materials to be packed and ship. Rinse and repeat. This strategy requires a lot of labor and can lead to unacceptable error rates. There is also a good chance the company is losing money in shipping by not taking advantage of the dimensional (DIM) weight protocols. Using advanced cartonization (also called pick to box) in a warehouse can take the guesswork out of the DIM weight rules before a single item is picked. For more info, refer to [this link](https://hy-tek.com/resources/advanced-cartonization/).
 
