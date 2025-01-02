@@ -1,3 +1,18 @@
+---
+title: "Supply Chain - Terminology"
+author: [Appan Ponnappan]
+date: "2024-12-26"
+subject: "Supply Chain"
+keywords: [Markdown, Example]
+lang: "en"
+header-left: "\\thetitle"
+header-center: "\\leftmark"
+header-right: "Page \\thepage"
+footer-left: "\\leftmark"
+footer-center: "Tejas Software Confidential"
+footer-right: "\\theauthor"
+...
+
 ### TODOs
 
 - [x] Complete the terms identified with a TODO.
@@ -54,7 +69,7 @@ Advantages of advanced cartonization are:
 1. _Picking area_: In the picking zone, warehouse operators retrieve the merchandise they need to fill customers’ orders. This space can be integrated with the storage area, as in the case of picking from pallets. Picking areas can also be set up in specific zones within the facility, normally with automated or semi-automated systems.
 1. _Shipping area_: In the shipping or goods dispatch zone, orders are prepared and sent to their final destination. Although it tends to be near the facility’s exit, the positioning of the shipping area will be influenced by several elements. These include the number of shipments, the volume of routes managed daily, scheduling and even the location of the warehouse in relation to its surroundings (which will limit the number of docks or concentrate them in a specific zone).
 
-**Automated Storage and Retrieval System (AS/RS)**: It is a broader term used to refer to any computer-controlled system that stores and retrieves items automatically. ASRS systems use robots and a grid or shelving system to store items in flexible locations within a grid of shelving system. For more info, refer to [this link](https://6river.com/what-is-an-automated-storage-and-retrieval-system/ "1. Types of ASRS. 2. How do they work? 3. Their advantages/disadvantages. 4. How to choose right system? 5. How much do they cost? 6. Alternative: AMR") and [this vendor products specific link](https://www.bastiansolutions.com/solutions/technology/asrs)
+**Automated Storage and Retrieval System (AS/RS)**: It is a broader term used to refer to any computer-controlled system that stores and retrieves items automatically. ASRS systems use robots and a grid or shelving system to store items in flexible locations within a grid of shelving system. For more info, refer to [this link](https://6river.com/what-is-an-automated-storage-and-retrieval-system/ "1. Types of ASRS. 2. How do they work? 3. Their advantages/disadvantages. 4. How to choose right system? 5. How much do they cost? 6. Alternative: AMR"), [Kardex ASRS 101 Guide](https://info.kardex.com/asset/warehouse-insights/asrs-101-comprehensive-guide) ([pdf](https://cdn.bfldr.com/EL3HU3A3/at/kqqvp7rt7kbqms8hchr5q2v/WarehouseInsights_US_ASRS-101-Comprehensive-Guide)) and [Bastian Solutions products specific link](https://www.bastiansolutions.com/solutions/technology/asrs)
 
 **BFCM**: Black Friday Cyber Monday, referred to in the business as BFCM, is a weeklong holiday shopping extravaganza full of discounts and heavy traffic immediately following the Thanksgiving holiday. For eCommerce sellers, Black Friday Cyber Monday is a huge revenue opportunity – especially as more shoppers move online. For more info, refer to [this link](https://www.8fig.co/blog/bfcm).
 
@@ -290,6 +305,8 @@ For best practices in the receiving process, watch [this video (7 mins)](https:/
 **Reverse Logistics**: Logistics for processing returns. For more info, refer to [this link](https://www.maersk.com/logistics-explained/supply-chain-management/2024/01/30/logistics-types-explained).
 
 **Reverse Put-away**: The picking method that is the reverse of direct put-away in a warehouse management system is known as reverse put-away. While direct put-away involves moving goods directly from receiving to their final storage location, reverse put-away typically involves moving items to a temporary staging area or directly to the shipping docks if they are needed immediately for outgoing orders. This method is efficient in operations where inventory turnover is high, and products are dispatched soon after they are received. For more info, refer to [this link](https://support.unicommerce.com/index.php/knowledge-base/putaway-reverse-pickup-items-new-ux/) - specific to Unicommerce.
+
+**Return Merchandise Authorization (RMA)**: TODO
 
 **Shipment Tracking**: What happens from the time an online order is made and then delivered to the customer? It's shipment - something all parties involved want to track. They want to be well-informed about its movements, how soon it will reach its destination, and whether any delays are expected. For more info, refer to [this link](https://www.altexsoft.com/blog/shipment-tracking-integration-apis-edis-carriers-aggregators/).
 
