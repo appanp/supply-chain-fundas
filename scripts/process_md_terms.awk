@@ -13,8 +13,7 @@ BEGIN {
             print FNR ":" substr($0,1,index($0,"**"))
         }
     }
-    # Process for inserting anchor tags
-    if()
+    # Process for inserting anchor tags - TODO (currently done manually)
 }
 # n = split($i,arr,/\]\(/)
 # print substr(arr[1],2,length(arr[1])-2) "-" substr(arr[2],2,length(arr[2])-2)

@@ -20,6 +20,7 @@ footer-right: "\\theauthor"
   - A few more list of terms or glossary on [3PL logistics](https://www.speedcommerce.com/3pl-glossary/), [cips.org glossary](https://www.cips.org/intelligence-hub/glossary-of-terms), [inboundlogistics glossary](https://www.inboundlogistics.com/logistics-glossary), [Numina Group glossary](https://numinagroup.com/glossary/)
   - [Cargo transportation terminology](https://www.vinculum.ru/en/informatsiya/glossarium), 300+ terms from Vinculum
   - [IWLA Glossary and Terminology](http://31y.93c.myftpupload.com/wp-content/uploads/2020/09/IWLA-Glossary-and-Terminology.pdf), Dec 2018.
+  - [Glossary of ASRS related terms](https://us.blog.kardex-remstar.com/automated-storage-and-retrieval-systems-asrs#glossary_of_asrs_related_terms), Kardex.
   - Since the ASCM dictionary include the whole of supply chain, it is not considered - some definitions are copied from that reference.
 - [x] Add alphabetical index into the terms since the list is getting longer ...
 
@@ -243,6 +244,8 @@ As with vehicle license plates, a lot of different information can be associated
 
 **Micro-fulfillment Center (MFC)**: Micro-fulfillment refers to the process of utilizing small-scale automated fulfillment centers strategically located near urban areas to facilitate rapid order processing and delivery. Equipped with advanced robotics, conveyor systems, and software algorithms, these compact facilities efficiently pick, pack, and dispatch orders in a fraction of the time it takes traditional warehouses. For more info, refer to [this link](https://www.dropoff.com/blog/micro-fulfillment/)
 
+**Mini-Load AS/RS**: It is a technology which is a storage retrieval machine (SRM) or crane designed for smaller (or mini) load handling (i.e. cases, totes, tray, etc.) that typically weigh less than 350 lbs. The Mini-Load AS/RS crane will automatically store and retrieve product from an engineered rack system that can range in height up to approximately 75 feet. For more info, refer to [this link](https://www.conveyco.com/technology/asrs/mini-load/).
+
 **Multi-Agent Orchestration (MAO)**: Orchestration of multiple robots in the Warehouse.For more info, refer to [this link](https://www.greyorange.com/resource/multiagent-orchestration-explained/).
 
 **Multicarrier Parcel Management (MCPM)**: Multicarrier parcel management solutions help companies select the most appropriate parcel carrier from among all contracted carriers. This selection is based on order characteristics (such as weight and dimensional properties), delivery rules (such as delivery time and delivery zone) and carrier performance, while considering the cost differentials of various carrier offerings. These tools also enable shippers and 3PLs to manage the creation of labels, create shipper manifests, provide status messages to customers or customer service representatives, and manage carrier rates. For more info, refer to [this link](https://www.gartner.com/reviews/market/multicarrier-parcel-management-solutions).
@@ -389,7 +392,7 @@ A few of the vendors smart slotting solutions are listed below:
 
 **Stock Allocation**: Also known as Inventory Allocation.
 
-**Stock locating**: It is the process the locating the SKUs that are to be shipped in an order and it is required before a picking task is done. This is a WMS feature (Inventory Management).
+**Stock locating**: It is the process of locating the SKUs that are to be shipped in an order and it is required before a picking task is done. This is a WMS feature (Inventory Management).
 
 **Supply Chain Operations Reference (SCOR)**: It is a standard from the [Association for Supply Chain Management (ASCM)](https://www.ascm.org/). SCOR is a hierarchical process model. SCOR is not a static set of standards. [SCOR DS](https://www.ascm.org/corporate-solutions/standards-tools/scor-ds), our newest iteration, is open-access and [fully digital](https://scor.ascm.org/). It is even more comprehensive than previous versions with the inclusion of sustainability standards and supply-chain orchestration enablers. SCOR DS shifts thinking from a linear supply chain model to a more synchronous network. For more info, refer to [this link](https://www.cio.com/article/222381/what-is-scor-a-model-for-improving-supply-chain-management.html).
 
@@ -478,7 +481,7 @@ For more info, refer to [this link](https://modula.us/blog/warehouse-robotics) w
 - Worker uses a multi-tote picking cart to manage the various items in a particular wave.
 - Worker picks approximately 4 to 12 orders (per wave).
 
-Wave picking is useful for both low-pick and high-pick operations. For low-pick operations, wave picking reduces the number of trips workers take back and forth. For high-pick operations, warehouse managers couple wave picking with zone picking to run the most efficient workflow possible. For more info, refer to [this link](https://www.logiwa.com/blog/warehouse-wave-picking) and [Order Picking Strategies - How-To Guide](https://assets2.brandfolder.io/bf-boulder-prod/rbwsb97hg67rgq46kf4zf8pp/v/1083293909/original/How-to-Guide_US_OrderPickingStrategies.pdf), Kardex-Remstar.
+Wave picking is useful for both low-pick and high-pick operations. For low-pick operations, wave picking reduces the number of trips workers take back and forth. For high-pick operations, warehouse managers couple wave picking with zone picking to run the most efficient workflow possible. For more info, refer to [this link](https://www.logiwa.com/blog/warehouse-wave-picking) and [Order Picking Strategies - How-To Guide, Kardex-Remstar](https://assets2.brandfolder.io/bf-boulder-prod/rbwsb97hg67rgq46kf4zf8pp/v/1083293909/original/How-to-Guide_US_OrderPickingStrategies.pdf).
 
 **Wave Planning/Management**: A process and WMS capability in which groups of orders from the overall order pool are selected for processing (order picking) based on attributes of the orders. For example, pick “waves” might be based on outbound carrier schedules, order priority, store groups in retail or many other variables. In advanced Warehouse Management solutions, wave selection criteria can be pre-configured and automatically released based on a schedule. The WMS should also be able to trigger needed forward pick replenishments for the wave before it is released, and to balance work in creating the wave between different processing areas, such piece and case picking. There should also be flexibility in working across waves as needed, without needing to complete one wave before the next is released. For more info, refer to [this link](https://www.yash.com/blog/sap-ewm-with-wawe-management/).
 
@@ -552,3 +555,7 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 1. [Getting warehouse automation right](https://www.mckinsey.com/capabilities/operations/our-insights/getting-warehouse-automation-right), McKinsey report, Dec 2023
    - A warehouse automation revolution is underway, but too many projects are not delivering the results.
 1. [5 Things to have in your connected warehouse in 2025](https://scg-mmh.s3.amazonaws.com/pdfs/conductix-wp-5_things_to_have_in_your_connected_warehouse_in_2025-102224.pdf), Conductix Wampfler
+1. [How-To Guide: 55 Warehouse Best Practices, Kardex Remstar](https://assets2.brandfolder.io/bf-boulder-prod/cfpxnhrgqbq75cw4bcspr95s/v/49437981/original/How-to%20Guide_55%20Warehouse%20Best%20Practices_EN.pdf)
+1. [Infographic: Automating Intralogistics, Kardex Remstar](https://assets2.brandfolder.io/bf-boulder-prod/krn334h5nf4tpmmk7gspx7bt/v/1034539537/original/Infographic_EN_Automating_Intralogistics.jpg)
+1. [Mastering Warehouse Order Picking: Top Methods and Performance Enhancements for 2024](TODO) - need to register in supplychain247 web site.
+1. [Automation: Kroger changes the distribution game, 4th July, 2011](https://www.supplychain247.com/article/automation_kroger_changes_the_game)
