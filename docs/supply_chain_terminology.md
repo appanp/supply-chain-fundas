@@ -225,7 +225,7 @@ As with vehicle license plates, a lot of different information can be associated
 1. Order pickup
 1. Crossdock/line haul planning
 1. Order delivery
-1. Billing and invoicing. For more info, refer to [this link](https://learn.transportation.trimble.com/wp-content/uploads/tte/ebcbe19c93c746dd320c/olhlp/d2bd984013d3/docs/Current/index.html).
+1. Billing and invoicing. For more info, refer to [this link](https://learn.transportation.trimble.com/wp-content/uploads/tte/ebcbe19c93c746dd320c/olhlp/d2bd984013d3/docs/Current/index.html) and [How AI and Predictive Analytics Are Revolutionizing LTL Logistics and Transportation](https://www.supplychain247.com/article/how-ai-and-predictive-analytics-are-revolutionizing-ltl-logistics-and-transportation/smc3).
 
 <a name="anc-m">
 
@@ -276,7 +276,7 @@ A few vendors who have MCPM software are listed below:
 
 **Order Picking**: The act of picking the products required for a fulfillment order in the required quantity. There are different ways in which picking can be done such as [zone picking](#zone-picking), etc. and are explained [here](https://6river.com/types-of-warehouse-order-picking-systems/). For more info, refer to [this link](https://www.sciencedirect.com/science/article/pii/S0360835221004150) which introduces 11-types of order picking. This is a warehouse operation.
 
-**Order Selector**: An order selector works in a warehouse or stockroom to select, store, pack, and monitor the inventory of products and fill customer orders correctly. Also known as a picker or warehouse selector, an order selector ensures items are properly packaged for shipping and will arrive safely at their destination. For more info, refer to [this link](https://www.betterteam.com/order-selector-job-description) and [this sample job description](./order-selector_job-descr_sample.md). Difference between an order selector and a picker. Generally, an order selector uses a forklift to pull pallets of unboxed goods from the warehouse shelves and deliver them to the loading area or designated shipping area. A picker, on the other hand, is responsible for picking individual boxes or items off the shelves in the warehouse and placing them into the designated boxes or trays for shipping.
+**Order Selector**: An order selector works in a warehouse or stockroom to select, store, pack, and monitor the inventory of products and fill customer orders correctly. Also known as a picker or warehouse selector, an order selector ensures items are properly packaged for shipping and will arrive safely at their destination. For more info, refer to [this link](https://www.betterteam.com/order-selector-job-description), [this quora question](https://www.quora.com/In-warehouses-is-there-a-difference-between-an-order-selector-and-a-picker-I-know-picking-packing-etc-Just-not-sure-of-this-term) and [this sample job description](./order-selector_job-descr_sample.md). Difference between an order selector and a picker. Generally, an order selector uses a forklift to pull pallets of unboxed goods from the warehouse shelves and deliver them to the loading area or designated shipping area. A picker, on the other hand, is responsible for picking individual boxes or items off the shelves in the warehouse and placing them into the designated boxes or trays for shipping.
 
 <a name="anc-p">
 
@@ -291,6 +291,8 @@ A few vendors who have MCPM software are listed below:
 **Pallet Positions**: A calculation that determines the space needed for the number of pallets for inventory storage or transportation based on a standard pallet size. Pallet dimensions vary around the globe but are typically constant in regional markets. The term is frequently used to quote storage and transportation rates. Pallent position refers to a single slot in a warehouse rack that can fit one 48” by 40” pallet. One warehouse rack usually has multiple pallet positions, with the precise number of positions ranging from 2 to 10. For more info, refer to [this link](https://www.shipbob.com/blog/warehouse-rack/).
 
 **Pallet Rack**: A single- or multiple-level structure for storage used to support high stacking of palletized loads. For more info, refer to [this link](https://www.cargoz.com/glossary/pallet-rack-1434).
+
+**Pallet Scanning**: For more info, refer to [this link](https://vision.vimaan.ai/pallet-scanning-automation-guide-wbs).
 
 **Pallet Ticket**: A label to track pallet-sized quantities of end-items produced that identifies the specific sublot with specifications determined by periodic sampling and analysis during production. For more info, refer to [this link](https://www.cargoz.com/glossary/pallet-ticket-1436).
 
@@ -336,6 +338,7 @@ A few vendors who have MCPM software are listed below:
 For best practices in the receiving process, watch [this video (7 mins)](https://www.youtube.com/watch?v=37aSzbWBuxk). Vendors who have automated the receiving process are listed below:
 
 - [Vimaan Automates the Warehouse Inbound/Receiving Process](https://vimaan.ai/warehouse-receiving/)
+- [The receiving revolution: the start of something big](https://www.newcastlesys.com/hubfs/docs/MK_RECEIVING-REVOLUTION_WP_0522.pdf)
 
 **Replenishment**: Replenishment is a process where stocks stored at non-pickface locations(also referred to as reserved locations or bulk locations) are sent to the pickface locations within the warehouse. A pickface(also referred to as a Forward Location) is a location set up for loose picking. This is a WMS feature. For more info, refer to [this link](https://www.autostoresystem.com/insights/warehouse-inventory-replenishment-and-why-its-mandatory).
 
@@ -563,3 +566,4 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 1. [Infographic: Automating Intralogistics, Kardex Remstar](https://assets2.brandfolder.io/bf-boulder-prod/krn334h5nf4tpmmk7gspx7bt/v/1034539537/original/Infographic_EN_Automating_Intralogistics.jpg)
 1. [Mastering Warehouse Order Picking: Top Methods and Performance Enhancements for 2024](TODO) - need to register in supplychain247 web site.
 1. [Automation: Kroger changes the distribution game, 4th July, 2011](https://www.supplychain247.com/article/automation_kroger_changes_the_game)
+1. [Order Picking Best Practices](https://www.newcastlesys.com/blog/order-picking-best-practices), Newcastle Systems, July 2023.
