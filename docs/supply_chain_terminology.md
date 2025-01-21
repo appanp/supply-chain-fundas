@@ -570,3 +570,5 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 1. [Mastering Warehouse Order Picking: Top Methods and Performance Enhancements for 2024](TODO) - need to register in supplychain247 web site.
 1. [Automation: Kroger changes the distribution game, 4th July, 2011](https://www.supplychain247.com/article/automation_kroger_changes_the_game)
 1. [Order Picking Best Practices](https://www.newcastlesys.com/blog/order-picking-best-practices), Newcastle Systems, July 2023.
+1. [Infographic: Implement WMS in 28 days, tecsys](https://infohub.tecsys.com/hubfs/Infographics/Implement-a-WMS-in-28-Days.pdf)
+1. [Gartner: Humanoid Robots Have Potential to Fully Automate Warehouse Processes, Q&A with Dwight Klappich](https://www.gartner.com/en/newsroom/press-releases/2024-04-02-humanoid-robots-have-potential-to-fully-automate-warehouse-processes)
