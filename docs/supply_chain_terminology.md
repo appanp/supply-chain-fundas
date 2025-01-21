@@ -21,6 +21,7 @@ footer-right: "\\theauthor"
   - [Cargo transportation terminology](https://www.vinculum.ru/en/informatsiya/glossarium), 300+ terms from Vinculum
   - [IWLA Glossary and Terminology](http://31y.93c.myftpupload.com/wp-content/uploads/2020/09/IWLA-Glossary-and-Terminology.pdf), Dec 2018.
   - [Glossary of ASRS related terms](https://us.blog.kardex-remstar.com/automated-storage-and-retrieval-systems-asrs#glossary_of_asrs_related_terms), Kardex.
+  - [Glossary for Product COmpanies](https://www.propelsoftware.com/glossary), Propel Software
   - Since the ASCM dictionary include the whole of supply chain, it is not considered - some definitions are copied from that reference.
 - [x] Add alphabetical index into the terms since the list is getting longer ...
 
@@ -316,6 +317,8 @@ A few vendors who have MCPM software are listed below:
 **Picking and Pass**: A process in which forward piece-picking locations are grouped into zones, and operators in each zone pick items into a carton or tote in their zones, and then “pass” the carton or tote to a picker in the next zone, often assisted by a roller conveyor. This is a WMS operation. For more info, refer to [this link](https://us.blog.kardex-remstar.com/warehouse-order-picking-strategies).
 
 **Piece Picking**: This is also called Split-case Picking. Piece picking is an order picking process in which the individual items of an order are picked and then placed in a container or carton before shipping them to the customers. This is in contrast to case picking wherein the full case of one specific SKU of a specific number of items are picked, especially for bulk orders. Order picking is a labor-intensive process that comprises as much as 55% of a warehouse or distribution center’s total operating expenses. So, choosing the right picking method is crucial. Generally, piece picking operations are carried out in warehouses where large quantities of goods are stored before their export or sale. For more info, refer to [this link](https://6river.com/what-is-piece-picking/).
+
+**Point-of-Use**: Point-of-use systems offer a revolutionary alternative to traditional supply chain management. These systems are designed to streamline the flow of supplies, ensuring that the correct items are available precisely when and where they are needed. By moving inventory management to the point of care, hospitals can reduce waste, improve patient outcomes, and enhance operational efficiency. For more info, refer to [this link](https://blog.bluebin.com/the-power-of-point-of-use-systems-in-hospital-supply-chain-management).
 
 **Put-away**: Put-away is a process that involves receiving inventory in a warehouse or distribution center, organizing it, and then storing it in its designated location. The goal is to ensure that the right items are stored in the optimal storage location and that they are easily accessible when needed. Put-away is a key component of an effective warehouse inventory management system and it can have a major impact on how quickly goods are located and retrieved. For more info, refer to [this link](https://www.cadretech.com/blog/warehouse-putaway-process).
 
