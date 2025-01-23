@@ -176,6 +176,13 @@ For differences between Warehouse and FC, refer to [this link](https://www.shipb
 
 <a name="anc-i">
 
+**Implementation Process**: Refers to the stages followed in the implementation of WMS and this can be either a migration from any WMS vendor or a totally new implementation. Gartner proposes 4 phases/stages to any WMS implementation. Hopstack recommends a eight step process. For more info, refer to [this link](https://www.hopstack.io/blog/8-steps-cloud-wms-implementation). The *4 phases* recommended by Gartner are:
+
+* Planning/Preparation: [How to Successfully Implement WMS — Part 1: Preparation](https://www.gartner.com/en/documents/5380963), May 2024.
+* Design Phase: [How to Successfully Implement WMS — Part 2: Design](https://www.gartner.com/en/documents/5429163), May 2024.
+* Execution Phase: [How to Successfully Implement WMS — Part 3: Execution](https://www.gartner.com/en/documents/5429263), May 2024.
+* Evolution Phase: [How to Successfully Implement WMS — Part 4: Evolution](https://www.gartner.com/doc/reprints?id=1-2HQ3JUR3&ct=240531&st=sb)
+
 **Inspection for Quality Control**: The practice of inspecting goods upon receipt for any delivery discrepancies such as damage, incorrect quantity compared with purchase order or delivery paperwork, and incomplete or incorrect paperwork. This is a WMS feature. Since the inspection can be done manual or automated using machine vision or both, this task has to be scheduled by the labour management module in WMS. For more info, refer to [this link](https://www.extensiv.com/blog/what-is-warehouse-quality-control-how-to-implement-it).
 
 **Inventory Accuracy**: It is a metric that measures the difference between your records of warehouse stock and your real-life inventory. Inventory accuracy is critical for preventing stockouts, shortages, shrinkage, controlling inventory quality, and maintaining a positive customer experience. For more info, refer to [this link](https://claruswms.co.uk/inventory-accuracy-importance).
@@ -571,4 +578,9 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 1. [Automation: Kroger changes the distribution game, 4th July, 2011](https://www.supplychain247.com/article/automation_kroger_changes_the_game)
 1. [Order Picking Best Practices](https://www.newcastlesys.com/blog/order-picking-best-practices), Newcastle Systems, July 2023.
 1. [Infographic: Implement WMS in 28 days, tecsys](https://infohub.tecsys.com/hubfs/Infographics/Implement-a-WMS-in-28-Days.pdf)
+   - [How to Implement an E-commerce Warehouse Management System in 28 Days](https://www.tecsys.com/blog/2022/05/how-to-implement-an-e-commerce-warehouse-management-system-in-28-days), Blog post
+1. [How to ensure a successful WMS implementation](https://www.cin7.com/blog/wms-implementation/), CIN7, 11 Jun 2024.
+1. [10 Best Practices for Implementing WMS Technologies in Retail](https://fulfillmentiq.com/best-practices-warehouse-management-system-implementation), FulfillmentIQ, July 2023.
 1. [Gartner: Humanoid Robots Have Potential to Fully Automate Warehouse Processes, Q&A with Dwight Klappich](https://www.gartner.com/en/newsroom/press-releases/2024-04-02-humanoid-robots-have-potential-to-fully-automate-warehouse-processes)
+1. [Unlocking Efficiency: The Ultimate WMS Implementation Guide](https://cdn.prod.website-files.com/61408d1fb0d58669de167b5d/658156d912ef3814032732e4__WMS%20Implementation%20Checklist%20Design%20final.pdf), Hopstack
+1. [WMS Technology Value Matrix](https://tecsys.com/hubfs/nucleus-report/2024/nucleus-research-WMS-technology-value-matrix.pdf), Nucleus Research.
