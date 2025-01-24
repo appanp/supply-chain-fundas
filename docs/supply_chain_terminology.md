@@ -300,7 +300,7 @@ A few vendors who have MCPM software are listed below:
 
 **Pallet Rack**: A single- or multiple-level structure for storage used to support high stacking of palletized loads. For more info, refer to [this link](https://www.cargoz.com/glossary/pallet-rack-1434).
 
-**Pallet Scanning**: For more info, refer to [this link](https://vision.vimaan.ai/pallet-scanning-automation-guide-wbs).
+**Pallet Scanning**: As warehouse operations scale, the complexities surrounding pallet tracking and management increase significantly. Whether it’s verifying product SKUs, ensuring shipment accuracy, or optimizing warehouse space, pallet scanning plays a pivotal role in maintaining order and reducing costly errors. For more info, refer to [this link](https://vision.vimaan.ai/pallet-scanning-automation-guide-wbs).
 
 **Pallet Ticket**: A label to track pallet-sized quantities of end-items produced that identifies the specific sublot with specifications determined by periodic sampling and analysis during production. For more info, refer to [this link](https://www.cargoz.com/glossary/pallet-ticket-1436).
 
@@ -352,7 +352,7 @@ For best practices in the receiving process, watch [this video (7 mins)](https:/
 - [Vimaan Automates the Warehouse Inbound/Receiving Process](https://vimaan.ai/warehouse-receiving/)
 - [The receiving revolution: the start of something big](https://www.newcastlesys.com/hubfs/docs/MK_RECEIVING-REVOLUTION_WP_0522.pdf)
 
-**Replenishment**: Replenishment is a process where stocks stored at non-pickface locations(also referred to as reserved locations or bulk locations) are sent to the pickface locations within the warehouse. A pickface(also referred to as a Forward Location) is a location set up for loose picking. This is a WMS feature. For more info, refer to [this link](https://www.autostoresystem.com/insights/warehouse-inventory-replenishment-and-why-its-mandatory).
+**Replenishment**: Replenishment is a process where stocks stored at non-pickface locations(also referred to as reserved locations or bulk locations) are sent to the pickface locations within the warehouse. A pickface (also referred to as a Forward Location) is a location set up for loose picking. This is a WMS feature. For more info, refer to [this link](https://www.autostoresystem.com/insights/warehouse-inventory-replenishment-and-why-its-mandatory).
 
 **Return Management**: Returns management is the systematic approach for dealing with customer returns. It ensures efficiency, customer satisfaction, and cost-effectiveness. Returns Management focuses on the efficient handling and processing of customer returns. It is essential for merchants as it directly impacts customer experience, operations efficiency, and business profitability. Managing a return across the full life cycle includes RMA authorization and validation. The final return resolution can be a refund, exchange, store credit, or even a warranty return. Efficient returns management is crucial for maintaining positive customer relationships and loyalty. By providing a seamless and hassle-free returns process, merchants can enhance customer satisfaction and trust. This is a warehouse operation. For more info, refer to [this link](https://www.returnlogic.com/returns-management-software/)
 
@@ -420,6 +420,8 @@ A few of the vendors smart slotting solutions are listed below:
 **Task Allocation**: It is the function of allocating or assigning tasks to operators and other automation equipments in the warehouse. For more info, refer to [this link](https://ieeexplore.ieee.org/document/9841337).
 
 **Task Interleaving**: Task interleaving consists of combining two or more tasks on a single run through the warehouse. Task interleaving makes it possible, for instance, for pickers to retrieve the SKUs they need to put together an order and to then take advantage of the trip back to replenish a product. This strategy includes all types of logistics activity, from order picking to inventory and goods replenishment operations. The main aims of task interleaving are to increase warehouse productivity and reduce deadheading (unproductive travel). By combining two or more tasks, operators make the most of their trips, cutting down on unnecessary movements. For more info, refer to [this link](https://www.mecalux.com/blog/task-interleaving-warehouse).
+
+**Ti-Hi Pallet Counting**: Ti-Hi counting, also known as Tie-High, is a critical metric in warehousing and logistics. It refers to the number of cases per layer (Ti or Tie) and the number of layers per pallet (Hi or High). This method is essential for efficient palletization, maximizing storage space, and ensuring safe transportation of goods. For more info, refer to [this link](https://vimaan.ai/ti-hi-pallet-counting/).
 
 **Tote or Bin**: Totes or bins are smaller, stackable containers used for storing and transporting small parts or components. They are commonly used in order picking and assembly processes. For more info, refer to [this link](https://shiphero.com/blog/pick-methods-and-totes/).
 
@@ -549,6 +551,8 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 1. Gartner Magic Quadrant for Real-Time Transportation Visibility
    Platforms, Mar 2024 - [Download link](https://www.gartner.com/doc/reprints?id=1-2H5E4M0F&ct=240401&st=sb)
 1. [Warehouse of the Future, MIT Report](https://ctl.mit.edu/sites/ctl.mit.edu/files/2024-03/The%20Warehouse%20of%20the%20Future.pdf), Mar 2024
+1. [Powering the Future of Supply Chain](https://emt.gartnerweb.com/ngw/globalassets/en/supply-chain/documents/trends/future-of-sc-ebook.pdf)
+    * Explore 3 drivers that will redefine value & increase productivity in 2024 and beyond.
 1. [Critical Capabilities for Transportation Management Systems](https://www.gartner.com/doc/reprints?id=1-2H605JL2&ct=240402&st=sb), Gartner, Mar 2024
 1. [Critical Capabilities for Warehouse Management Systems](https://www.gartner.com/doc/reprints?id=1-2I2QN8RE&ct=240712&st=sb), Gartner, Aug 2024
 1. [Gartner Magic Quadrant for Transportation Management Systems](https://www.gartner.com/doc/reprints?id=1-2H3GE7Y1&ct=240327&st=sb), Jun 2024
@@ -583,7 +587,22 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
    - [How to Implement an E-commerce Warehouse Management System in 28 Days](https://www.tecsys.com/blog/2022/05/how-to-implement-an-e-commerce-warehouse-management-system-in-28-days), Blog post
 1. [How to ensure a successful WMS implementation](https://www.cin7.com/blog/wms-implementation/), CIN7, 11 Jun 2024.
 1. [10 Best Practices for Implementing WMS Technologies in Retail](https://fulfillmentiq.com/best-practices-warehouse-management-system-implementation), FulfillmentIQ, July 2023.
+1. [WMS implementation guide including checklist & project plan](https://www.explorewms.com/wms-implementation-checklist.html), ExploreWMS
 1. [Gartner: Humanoid Robots Have Potential to Fully Automate Warehouse Processes, Q&A with Dwight Klappich](https://www.gartner.com/en/newsroom/press-releases/2024-04-02-humanoid-robots-have-potential-to-fully-automate-warehouse-processes)
 1. [Unlocking Efficiency: The Ultimate WMS Implementation Guide](https://cdn.prod.website-files.com/61408d1fb0d58669de167b5d/658156d912ef3814032732e4__WMS%20Implementation%20Checklist%20Design%20final.pdf), Hopstack
 1. [WMS Technology Value Matrix](https://tecsys.com/hubfs/nucleus-report/2024/nucleus-research-WMS-technology-value-matrix.pdf), Nucleus Research.
 1. [How Anheuser-Busch Doubled Its Productivity Through Supply Chain Innovation](https://www.gartner.com/en/experts/eureka-series/anheuser-busch-doubled-productivity-supply-chain-innovation), Gartner Eureka! series.
+1. [iRoyal4 System recognised in 2023 Gartner MQ for WMS mid-market report](https://www.royal4.com/wp-content/uploads/2023/12/GartnerMidMarket-2023.pdf)
+1. [EVS named a Notable Vendor in the 2024 Gartner® ‘Midmarket Context: Magic Quadrant™ for Warehouse Management Systems’ for sixth consecutive year](https://www.evssw.com/newsroom/gartner-magic-quadrant-for-wms)
+    * mobe3 is the first WMS with embedded real-time location (RTLS) technology which is built iOS-native.
+1. [Da Vinci Named as Notable Vendor in the 2023 Gartner® Midmarket Context: ‘Magic Quadrant™ for Warehouse Management Systems’](https://dvunified.com/press-releases/da-vinci-named-as-notable-vendor-in-the-2023-gartner-midmarket-context-magic-quadrant-for-warehouse-management-systems/), Nov 2023.
+1. [OnPalms WMS from Technoforte Software](https://www.onpalms.com/), Bangalore Company in existence since 2001.
+    * [Gartner Reviews link](https://www.gartner.com/reviews/market/warehouse-management-systems/vendor/technoforte/product/palms-smart-wms)
+1. [Datex has been mentioned as a Notable Vendor in the 2024 Gartner® report titled, Midmarket Context: Magic Quadrant for WMS](https://mys-showfiles.s3.amazonaws.com/production/pm2025/press/43928/2B920C1E-A0AF-36A5-FD0F9F88F37C0134.pdf)
+1. [Gartner MQ for WMS, Jun 2022](https://itlligenze.com/wp-content/uploads/2022/12/Magic-Quadrant-for-Warehouse-Management-systems.pdf)
+1. [Gartner MQ for WMS, May 2019](https://b2bsalescafe.wordpress.com/wp-content/uploads/2019/09/gartner-magic-quadrant-for-warehouse-management-systems-may-2019-1.pdf)
+1. [Gartner MQ for WMS, 2016](https://www.oracle.com/us/corporate/analystreports/gartner-magic-quadrant-wms-2884695.pdf), 2016
+1. [Hype Cycle for Supply Chain Execution Technologies, 2023](https://go.greyorange.com/hubfs/2024/Gartner%20SC%20Hype%20Cycle%200923/Hype_Cycle_Gartner_from%20GreyOrange.pdf), Gartner.
+1. [The Gartner Supply Chain Top 25 for 2024](https://www.gartner.com/en/supply-chain/research/supply-chain-top-25), [pdf link](https://emt.gartnerweb.com/ngw/globalassets/en/supply-chain/documents/trends-top-25/gartner-global-supply-chain-top-25-for-2024.pdf)
+    * Gartner’s Supply Chain Top 25 identifies, celebrates and profiles global supply chain excellence. 
+1. [Vimaan Named in the Gartner® Hype Cycle™ Reports, 2024 for Autonomous Data Collection and Inspection](https://s24.q4cdn.com/538403808/files/doc_news/Vimaan-Named-in-the-Gartner-Hype-Cycle-Reports-2024-for-Autonomous-Data-Collection-and-Inspection-2024.pdf)

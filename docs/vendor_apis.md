@@ -11,4 +11,5 @@
 1. MercuryGate TMS API - [Swagger doc link](https://qa-api-docs.mercurygate.net/documentation/webjars/swagger-ui/index.html), [Swagger Spec](https://qa-api-docs.mercurygate.net/documentation/api-docs)
 1. [3PL Central REST APIs](https://developer.3plcentral.com/#intro)
 1. [Shipbob's Developer API](https://developer.shipbob.com/)
-1. [Oracle Cloud WMS REST API Guide, Release 24B](https://docs.oracle.com/en/cloud/saas/warehouse-management/24b/owmre/change-history.html#u30239948
+1. [Oracle Cloud WMS REST API Guide, Release 24B](https://docs.oracle.com/en/cloud/saas/warehouse-management/24b/owmre/change-history.html#u30239948)
+1. [Deposco API Reference](https://developer.deposco.com/docs/reference)

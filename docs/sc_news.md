@@ -1,0 +1,3 @@
+1. [Made4net and Gather AI Partner to Enhance Supply Chain Accuracy and Efficiency](https://www.prnewswire.com/news-releases/made4net-and-gather-ai-partner-to-enhance-supply-chain-accuracy-and-efficiency-302352278.html), 15 Jan 2025.
+1. [2024 New Product Innovator in the Global WMS Industry, Deposco](https://www.frost.com/wp-content/uploads/2024/06/Deposco-Final-Award-Write-up.pdf), Jun 2024
+1. [WiseTech Global acquires warehouse management solutions provider, Microlistics](https://www.wisetechglobal.com/news/wisetech-global-acquires-warehouse-management-solutions-provider-microlistics/), 13 Dec 2017.
