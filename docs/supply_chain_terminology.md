@@ -604,6 +604,8 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 1. [OnPalms WMS from Technoforte Software](https://www.onpalms.com/), Bangalore Company in existence since 2001.
     * [Gartner Reviews link](https://www.gartner.com/reviews/market/warehouse-management-systems/vendor/technoforte/product/palms-smart-wms)
 1. [Datex has been mentioned as a Notable Vendor in the 2024 Gartner® report titled, Midmarket Context: Magic Quadrant for WMS](https://mys-showfiles.s3.amazonaws.com/production/pm2025/press/43928/2B920C1E-A0AF-36A5-FD0F9F88F37C0134.pdf)
+1. Gartner MQ for WMS, 2024 - locally stored
+    * [Key takeaways of the Magic Quadrant from Made4Net](https://alpinesupplychain.com/2024-gartner-magic-quadrant-for-warehouse-management-systems/),
 1. Gartner MQ for WMS, Feb 2023, locally stored.
 1. [Gartner MQ for WMS, Jun 2022](https://itlligenze.com/wp-content/uploads/2022/12/Magic-Quadrant-for-Warehouse-Management-systems.pdf)
 1. [Gartner MQ for WMS, Jun 2021](https://www.pyrabyte.com/wp-content/uploads/2021/08/WMS.pdf), [Gartner link](https://www.gartner.com/doc/reprints?id=1-26Q6LWOF&ct=210706&st=sb) - could have expired.
@@ -616,3 +618,4 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 1. [Vimaan Named in the Gartner® Hype Cycle™ Reports, 2024 for Autonomous Data Collection and Inspection](https://s24.q4cdn.com/538403808/files/doc_news/Vimaan-Named-in-the-Gartner-Hype-Cycle-Reports-2024-for-Autonomous-Data-Collection-and-Inspection-2024.pdf)
 1. [RoboForce announces $10M early-stage funding for AI-enabled MMRs](https://www.robotics247.com/article/roboforce_announces_10m_early_stage_funding_for_ai_enabled_mmrs), 12 Jan 2025
     * MMRs designed to reduce labor shortages in solar renewable energy construction
+1. [A decade after acquiring Kiva, Amazon unveils its first AMR](https://www.therobotreport.com/a-decade-after-acquiring-kiva-amazon-unveils-its-first-amr/), 22 Jun 2022
