@@ -254,6 +254,8 @@ As with vehicle license plates, a lot of different information can be associated
 
 **Mini-Load AS/RS**: It is a technology which is a storage retrieval machine (SRM) or crane designed for smaller (or mini) load handling (i.e. cases, totes, tray, etc.) that typically weigh less than 350 lbs. The Mini-Load AS/RS crane will automatically store and retrieve product from an engineered rack system that can range in height up to approximately 75 feet. For more info, refer to [this link](https://www.conveyco.com/technology/asrs/mini-load/), [How does the Miniload System work?](https://www.ar-racking.com/en/blog/what-is-a-miniload-system-automated-warehouse-for-light-loads/) and [Automated miniload warehouse: swift pickings at Continental](https://www.mecalux.com/case-studies/continental-mexico#corporate--case--gallery).
 
+**Mobile Manipulation Robots (MMR)**: It is a robot that can move around and manipulate objects. MMRs can be used to automate tasks in many industries, including logistics, manufacturing, and warehousing. For more info, refer to [this link](https://robotnik.eu/products/mobile-manipulators/) with applications in [mixed case palletizing](https://www.xyzrobotics.com/solutions/mixed-case-palletizing), [Unit sorters & G2P systems](https://agilityrobotics.com/solutions/unit-sorters-g2p) and [detachable MMR](https://www.aerospacemanufacturinganddesign.com/product/rethink-robotics-detachable-mobile-manipulator-robot).
+
 **Multi-Agent Orchestration (MAO)**: Orchestration of multiple robots in the Warehouse.For more info, refer to [this link](https://www.greyorange.com/resource/multiagent-orchestration-explained/).
 
 **Multicarrier Parcel Management (MCPM)**: Multicarrier parcel management solutions help companies select the most appropriate parcel carrier from among all contracted carriers. This selection is based on order characteristics (such as weight and dimensional properties), delivery rules (such as delivery time and delivery zone) and carrier performance, while considering the cost differentials of various carrier offerings. These tools also enable shippers and 3PLs to manage the creation of labels, create shipper manifests, provide status messages to customers or customer service representatives, and manage carrier rates. For more info, refer to [this link](https://www.gartner.com/reviews/market/multicarrier-parcel-management-solutions).
@@ -602,12 +604,15 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 1. [OnPalms WMS from Technoforte Software](https://www.onpalms.com/), Bangalore Company in existence since 2001.
     * [Gartner Reviews link](https://www.gartner.com/reviews/market/warehouse-management-systems/vendor/technoforte/product/palms-smart-wms)
 1. [Datex has been mentioned as a Notable Vendor in the 2024 Gartner® report titled, Midmarket Context: Magic Quadrant for WMS](https://mys-showfiles.s3.amazonaws.com/production/pm2025/press/43928/2B920C1E-A0AF-36A5-FD0F9F88F37C0134.pdf)
-1. Gartner MQ for WMS, Feb 2017, locally stored.
+1. Gartner MQ for WMS, Feb 2023, locally stored.
 1. [Gartner MQ for WMS, Jun 2022](https://itlligenze.com/wp-content/uploads/2022/12/Magic-Quadrant-for-Warehouse-Management-systems.pdf)
-1. [Gartner MQ for WMS, May 2021](https://www.pyrabyte.com/wp-content/uploads/2021/08/WMS.pdf)
+1. [Gartner MQ for WMS, Jun 2021](https://www.pyrabyte.com/wp-content/uploads/2021/08/WMS.pdf), [Gartner link](https://www.gartner.com/doc/reprints?id=1-26Q6LWOF&ct=210706&st=sb) - could have expired.
 1. [Gartner MQ for WMS, May 2019](https://b2bsalescafe.wordpress.com/wp-content/uploads/2019/09/gartner-magic-quadrant-for-warehouse-management-systems-may-2019-1.pdf)
+1. Gartner MQ for WMS, Feb 2017, locally stored.
 1. [Gartner MQ for WMS, 2016](https://www.oracle.com/us/corporate/analystreports/gartner-magic-quadrant-wms-2884695.pdf), 2016
 1. [Hype Cycle for Supply Chain Execution Technologies, 2023](https://go.greyorange.com/hubfs/2024/Gartner%20SC%20Hype%20Cycle%200923/Hype_Cycle_Gartner_from%20GreyOrange.pdf), Gartner.
 1. [The Gartner Supply Chain Top 25 for 2024](https://www.gartner.com/en/supply-chain/research/supply-chain-top-25), [pdf link](https://emt.gartnerweb.com/ngw/globalassets/en/supply-chain/documents/trends-top-25/gartner-global-supply-chain-top-25-for-2024.pdf)
     * Gartner’s Supply Chain Top 25 identifies, celebrates and profiles global supply chain excellence. 
 1. [Vimaan Named in the Gartner® Hype Cycle™ Reports, 2024 for Autonomous Data Collection and Inspection](https://s24.q4cdn.com/538403808/files/doc_news/Vimaan-Named-in-the-Gartner-Hype-Cycle-Reports-2024-for-Autonomous-Data-Collection-and-Inspection-2024.pdf)
+1. [RoboForce announces $10M early-stage funding for AI-enabled MMRs](https://www.robotics247.com/article/roboforce_announces_10m_early_stage_funding_for_ai_enabled_mmrs), 12 Jan 2025
+    * MMRs designed to reduce labor shortages in solar renewable energy construction
