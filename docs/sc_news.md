@@ -1,3 +1,15 @@
 1. [Made4net and Gather AI Partner to Enhance Supply Chain Accuracy and Efficiency](https://www.prnewswire.com/news-releases/made4net-and-gather-ai-partner-to-enhance-supply-chain-accuracy-and-efficiency-302352278.html), 15 Jan 2025.
 1. [2024 New Product Innovator in the Global WMS Industry, Deposco](https://www.frost.com/wp-content/uploads/2024/06/Deposco-Final-Award-Write-up.pdf), Jun 2024
 1. [WiseTech Global acquires warehouse management solutions provider, Microlistics](https://www.wisetechglobal.com/news/wisetech-global-acquires-warehouse-management-solutions-provider-microlistics/), 13 Dec 2017.
+1. [SCApath and Spinnaker Combine to Provide End-to-End Supply Chain Strategy, Planning, and Execution Consulting Services](https://www.prnewswire.com/news-releases/scapath-and-spinnaker-combine-to-provide-end-to-end-supply-chain-strategy-planning-and-execution-consulting-services-301258932.html), 30 Mar 2021
+1. [Candock Embarks on Digital Commerce Growth with Tecsys' Cloud WMS Platform](https://www.prnewswire.com/news-releases/candock-embarks-on-digital-commerce-growth-with-tecsys-cloud-wms-platform-301892383.html), 03 Aug 2023
+1. [Firmament-Backed Scanco Acquires WithoutWire to Expand Offering for Warehouse Management and Automation](https://www.prnewswire.com/news-releases/firmament-backed-scanco-acquires-withoutwire-to-expand-offering-for-warehouse-management-and-automation-302153327.html), 23 May 2024
+1. [Sheer Logistics Wins 2023 Top Software & Tech Award](https://www.prnewswire.com/news-releases/sheer-logistics-wins-2023-top-software--tech-award-302006662.html), 06 Dec 2023
+1. [Infor Acquires Acumen and Albanero](https://www.prnewswire.com/news-releases/infor-acquires-acumen-and-albanero-302194742.html), 11 Jul 2024
+1. [Sheer Logistics Wins SupplyTech Breakthrough "Innovation of the Year" Award for SheerExchange Integration Platform](https://www.prnewswire.com/news-releases/sheer-logistics-wins-supplytech-breakthrough-innovation-of-the-year-award-for-sheerexchange-integration-platform-302173407.html), 17 Jun 2024
+1. [Conga Positioned as a 2020 SPARK Matrix Leader for Customer Communication Management by Quadrant Knowledge Solutions](https://www.prnewswire.com/news-releases/conga-positioned-as-a-2020-spark-matrix-leader-for-customer-communication-management-by-quadrant-knowledge-solutions-301219915.html), 02 Feb 2021
+1. [ShipBob Unveils Its Third Annual State of Ecommerce Fulfillment Report](https://www.prnewswire.com/news-releases/shipbob-unveils-its-third-annual-state-of-ecommerce-fulfillment-report-302036735.html), 17 Jan 2024
+1. [Acumatica 2019 R1 Launched After Acclaim for Beta Version](https://www.prnewswire.com/news-releases/acumatica-2019-r1-launched-after-acclaim-for-beta-version-300814463.html), 19 Mar 2019
+1. [Deposco Applauded by Frost & Sullivan for Addressing Specific Customer Pain Points in the Warehouse Management System Market with Its Solutions](https://www.prnewswire.com/in/news-releases/deposco-applauded-by-frost--sullivan-for-addressing-specific-customer-pain-points-in-the-warehouse-management-system-market-with-its-solutions-302197535.html), 16 Jul 2024
+
+

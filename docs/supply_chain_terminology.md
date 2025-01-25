@@ -592,14 +592,19 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 1. [Unlocking Efficiency: The Ultimate WMS Implementation Guide](https://cdn.prod.website-files.com/61408d1fb0d58669de167b5d/658156d912ef3814032732e4__WMS%20Implementation%20Checklist%20Design%20final.pdf), Hopstack
 1. [WMS Technology Value Matrix](https://tecsys.com/hubfs/nucleus-report/2024/nucleus-research-WMS-technology-value-matrix.pdf), Nucleus Research.
 1. [How Anheuser-Busch Doubled Its Productivity Through Supply Chain Innovation](https://www.gartner.com/en/experts/eureka-series/anheuser-busch-doubled-productivity-supply-chain-innovation), Gartner Eureka! series.
-1. [iRoyal4 System recognised in 2023 Gartner MQ for WMS mid-market report](https://www.royal4.com/wp-content/uploads/2023/12/GartnerMidMarket-2023.pdf)
+1. [Royal4 System recognised in 2023 Gartner MQ for WMS mid-market report](https://www.royal4.com/wp-content/uploads/2023/12/GartnerMidMarket-2023.pdf)
+    * [Royal 4 Systems named by Gartner as one of the 12 Notable Vendors in its annual Mid Market Report for WMS](https://www.businessheraldonline.com/article/591328427-royal-4-systems-named-by-gartner-as-one-of-the-12-notable-vendors-in-its-annual-mid-market-report-for-wms), September 19, 2022.
+1. [JDA Named a Leader in Gartner Magic Quadrant for Transportation Management Systems](https://www.businesswire.com/news/home/20170313005626/en/JDA-Named-a-Leader-in-Gartner-Magic-Quadrant-for-Transportation-Management-Systems), 13 Mar 2017.
+    * More than 4,000 global customers run JDA, including 73 of the top 100 retailers, 71 of the top 100 consumer goods companies, and 13 of the top 16 3PLs. With JDA, you can plan to deliver.
 1. [EVS named a Notable Vendor in the 2024 Gartner® ‘Midmarket Context: Magic Quadrant™ for Warehouse Management Systems’ for sixth consecutive year](https://www.evssw.com/newsroom/gartner-magic-quadrant-for-wms)
     * mobe3 is the first WMS with embedded real-time location (RTLS) technology which is built iOS-native.
 1. [Da Vinci Named as Notable Vendor in the 2023 Gartner® Midmarket Context: ‘Magic Quadrant™ for Warehouse Management Systems’](https://dvunified.com/press-releases/da-vinci-named-as-notable-vendor-in-the-2023-gartner-midmarket-context-magic-quadrant-for-warehouse-management-systems/), Nov 2023.
 1. [OnPalms WMS from Technoforte Software](https://www.onpalms.com/), Bangalore Company in existence since 2001.
     * [Gartner Reviews link](https://www.gartner.com/reviews/market/warehouse-management-systems/vendor/technoforte/product/palms-smart-wms)
 1. [Datex has been mentioned as a Notable Vendor in the 2024 Gartner® report titled, Midmarket Context: Magic Quadrant for WMS](https://mys-showfiles.s3.amazonaws.com/production/pm2025/press/43928/2B920C1E-A0AF-36A5-FD0F9F88F37C0134.pdf)
+1. Gartner MQ for WMS, Feb 2017, locally stored.
 1. [Gartner MQ for WMS, Jun 2022](https://itlligenze.com/wp-content/uploads/2022/12/Magic-Quadrant-for-Warehouse-Management-systems.pdf)
+1. [Gartner MQ for WMS, May 2021](https://www.pyrabyte.com/wp-content/uploads/2021/08/WMS.pdf)
 1. [Gartner MQ for WMS, May 2019](https://b2bsalescafe.wordpress.com/wp-content/uploads/2019/09/gartner-magic-quadrant-for-warehouse-management-systems-may-2019-1.pdf)
 1. [Gartner MQ for WMS, 2016](https://www.oracle.com/us/corporate/analystreports/gartner-magic-quadrant-wms-2884695.pdf), 2016
 1. [Hype Cycle for Supply Chain Execution Technologies, 2023](https://go.greyorange.com/hubfs/2024/Gartner%20SC%20Hype%20Cycle%200923/Hype_Cycle_Gartner_from%20GreyOrange.pdf), Gartner.
