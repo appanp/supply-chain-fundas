@@ -403,6 +403,8 @@ A few of the vendors smart slotting solutions are listed below:
 
 **Soft Allocation**: This is one of the ways order is allocated with flexiility in mind. A WMS process in which orders are sent to the WMS from the ERP or other order management system, often days or weeks in advance of when they are needing to ship. Some WMS solutions are able to reserve inventory for those orders at a warehouse level, meaning it can prevent subsequent orders from “grabbing” that reserved inventory. That said, a WMS should have the flexibility in applying soft allocation, such as not reserving inventory shipping more than two weeks out, as that could cause nearer term orders to be short-shipped. For more info, refer to [this link](https://www.truecommerce.com/blog/inventory-allocation-hard-vs-soft/).
 
+**Sortation**: The sorting system is the process in which products are sorted based on their delivery destinations. It is a crucial part of the warehouse, and improper management of this system may disrupt the entire working of the company. In other words, a sorting system is a method in which the products are organized categorically. The products are assigned a proper location where they are stored. A record is also kept that maintains the information of the products stored in the warehouse. For more info, refer to [this link](https://www.armstrongltd.com/sorting-and-picking-systems.php), [Visual Sort Assist (VSA) from Panasonic](https://connect.na.panasonic.com/resource-center/visual-sort-assist-vsa) and [9 Tips To Improve Sortation in Warehouse](https://qodenext.com/blog/sortation-in-warehouse).
+
 **Split-Case Picking**: Also known as Piece Picking.
 
 **Stock-out**: It is the condition of a product going out-of-stock. Imagine this: a customer walks into your store, excited to buy their favorite item. They’ve been looking forward to it all day. But when they get to the shelf, it’s empty. Disappointed, they leave without buying anything else. This is the dreaded stockout scenario—a retailer’s worst nightmare. For more info, refer to [this link](https://www.increff.com/say-goodbye-to-stockouts-heres-how-increff-ensures-inventory-availability/) from Increff.
@@ -449,6 +451,8 @@ For more info, refer to [this link](https://www.maersk.com/logistics-explained/s
 **Unit Load Device (ULD) Containers**: Unit load devices, or ULDs, are essential components of air freight transportation. They assist in transporting different kinds of cargo, which are packaged in various pallet and container types. For more info, refer to [this link](https://www.shiprocket.in/blog/uld-containers/)
 
 **Unit of Measure (UOM)**: Inventory can now be tracked in user defined units of measure belonging to unit of measure classes. Unit of Measure is extremely important in inventory management as it quantifies inventory items in terms terms all parties can understand. If two parties are transacting on an inventory item, UOM defines how much and in what unit the quantity is expected. Also UOMs need to be standardized to make sure that all stakeholders especially across countries. Some countries might use Kilograms or kilometers and other countries might use pounds or miles. For more info, refer to [this link](https://www.ibm.com/docs/en/warehouse-management/9.5.0?topic=tracking-unit-measure).
+
+**Unit Sorter**: The distinction between a unit and a case is important when talking about sortation systems because they generally require different types of equipment. In warehouse management, an inventory unit is the language used to describe the smallest unit of an item. All other inventory measurements can be split into multiple parts, including a case. For example, a case is a box that contains numerous inventory units, and the size of the case can vary based on the unit size and logistics. Likewise, there is a case sorter that is designed to handle cases, and there is a unit sorter designed to manage individual units. The exception to this is when a hybrid model is used that can accommodate both units and cases. For more info, refer to [this link](https://www.elementlogic.net/us/insights/types-of-sortation-systems).
 
 <a name="anc-v">
 
@@ -558,6 +562,7 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 1. [Critical Capabilities for Transportation Management Systems](https://www.gartner.com/doc/reprints?id=1-2H605JL2&ct=240402&st=sb), Gartner, Mar 2024
 1. [Critical Capabilities for Warehouse Management Systems](https://www.gartner.com/doc/reprints?id=1-2I2QN8RE&ct=240712&st=sb), Gartner, Aug 2024
 1. [Gartner Magic Quadrant for Transportation Management Systems](https://www.gartner.com/doc/reprints?id=1-2H3GE7Y1&ct=240327&st=sb), Jun 2024
+1. [Gartner Magic Quadrant for Supply Chain Planning Solutions](https://www.gartner.com/doc/reprints?ct=240423&id=1-2HDIDZMR&st=sb&utm_campaign=7015Y000003xRp3QAE). 23 Apr 2024
 1. [Warehouse Robotics Software 2024: That was Then, This is Now](https://on24static.akamaized.net/event/46/09/41/7/rt/1/documents/resourceList1718744014646/roboteonrobotics247webcast202406181718744014646.pdf), Webinar slides, Jun 2024, [link to webinar recording](https://event.on24.com/wcc/r/4609417/B80A57EAB9292C1EE678D42CBF648C13)
 1. [2023 Warehouse/DC Operations Survey: Automating while upping performance](https://www.scmr.com/article/2023_warehouse_dc_operations_survey_automating_while_upping_performance), Supplychain Management Review
 1. [Checklist to conside before you Automate](https://web.envistacorp.com/hubfs/Checklist_Before-You-Start-to-Automate.pdf), enVista corp.
@@ -604,7 +609,7 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 1. [OnPalms WMS from Technoforte Software](https://www.onpalms.com/), Bangalore Company in existence since 2001.
     * [Gartner Reviews link](https://www.gartner.com/reviews/market/warehouse-management-systems/vendor/technoforte/product/palms-smart-wms)
 1. [Datex has been mentioned as a Notable Vendor in the 2024 Gartner® report titled, Midmarket Context: Magic Quadrant for WMS](https://mys-showfiles.s3.amazonaws.com/production/pm2025/press/43928/2B920C1E-A0AF-36A5-FD0F9F88F37C0134.pdf)
-1. Gartner MQ for WMS, 2024 - locally stored
+1. Gartner MQ for WMS, 2 May 2024 - locally stored, [link](https://www.gartner.com/doc/reprints?__hstc=224503109.9e75fea6e387cc859287bb60737b901c.1737825932592.1737825932593.1737825932593.1&__hssc=224503109.1.1737825932593&__hsfp=2099812365&id=1-2HEDBY7R&ct=240425&st=sb&submissionGuid=5f22d549-9195-482c-8b07-77b7ddfc4895)
     * [Key takeaways of the Magic Quadrant from Made4Net](https://alpinesupplychain.com/2024-gartner-magic-quadrant-for-warehouse-management-systems/),
 1. Gartner MQ for WMS, Feb 2023, locally stored.
 1. [Gartner MQ for WMS, Jun 2022](https://itlligenze.com/wp-content/uploads/2022/12/Magic-Quadrant-for-Warehouse-Management-systems.pdf)
