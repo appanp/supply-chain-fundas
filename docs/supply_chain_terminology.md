@@ -21,7 +21,8 @@ footer-right: "\\theauthor"
   - [Cargo transportation terminology](https://www.vinculum.ru/en/informatsiya/glossarium), 300+ terms from Vinculum
   - [IWLA Glossary and Terminology](http://31y.93c.myftpupload.com/wp-content/uploads/2020/09/IWLA-Glossary-and-Terminology.pdf), Dec 2018.
   - [Glossary of ASRS related terms](https://us.blog.kardex-remstar.com/automated-storage-and-retrieval-systems-asrs#glossary_of_asrs_related_terms), Kardex.
-  - [Glossary for Product COmpanies](https://www.propelsoftware.com/glossary), Propel Software
+  - [Glossary for Product Companies](https://www.propelsoftware.com/glossary), Propel Software
+  - [EICOM ECommerce Wiki](https://www.eicom.org/ecommerce-wiki)
   - Since the ASCM dictionary include the whole of supply chain, it is not considered - some definitions are copied from that reference.
 - [x] Add alphabetical index into the terms since the list is getting longer ...
 
@@ -624,3 +625,18 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 1. [RoboForce announces $10M early-stage funding for AI-enabled MMRs](https://www.robotics247.com/article/roboforce_announces_10m_early_stage_funding_for_ai_enabled_mmrs), 12 Jan 2025
     * MMRs designed to reduce labor shortages in solar renewable energy construction
 1. [A decade after acquiring Kiva, Amazon unveils its first AMR](https://www.therobotreport.com/a-decade-after-acquiring-kiva-amazon-unveils-its-first-amr/), 22 Jun 2022
+1. [A Framework for Digital Twins Solutions for 5pl Operators](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4562905), 6 Sep 2023
+1. [8 of the top supply chain management career paths](https://www.techtarget.com/whatis/Top-10-Careers-in-Supply-Chain-Management), Jun 2024
+    * Strategic sourcing manager, Commodity manager, Procurement manager, Purchasing manager, Supply chain manager, Logistics manager, Facilities manager and Production Planner.
+1. [Apply an Architectural Framework to Stratifying WMS](https://www.scribd.com/document/625272366/Apply-an-Architectural-Framework-to-Stratifying-Warehouse-Management-Systems), 2023 - this scribd doc link seems to be a older 2017 version.
+1. [Leverage Last-Mile Delivery Technology for Supply Chain Efficiency](https://www.gartner.com/en/articles/last-mile-delivery)
+    * To overcome ongoing challenges, supply chain technology leaders can heed last-mile delivery strategy and technology trends in three categories: proximity, experience and innovation. The six trends are:
+        - Fine-tuned delivery with reliability and speed
+        - Microfulfillment to supercharge last-mile delivery
+        - Customer centricity
+        - Ultraconvenient delivery
+        - Sustainability and electrification of fleets
+        - Proliferation of unmanned vehicles
+        - AI and GenAI in last-mile delivery
+1. [Use the right software to support warehouse automation & robotics](https://www.scribd.com/document/807149045/Use-the-Right-Softwa-788893-ndx), 20 Nov 2023.
+1. [Gartner Predicts Half of Companies With Warehouse Operations Will Leverage AI-Enabled Vision Systems by 2027](https://www.gartner.com/en/newsroom/press-releases/2024-06-12-gartner-predicts-half-of-companies-with-warehouse-operations-will-leverage-ai-enabled-vision-systems-by-2027)
