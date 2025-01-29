@@ -13,9 +13,9 @@
 1. [SCApath and Spinnaker Combine to Provide End-to-End Supply Chain Strategy, Planning, and Execution Consulting Services](https://www.prnewswire.com/news-releases/scapath-and-spinnaker-combine-to-provide-end-to-end-supply-chain-strategy-planning-and-execution-consulting-services-301258932.html), 30 Mar 2021
 1. [Conga Positioned as a 2020 SPARK Matrix Leader for Customer Communication Management by Quadrant Knowledge Solutions](https://www.prnewswire.com/news-releases/conga-positioned-as-a-2020-spark-matrix-leader-for-customer-communication-management-by-quadrant-knowledge-solutions-301219915.html), 02 Feb 2021
 1. [Panasonic to buy Blue Yonder in $7.1 billion deal](https://www.techtarget.com/searchenterpriseai/news/252499950/Panasonic-to-buy-Blue-Yonder-in-71-billion-deal), 28 Apr 2021
+1. [Aptean Announces the Acquisition of Paragon Software Systems](https://www.aptean.com/nl-NL/insights/press-release/aptean-announces-the-acquisition-of-paragon-software-systems), 05 Mar 2020
 1. [JDA Software Announces Company Name Change to Blue Yonder](https://media.blueyonder.com/jda-software-announces-company-name-change-to-blue-yonder/), 11 Feb 2020
 1. [Acumatica 2019 R1 Launched After Acclaim for Beta Version](https://www.prnewswire.com/news-releases/acumatica-2019-r1-launched-after-acclaim-for-beta-version-300814463.html), 19 Mar 2019
 1. [Acquisition delivers next generation JDA Luminate cognitive SaaS solutions leveraging Blue Yonder’s leading AI and ML capabilities](https://media.blueyonder.com/jda-completes-acquisition-of-blue-yonder/), 12 Sep 2018
 1. [WiseTech Global acquires warehouse management solutions provider, Microlistics](https://www.wisetechglobal.com/news/wisetech-global-acquires-warehouse-management-solutions-provider-microlistics/), 13 Dec 2017.
 1. [Körber Acquires HighJump - a Leading US-American Supply Chain and Cloud Solutions Specialist](https://www.prnewswire.com/news-releases/korber-acquires-highjump---a-leading-us-american-supply-chain-and-cloud-solutions-specialist-642244393.html), 30 Aug 2017
-

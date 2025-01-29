@@ -34,6 +34,10 @@
     * [g2.com lists 170+ vendors - Demand Planning](https://www.g2.com/categories/demand-planning)
     * [Gartner reviews lists 140+ vendors - SC Planning](https://www.gartner.com/reviews/market/supply-chain-planning-solutions)
     * [Gartner reviews lists 17 vendors - SC Network Design Tools](https://www.gartner.com/reviews/market/supply-chain-network-design-tools)
+    * [Gartner reviews lists 47 vendors - SC strategy, planning & ops consulting](https://www.gartner.com/reviews/market/supply-chain-strategy-planning-and-operations-consulting)
+    * [Gartner reviews lists 10 vendors - SC Simulation Software](https://www.gartner.com/reviews/market/supply-chain-simulation-software)
+    * [Gartner reviews lists 40 vendors - SC planning solutions SIs](https://www.gartner.com/reviews/market/supply-chain-planning-solutions-systems-integrators)
+    * [Gartner reviews lists 20+ vendors - SC Cost-to-Serve Analytics Technology](https://www.gartner.com/reviews/market/supply-chain-cost-to-serve-analytics-technology)
 1. Transportation Management Vendors List:
     * [Capterra lists 600+ vendors](https://www.capterra.com/transportation-management-software)
     * [g2.com lists 120+ vendors](https://www.g2.com/categories/trucking)
