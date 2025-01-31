@@ -177,13 +177,6 @@ For differences between Warehouse and FC, refer to [this link](https://www.shipb
 
 <a name="anc-i">
 
-**Implementation Process**: Refers to the stages followed in the implementation of WMS and this can be either a migration from any WMS vendor or a totally new implementation. Gartner proposes 4 phases/stages to any WMS implementation. Hopstack recommends a eight step process. For more info, refer to [this link](https://www.hopstack.io/blog/8-steps-cloud-wms-implementation). The *4 phases* recommended by Gartner are:
-
-* Planning/Preparation: [How to Successfully Implement WMS — Part 1: Preparation](https://www.gartner.com/en/documents/5380963), May 2024.
-* Design Phase: [How to Successfully Implement WMS — Part 2: Design](https://www.gartner.com/en/documents/5429163), May 2024.
-* Execution Phase: [How to Successfully Implement WMS — Part 3: Execution](https://www.gartner.com/en/documents/5429263), May 2024.
-* Evolution Phase: [How to Successfully Implement WMS — Part 4: Evolution](https://www.gartner.com/doc/reprints?id=1-2HQ3JUR3&ct=240531&st=sb)
-
 **Inspection for Quality Control**: The practice of inspecting goods upon receipt for any delivery discrepancies such as damage, incorrect quantity compared with purchase order or delivery paperwork, and incomplete or incorrect paperwork. This is a WMS feature. Since the inspection can be done manual or automated using machine vision or both, this task has to be scheduled by the labour management module in WMS. For more info, refer to [this link](https://www.extensiv.com/blog/what-is-warehouse-quality-control-how-to-implement-it).
 
 **Inventory Accuracy**: It is a metric that measures the difference between your records of warehouse stock and your real-life inventory. Inventory accuracy is critical for preventing stockouts, shortages, shrinkage, controlling inventory quality, and maintaining a positive customer experience. For more info, refer to [this link](https://claruswms.co.uk/inventory-accuracy-importance).
@@ -479,6 +472,13 @@ A few of the WES vendors are listed below:
 1. [Numina RDS WES](https://numinagroup.com/rds-warehouse-execution-system/)
 1. [Softeon WMS](https://www.softeon.com/solutions/warehouse-execution-system-wes/) - rule-based engine
 
+**WMS Implementation Process**: Refers to the stages followed in the implementation of WMS and this can be either a migration from any WMS vendor or a totally new implementation. Gartner proposes 4 phases/stages to any WMS implementation. Hopstack recommends a eight step process. For more info, refer to [this link](https://www.hopstack.io/blog/8-steps-cloud-wms-implementation). The *4 phases* recommended by Gartner are:
+
+* Planning/Preparation: [How to Successfully Implement WMS — Part 1: Preparation](https://www.gartner.com/en/documents/5380963), May 2024.
+* Design Phase: [How to Successfully Implement WMS — Part 2: Design](https://www.gartner.com/en/documents/5429163), May 2024.
+* Execution Phase: [How to Successfully Implement WMS — Part 3: Execution](https://www.gartner.com/en/documents/5429263), May 2024.
+* Evolution Phase: [How to Successfully Implement WMS — Part 4: Evolution](https://www.gartner.com/doc/reprints?id=1-2HQ3JUR3&ct=240531&st=sb)
+
 **Warehouse Labor Standard**: In warehousing, a labor standard is the amount of time required by a fully trained associate, working at a reasonable effort level under normal operating conditions, to complete a task. Labor standards are critical to fulfillment organizations since they provide a benchmark to evaluate worker efficiency. For more info, refer to [this link](https://logisticsviewpoints.com/2010/09/07/warehousing-labor-standards-basics-part-1/), [Optimizing warehouse efficiency with labor standards](https://www.logiwa.com/blog/optimizing-warehouse-efficiency-with-labor-standards) and [Creating Successful Engineered Labor Standards](https://envistacorp.com/blog/creating-successful-engineered-labor-standards/).
 
 **Warehouse Layout**: Maximizing space and ensuring efficiency in your warehouse starts with a smart warehouse layout, from space-saving storage solutions to streamlined picking processes, that directly influence operational productivity. For more info, refer to [this link](https://spherewms.com/blog/warehouse-layout-strategies).
@@ -648,3 +648,5 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 1. [Manufacturing Execution System - What is it](https://www.youtube.com/watch?v=l40Y16bmDq8), youtube video, 40 mins
 1. [What is MES/MOM?](https://www.youtube.com/watch?v=A_uW-fFcZK4)
     * This video, explains  "what is MOM / MES?" for anyone who has heard multiple terminologies like Manufacturing operations management (MOM), Manufacturing Execution systems (MES), Shop floor data collection (SFDC), production actvity control (PAC), traceability, geneology, electronic batch records (eBR) or electronic device history records (eDHR) etc.
+1. [Softeon WMS Implemenation Guide](https://www.softeon.com/blog/warehouse-management-system-implementation-guide), suggest a 4 stage implementation phase before go-live.
+1. [5 Phases of a WMS Implementation](https://www.aptean.com/en-US/insights/blog/5-phases-wms-implementation), Aptean, 15 Oct 2019.
