@@ -16,6 +16,8 @@
 
 ### Vendors List - WMS, TMS and YMS
 
+1. Inventory/WMS Software Vendors in India: [OnPalms](https://www.onpalms.com/), [EkatmEMS from Vritti](https://vritti.co.in/solutions/ekatm-wms/), [WMS NAV Connect for Dynamics from Godrej Infotech](https://www.godrejinfotech.com/solutions/surroundTechnology/WMS-NAV.aspx), [Geipi WMS](https://geipl.com/solutions/warehouse-management/).
+1. [Top 10 Best Warehousing Companies for eCommerce and D2C Brands in India 2025](https://wareiq.com/resources/blogs/best-3pl-warehousing-companies/)
 1. E-Commerce Platform Vendors List:
     * [Capterra lists 1400+ vendors](https://www.capterra.in/directory/3/ecommerce/software)
     * [g2.com lists 430+ vendors](https://www.g2.com/categories/e-commerce-platforms)
