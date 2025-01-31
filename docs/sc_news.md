@@ -1,6 +1,8 @@
 # News on Supply Chain Vendors
 
 1. [Made4net and Gather AI Partner to Enhance Supply Chain Accuracy and Efficiency](https://www.prnewswire.com/news-releases/made4net-and-gather-ai-partner-to-enhance-supply-chain-accuracy-and-efficiency-302352278.html), 15 Jan 2025.
+1. [Spar progresses with resolving SAP integration issues](https://www.itweb.co.za/article/spar-progresses-with-resolving-sap-integration-issues/KBpdg7pm2zKMLEew), 02 Jan 2025
+1. [SPAR Inaugurates New Logistics Center with KNAPP Technology](https://www.knapp.com/en/spar-inaugurates-new-logistics-center-with-knapp-technology/), 17 Sep 2024.
 1. [Blue Yonder Acquires One Network Enterprises to Unlock an Agile, Interconnected Supply Chain Ecosystem](https://media.blueyonder.com/blue-yonder-acquires-one-network-enterprises-to-unlock-an-agile-interconnected-supply-chain-ecosystem/), 01 Aug 2024.
 1. [Deposco Applauded by Frost & Sullivan for Addressing Specific Customer Pain Points in the Warehouse Management System Market with Its Solutions](https://www.prnewswire.com/in/news-releases/deposco-applauded-by-frost--sullivan-for-addressing-specific-customer-pain-points-in-the-warehouse-management-system-market-with-its-solutions-302197535.html), 16 Jul 2024
 1. [Infor Acquires Acumen and Albanero](https://www.prnewswire.com/news-releases/infor-acquires-acumen-and-albanero-302194742.html), 11 Jul 2024
@@ -8,6 +10,7 @@
 1. [Sheer Logistics Wins SupplyTech Breakthrough "Innovation of the Year" Award for SheerExchange Integration Platform](https://www.prnewswire.com/news-releases/sheer-logistics-wins-supplytech-breakthrough-innovation-of-the-year-award-for-sheerexchange-integration-platform-302173407.html), 17 Jun 2024
 1. [Firmament-Backed Scanco Acquires WithoutWire to Expand Offering for Warehouse Management and Automation](https://www.prnewswire.com/news-releases/firmament-backed-scanco-acquires-withoutwire-to-expand-offering-for-warehouse-management-and-automation-302153327.html), 23 May 2024
 1. [ShipBob Unveils Its Third Annual State of Ecommerce Fulfillment Report](https://www.prnewswire.com/news-releases/shipbob-unveils-its-third-annual-state-of-ecommerce-fulfillment-report-302036735.html), 17 Jan 2024
+1. [Spar on why its big SAP project went pear-shaped](https://techcentral.co.za/spar-big-sap-project-went-pear-shaped/237191/), 21 Dec 2023
 1. [Sheer Logistics Wins 2023 Top Software & Tech Award](https://www.prnewswire.com/news-releases/sheer-logistics-wins-2023-top-software--tech-award-302006662.html), 06 Dec 2023
 1. [Candock Embarks on Digital Commerce Growth with Tecsys' Cloud WMS Platform](https://www.prnewswire.com/news-releases/candock-embarks-on-digital-commerce-growth-with-tecsys-cloud-wms-platform-301892383.html), 03 Aug 2023
 1. [SCApath and Spinnaker Combine to Provide End-to-End Supply Chain Strategy, Planning, and Execution Consulting Services](https://www.prnewswire.com/news-releases/scapath-and-spinnaker-combine-to-provide-end-to-end-supply-chain-strategy-planning-and-execution-consulting-services-301258932.html), 30 Mar 2021
