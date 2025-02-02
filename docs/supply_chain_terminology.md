@@ -666,3 +666,5 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 1. [5 Phases of a WMS Implementation](https://www.aptean.com/en-US/insights/blog/5-phases-wms-implementation), Aptean, 15 Oct 2019.
 1. [Fulfillment center in 30 days](https://www.youtube.com/watch?v=WpozEe_bwno&list=PLRv_KQE258Qaw-ZM9iesH0BZvad7ZOK9S&index=3), ShipHero Youtube video, 8 mins
 1. [Life of a Narrow Aisle Forklift Driver, Youtube Video, 12 mins](https://www.youtube.com/watch?v=c1Bd5oxK73A)
+1. [Warehouse Management System Market Size, Share & Trends Analysis Report By Component (Software, Services), By Deployment (On-premise, Cloud), By Function, By Application, By Region, And Segment Forecasts, 2024 - 2030](https://www.grandviewresearch.com/industry-analysis/warehouse-management-system-wms-market)
+1. [Warehouse Management System Market – Global Industry Analysis and Forecast (2024-2030)](https://www.maximizemarketresearch.com/market-report/global-warehouse-management-system-market/54930/)
