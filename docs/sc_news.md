@@ -14,6 +14,7 @@
 1. [Sheer Logistics Wins 2023 Top Software & Tech Award](https://www.prnewswire.com/news-releases/sheer-logistics-wins-2023-top-software--tech-award-302006662.html), 06 Dec 2023
 1. [Candock Embarks on Digital Commerce Growth with Tecsys' Cloud WMS Platform](https://www.prnewswire.com/news-releases/candock-embarks-on-digital-commerce-growth-with-tecsys-cloud-wms-platform-301892383.html), 03 Aug 2023
 1. [SCApath and Spinnaker Combine to Provide End-to-End Supply Chain Strategy, Planning, and Execution Consulting Services](https://www.prnewswire.com/news-releases/scapath-and-spinnaker-combine-to-provide-end-to-end-supply-chain-strategy-planning-and-execution-consulting-services-301258932.html), 30 Mar 2021
+1. [Cin7 Acquires Dear Systems and Orderhive](https://www.themiddlemarket.com/latest-news/cin7-acquires-dear-systems-and-orderhive), 17 Feb 2021
 1. [Conga Positioned as a 2020 SPARK Matrix Leader for Customer Communication Management by Quadrant Knowledge Solutions](https://www.prnewswire.com/news-releases/conga-positioned-as-a-2020-spark-matrix-leader-for-customer-communication-management-by-quadrant-knowledge-solutions-301219915.html), 02 Feb 2021
 1. [Panasonic to buy Blue Yonder in $7.1 billion deal](https://www.techtarget.com/searchenterpriseai/news/252499950/Panasonic-to-buy-Blue-Yonder-in-71-billion-deal), 28 Apr 2021
 1. [Aptean Announces the Acquisition of Paragon Software Systems](https://www.aptean.com/nl-NL/insights/press-release/aptean-announces-the-acquisition-of-paragon-software-systems), 05 Mar 2020
