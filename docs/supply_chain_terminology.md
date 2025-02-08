@@ -28,9 +28,11 @@ footer-right: "\\theauthor"
 
 ### Terminology
 
+<div style="color=grey;fontsize=24px">
 [3](#anc-3) [A](#anc-a) [B](#anc-b) [C](#anc-c) [D](#anc-d) [E](#anc-e) [F](#anc-f) [G](#anc-g) [H](#anc-h) [I](#anc-i) [K](#anc-k) [L](#anc-l) [M](#anc-m) [N](#anc-n) [O](#anc-o) [P](#anc-p) [R](#anc-r) [S](#anc-s) [T](#anc-t) [U](#anc-u) [V](#anc-v) [W](#anc-w) [Y](#anc-y) [Z](#anc-z)
+</div>
 
-<a name="anc-3">
+<a name="anc-3"><hr></a>
 
 **3PL Billing**: 3PL billing refers to how third-party logistics providers charge for their services. This involves various fees like receiving, storage, and outbound fees. Managing these bills manually can lead to errors and inefficiencies. This article will break down the key components, explore common billing models, and show how automation can simplify the process. For more info, refer to [this link](https://www.cadretech.com/blog/3pl-billing/) and [this 3PL billing process description](https://www.altexsoft.com/blog/3pl-billing/). 3PL billing is the process of calculating charges for services provided to a client and generating an invoice. In a 3PL warehouse, the provided services may include warehousing, transportation, inventory management, order fulfillment, and value-added services. Accurate billing is essential to ensure transparent and accurate financial transactions and bookkeeping. It also facilitates effective revenue management to keep your company profitable. You can bill customers manually or leverage 3PL billing software built for making calculating, generating, issuing, and recording invoices easier. This is a WMS feature. For more info, refer to [this link](https://www.logiwa.com/blog/3pl-billing-automation), [SphereWMS 3PL Billing](https://spherewms.com/features/3pl-billing), [Extensiv's 3PL Pricing by Service & How To Maximize Value On Your Fees Structure](https://www.extensiv.com/blog/3pl-pricing) and [3PL Billing: Guide to Optimizing Your Invoicing Process](https://www.cadretech.com/blog/3pl-billing/). Example of pricing calculator from 3PL providers:
 
