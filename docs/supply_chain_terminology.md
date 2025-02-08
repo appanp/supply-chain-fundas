@@ -28,9 +28,9 @@ footer-right: "\\theauthor"
 
 ### Terminology
 
-<div style="color=grey;fontsize=24px">
+<a name="term-idx"><hr></a>
+
 [3](#anc-3) [A](#anc-a) [B](#anc-b) [C](#anc-c) [D](#anc-d) [E](#anc-e) [F](#anc-f) [G](#anc-g) [H](#anc-h) [I](#anc-i) [K](#anc-k) [L](#anc-l) [M](#anc-m) [N](#anc-n) [O](#anc-o) [P](#anc-p) [R](#anc-r) [S](#anc-s) [T](#anc-t) [U](#anc-u) [V](#anc-v) [W](#anc-w) [Y](#anc-y) [Z](#anc-z)
-</div>
 
 <a name="anc-3"><hr></a>
 
@@ -43,7 +43,8 @@ footer-right: "\\theauthor"
 
 **3PL Logistics Provider**: A 3PL (third-party logistics) provider offers outsourced logistics services, which encompass anything that involves management of one or more facets of procurement and fulfillment activities. In business, 3PL has a broad meaning that applies to any service contract that involves storing or shipping items. A 3PL service may be a single provider, such as transportation or warehouse storage, or it can be a systemwide bundle of services capable of handling supply chain management. For more info, refer to [this link](https://www.techtarget.com/searcherp/definition/3PL-third-party-logistics), [3PL Warehousing 101](https://kanbanlogistics.com/blog/3pl-warehousing-101) and [What is a 3PL? A Complete Guide to 3PL Warehousing](https://www.extensiv.com/what-is-a-3pl).
 
-<a name="anc-a">
+<a name="anc-a"><hr></a>
+[Back to Index](#term-idx)
 
 **Advanced Cartonization**: Cartonization is the process of finding the best way to package items for shipping. By evaluating the size, shape and weight of each item, cartonization can speed up order delivery and increase profitability. Imagine a warehouse, pickers are on the floor going from location to location picking one or two orders into totes. When complete they walk to a pack station and drop off the materials to be packed and ship. Rinse and repeat. This strategy requires a lot of labor and can lead to unacceptable error rates. There is also a good chance the company is losing money in shipping by not taking advantage of the dimensional (DIM) weight protocols. Using advanced cartonization (also called pick to box) in a warehouse can take the guesswork out of the DIM weight rules before a single item is picked. For more info, refer to [this link](https://hy-tek.com/resources/advanced-cartonization/).
 
@@ -76,7 +77,8 @@ Advantages of advanced cartonization are:
 
 **Automated Storage and Retrieval System (AS/RS)**: It is a broader term used to refer to any computer-controlled system that stores and retrieves items automatically. ASRS systems use robots and a grid or shelving system to store items in flexible locations within a grid of shelving system. For more info, refer to [this link](https://6river.com/what-is-an-automated-storage-and-retrieval-system/ "1. Types of ASRS. 2. How do they work? 3. Their advantages/disadvantages. 4. How to choose right system? 5. How much do they cost? 6. Alternative: AMR"), [Kardex ASRS 101 Guide](https://info.kardex.com/asset/warehouse-insights/asrs-101-comprehensive-guide) ([pdf](https://cdn.bfldr.com/EL3HU3A3/at/kqqvp7rt7kbqms8hchr5q2v/WarehouseInsights_US_ASRS-101-Comprehensive-Guide)), [ASRS and Inventory Management - HowTo Guide](https://cdn.bfldr.com/EL3HU3A3/at/fjgq8ckcnzbfv4wsvh29ftv/How-toGuide_US_ASRSInventoryManagement) and [Bastian Solutions products specific link](https://www.bastiansolutions.com/solutions/technology/asrs).
 
-<a name="anc-b">
+<a name="anc-b"><hr></a>
+[Back to Index](#term-idx)
 
 **BFCM**: Black Friday Cyber Monday, referred to in the business as BFCM, is a weeklong holiday shopping extravaganza full of discounts and heavy traffic immediately following the Thanksgiving holiday. For eCommerce sellers, Black Friday Cyber Monday is a huge revenue opportunity – especially as more shoppers move online. For more info, refer to [this link](https://www.8fig.co/blog/bfcm).
 
@@ -105,7 +107,8 @@ Advantages of advanced cartonization are:
 
 **Buffer Stock**: Refer to **Safety Stock**.
 
-<a name="anc-c">
+<a name="anc-c"><hr></a>
+[Back to Index](#term-idx)
 
 **Carrier**: A shipping carrier is an enterprise that moves commodities between different locations. These companies usually possess their vehicles and undertake tasks such as loading, unloading, and transporting the goods. For more info, refer to [this link](https://www.shipbob.com/ecommerce-shipping/carriers/) and [Difference between carrier & shipper and how they impact your business](https://xpdel.com/blog/differences-between-a-carrier-and-a-shipper-and-how-they-impact-your-business/).
 
@@ -127,7 +130,8 @@ For vendors who have automated this process are:
 - Using drones for cycle counting of inventory - how the drone maker Verity used drones for Swiss shoe maker ON - [Inventory Tracking Solution a High-Flying Success](https://www.inboundlogistics.com/articles/inventory-tracking-solution-a-high-flying-success/), July 2024.
 - [Case Study: Revolutionizing Inventory Management for a Shoe Retailer](https://www.gather.ai/case-studies/managing-inventory-shoes), gather.ai
 
-<a name="anc-d">
+<a name="anc-d"><hr></a>
+[Back to Index](#term-idx)
 
 **Dark Stores**: Empty storefronts are used as small fulfillment centers that fill online orders and can even service local retail locations. These "dark stores" are not open to the public. Orders filled can be picked up curbside, dropped off at retail locations for pick up, or delivered directly to customers. One dark store could potentially service several existing retail locations, which greatly reduces the space and cost issues involved with in-store micro-fulfillment. These dark stores can be formatted utilizing lower cost, semi-automation, such as Automated Mobile Robots and automated sortation technologies to aid manual picking efforts, or be fitted for high-automation goods-to-person systems. For more info, refer to [this link](https://www.bastiansolutions.com/solutions/function/microfulfillment/).
 
@@ -141,7 +145,8 @@ For vendors who have automated this process are:
 
 **Drop Shipping**: Dropshipping is a retail method where an online store doesn’t keep its products in stock. Instead, when a customer makes an order, the store forwards it with payment to a dropshipping supplier. The supplier then ships the product to the customer. Many business owners prefer dropshipping because it passes the task of order fulfillment to suppliers. This means stores don’t need to invest in warehouse space or risk getting stuck with unsold inventory. As a result, businesses can allocate more resources to other retail activities such as marketing. For more info, refer to [this link](https://www.shopify.com/ph/blog/what-is-dropshipping).
 
-<a name="anc-e">
+<a name="anc-e"><hr></a>
+[Back to Index](#term-idx)
 
 **Each Picking**: Each picking, also known as piece picking or split-case picking, is an order picking process in which a single item or SKU is picked from a master carton. These picks are typically bundled or packaged with other SKUs before being shipped. For more info, refer to [this link](https://www.unex.com/applications/picking/each-picking).
 
@@ -149,7 +154,8 @@ For vendors who have automated this process are:
 
 By moving from a paper-based exchange of business document to one that is electronic, businesses enjoy major benefits such as reduced cost, increased processing speed, reduced errors and improved relationships with business partners. For more info, refer to [this link](https://www.edibasics.com/what-is-edi/) and [Kroger EDI Requirements & Guidelines](https://edi.kroger.com/EDIPortal/EDIGuideAndReq_Kroger.html).
 
-<a name="anc-f">
+<a name="anc-f"><hr></a>
+[Back to Index](#term-idx)
 
 **Flexible Path Equipment**: Material handling equipment such as forklifts that are not required to follow fixed paths. For more info, refer to [this link](https://www.waredock.com/glossary/flexible-path-equipment/) and [Nido Automations's Sirius AMRs](https://nidoautomation.com/solutions-by-product/nidobots-mobile-robots-nidonav/sirius/).
 
@@ -169,7 +175,8 @@ By moving from a paper-based exchange of business document to one that is electr
 
 For differences between Warehouse and FC, refer to [this link](https://www.shipbob.com/blog/differences-warehouse-fulfillment-center).
 
-<a name="anc-g">
+<a name="anc-g"><hr></a>
+[Back to Index](#term-idx)
 
 **Ghost Inventory**: Phantom Inventory, also known as Ghost Inventory, is an occurrence of unknown stockout due to inaccurate inventory information in operational systems. Phantom inventory can "cost" 1%-3% of revenue depending on the retailer. These unknown or virtual stockouts are detrimental for fast moving consumer goods retailers who have brick-and-mortar stores and/or offer buy-online-pick-in-store (BOPIS). For more info, refer to [this link](https://www.kloud9.nyc/solutions/stockout-sentinel).
 
@@ -181,11 +188,13 @@ For differences between Warehouse and FC, refer to [this link](https://www.shipb
 
 **Goods Received Note (GRN)**: Goods Received Note is a record of goods received from suppliers, and the record is shown as a proof that ordered products had been received. Moreover, the record is used by the buyer for comparing the number of goods ordered to the ones delivered. GRN plays an important role among various departments for several companies. Primarily, factory/store, procurement and finance/accounting departments use the record for stock updates and the payment of goods procured. For more info, refer to [this link](https://kissflow.com/procurement/purchase-invoices/grn-goods-received-note/).
 
-<a name="anc-h">
+<a name="anc-h"><hr></a>
+[Back to Index](#term-idx)
 
 **Hard Allocation**: Hard Allocation: A type of allocation where specific inventory items are reserved for specific orders. Once inventory is hard allocated, it cannot be used to fulfill any other orders. If hard allocation is the hammer and nails of supply chain, soft allocation is like magnets and a whiteboard. While orders are being placed, you should be able to shift supply to demand as priorities change. Seeing the big picture — whether that’s by channel, customer, product, vendor, or other entities — is key to understanding and managing your supply chain for the best results. For more info, refer to [this link](https://sunrise.co/blog/soft-and-hard-allocation-understanding-the-difference) and [difference between hard & soft allocation](https://factech.co.in/blog/hard-vs-soft-inventory-allocation/).
 
-<a name="anc-i">
+<a name="anc-i"><hr></a>
+[Back to Index](#term-idx)
 
 **Inspection for Quality Control**: The practice of inspecting goods upon receipt for any delivery discrepancies such as damage, incorrect quantity compared with purchase order or delivery paperwork, and incomplete or incorrect paperwork. This is a WMS feature. Since the inspection can be done manual or automated using machine vision or both, this task has to be scheduled by the labour management module in WMS. For more info, refer to [this link](https://www.extensiv.com/blog/what-is-warehouse-quality-control-how-to-implement-it).
 
@@ -201,7 +210,8 @@ For differences between Warehouse and FC, refer to [this link](https://www.shipb
 
 Serial numbers are a part of everyday life. Your cell phone likely has an IMEI number that your carrier used to activate your phone line. Your car has a VIN for warranty, maintenance, insurance, and recall purposes. Most firearms and laptops will also have serial numbers attached to them. For more info, refer to [this link](https://wareiq.com/resources/blogs/inventory-serialization-for-ecommerce-business/)
 
-<a name="anc-k">
+<a name="anc-k"><hr></a>
+[Back to Index](#term-idx)
 
 **Kit**: 1) The components of a parent item that have been pulled from stock and prepared for movement to a production area. 2) A group of repair parts to be shipped with an order. Same as kitted material, staged material. While the terms kitting and bundling are often used interchangeably, there’s a stark difference between the two. Kitted items are individual yet complementary goods that are packed into a single kit and are sold as one unit. On the other hand, bundling is a broad term used to describe the process of packing several SKUs together, regardless of whether they complement each other. For more info, refer to [this link](https://modula.us/blog/kitting-in-warehouse/).
 
@@ -209,7 +219,8 @@ Serial numbers are a part of everyday life. Your cell phone likely has an IMEI n
 
 - [OSARO Robot Kitting Solution](https://osaro.com/solutions/kitting)
 
-<a name="anc-l">
+<a name="anc-l"><hr></a>
+[Back to Index](#term-idx)
 
 **Labor Management**: Also known as Workforce Management. Your ecommerce business can’t run without an amazing team of warehouse workers. These individuals carry out daily tasks – like managing inventory, picking products, and packing orders – and you depend on them to get orders out the door. But how you allocate and manage this workforce hugely impacts your operational efficiency. To improve productivity, reduce costs, and minimize idle time and overstaffing, you’ll need an optimized labor management strategy. For more info, refer to [this link](https://www.shipbob.com/warehouse-management/warehouse-labor-management/), [Labor Planning: Your Guide to Optimizing Warehouse Labor Efficiency](https://cognitops.com/labor-planning-guide-warehouse-efficiency) and [The ultimate guide to Dynamic Worforce Management for Warehouses](https://ortec.com/assets/content/paragraph/file/The%20Ultimate%20Guide%20to%20Dynamic%20Workforce%20Management%20for%20Warehouses%20%28EN%29.pdf).
 
@@ -239,7 +250,8 @@ As with vehicle license plates, a lot of different information can be associated
 1. Order delivery
 1. Billing and invoicing. For more info, refer to [this link](https://learn.transportation.trimble.com/wp-content/uploads/tte/ebcbe19c93c746dd320c/olhlp/d2bd984013d3/docs/Current/index.html) and [How AI and Predictive Analytics Are Revolutionizing LTL Logistics and Transportation](https://www.supplychain247.com/article/how-ai-and-predictive-analytics-are-revolutionizing-ltl-logistics-and-transportation/smc3).
 
-<a name="anc-m">
+<a name="anc-m"><hr></a>
+[Back to Index](#term-idx)
 
 **Manufacturing Execution System (MES)**: A manufacturing execution system (MES) is a software-based solution used in manufacturing to monitor and control production processes on the shop floor. An MES is a software-based solution used in manufacturing to monitor and control production processes on the shop floor. In manufacturing operations management, an MES serves as a bridge between the planning and control systems of an enterprise, such as an enterprise resource planning (ERP) system, and the actual manufacturing operations. For more info, refer to [this link](https://www.ibm.com/think/topics/mes-system), [Developing a Smart Factory: The Advantages of WMS and MES Integration](https://www.roimaint.com/en/product/insights-blog-and-expert-articles/smart-factory--with-wms-and-mes-integration) and [Quick Guide to Software Systems: ERP, WMS, MES](https://www.ubscode.com/en-ww/news/158/sistemas-erp-mes-wms).
 
@@ -279,11 +291,13 @@ A few vendors who have MCPM software are listed below:
 
 **Multicarrier Shipping**: At its core, multi-carrier shipping is a B2B logistics operation that involves utilizing multiple carriers to deliver packages. Unlike traditional methods, this approach allows businesses to compare rates, transit times, and routes, optimizing the selection of carriers based on specific package requirements. Multi-carrier shipping solutions, such as those offered by ClickPost and Aftership, use advanced technologies like AI-driven engines and API integrations to streamline the order creation, tracking, and management processes. For more info, refer to [this link](https://www.dropoff.com/blog/multi-carrier-shipping/).
 
-<a name="anc-n">
+<a name="anc-n"><hr></a>
+[Back to Index](#term-idx)
 
 **Non-Vessel Operating Common Carrier (NVOCC)**: An ocean carrier who performs all of the services of a carrier, but who does not own their own vessel(s). They operate by leasing or buying available space in containers and using their own House Bill of Lading to contract with customers. For more info, refer to [this link](https://www.ups.com/us/en/supplychain/resources/glossary-term/nvocc.page) and [this comparison of Freight forwarders, 3PLs, NVOCCs, freight brokers and customs agents](https://www.altexsoft.com/blog/freight-forwarder/).
 
-<a name="anc-o">
+<a name="anc-o"><hr></a>
+[Back to Index](#term-idx)
 
 **Order Allocation**: Order allocation in a warehouse is the process of assigning available inventory to customer orders in the most efficient and profitable way. This is a OMS feature. A few points to note about allocation are:
 
@@ -300,7 +314,8 @@ A few vendors who have MCPM software are listed below:
 
 **Order Selector**: An order selector works in a warehouse or stockroom to select, store, pack, and monitor the inventory of products and fill customer orders correctly. Also known as a picker or warehouse selector, an order selector ensures items are properly packaged for shipping and will arrive safely at their destination. For more info, refer to [this link](https://www.betterteam.com/order-selector-job-description), [this quora question](https://www.quora.com/In-warehouses-is-there-a-difference-between-an-order-selector-and-a-picker-I-know-picking-packing-etc-Just-not-sure-of-this-term) and [this sample job description](./order-selector_job-descr_sample.md). Difference between an order selector and a picker. Generally, an order selector uses a forklift to pull pallets of unboxed goods from the warehouse shelves and deliver them to the loading area or designated shipping area. A picker, on the other hand, is responsible for picking individual boxes or items off the shelves in the warehouse and placing them into the designated boxes or trays for shipping.
 
-<a name="anc-p">
+<a name="anc-p"><hr></a>
+[Back to Index](#term-idx)
 
 **Packer**: It is a person who packs the products that are in a specific fulfillment order. For more info, refer to [this link](https://www.zippia.com/warehouse-packer-jobs/what-does-a-warehouse-packer-do/) and [21 types of warehouse positions& their duties (Job Guide)](https://www.extensiv.com/blog/warehouse-positions).
 
@@ -351,7 +366,8 @@ A few vendors who have MCPM software are listed below:
 
 **Put Wall**: Put walls are a simple way to organize orders as part of the order fulfillment process. Workers in different parts of the warehouse pick and fulfill orders. After picking the items, the workers take the partial orders to the put wall for grouping. The worker places the picked partial orders in a specific cell on the put wall. Once all the operators deliver their portion of the order to the cell, the order is complete. An operator places the completed order in a carton or case and it is ready for shipping. The cell that took the completed order is now available for the next order. For more info, refer to [this link](https://www.conveyco.com/blog/put-wall/) and [this Dematic video](https://www.youtube.com/watch?v=NToQfX3NseQ).
 
-<a name="anc-r">
+<a name="anc-r"><hr></a>
+[Back to Index](#term-idx)
 
 **Receiving**: It is the process of handling inbound inventory into a warehouse. This is a Warehouse operation. For more info, refet to [this link](https://www.easyship.com/blog/warehouse-receiving-process) and [this whitepaper](https://www.newcastlesys.com/hubfs/docs/MK_RECEIVING-REVOLUTION_WP_0522.pdf). The warehouse receiving process involves several steps, including:
 
@@ -378,7 +394,8 @@ For best practices in the receiving process, watch [this video (7 mins)](https:/
 
 **Return Merchandise Authorization (RMA)**: Return material authorization (RMA) is an arrangement in which the supplier of a good or product agrees to have a customer ship the item back to them in exchange for a refund or credit due to a product defect or malfunction. This type of arrangement can apply to a physical good as well as a software product and is applicable within a specified warranty period. RMA is a process that allows you to return a faulty or defective product for repair, replacement, or refund. For more info, refer to [this link](https://www.lenovo.com/in/en/glossary/rma), [Zoho inventory link](https://www.zoho.com/in/inventory/kb/sales-returns/rma-about.html), [RMA Module in Savant Software WMS](https://savantwms.com/wp-content/uploads/2021/03/Savant-WMS-RMA-Module.pdf) and [Salesforce OMS product help page](https://help.salesforce.com/s/articleView?id=commerce.om_managed_unmanaged_return_orders.htm).
 
-<a name="anc-s">
+<a name="anc-s"><hr></a>
+[Back to Index](#term-idx)
 
 **Safety Stock**: Safety stock is extra inventory of an item held to reduce the risk of item stockouts and overpromising to customers. Businesses use safety stock as a safeguard against demand, supply and manufacturing variability. While they might sound similar, safety stock is different from cycle stock. Both are important to meeting demand and maintaining customer satisfaction. Cycle stock is the amount of inventory of a certain item needed to meet regular demand over a particular time period. Safety stock is the buffer inventory kept in addition to cycle stock. For more info, refer to [this link](https://www.ibm.com/think/topics/safety-stock) and [What is the Safety Stock Formula? Calculating Optimal Levels and Storage Methods](https://us.blog.kardex-remstar.com/safety-stock-formula-calculation).
 
@@ -433,7 +450,8 @@ A few of the vendors smart slotting solutions are listed below:
 
 **Supply Chain Operations Reference (SCOR)**: It is a standard from the [Association for Supply Chain Management (ASCM)](https://www.ascm.org/). SCOR is a hierarchical process model. SCOR is not a static set of standards. [SCOR DS](https://www.ascm.org/corporate-solutions/standards-tools/scor-ds), our newest iteration, is open-access and [fully digital](https://scor.ascm.org/). It is even more comprehensive than previous versions with the inclusion of sustainability standards and supply-chain orchestration enablers. SCOR DS shifts thinking from a linear supply chain model to a more synchronous network. For more info, refer to [this link](https://www.cio.com/article/222381/what-is-scor-a-model-for-improving-supply-chain-management.html).
 
-<a name="anc-t">
+<a name="anc-t"><hr></a>
+[Back to Index](#term-idx)
 
 **Tagging**: Also called labelling, it is the act of identifying locations, products, equipments and may be even people in the warehouse using barcodes, RFIDs tags, NFC tags, and other ways so that the systems know what you are taking or leaving and from which place or location in the warehouse. For more info, refer to [this link](https://www.camcode.com/wp-content/uploads/2024/08/Warehouse-Labelling-Checklist-5.pdf).
 
@@ -460,7 +478,8 @@ For more info, refer to [this link](https://www.maersk.com/logistics-explained/s
 
 **Types of Loads**: Although all warehouses share common characteristics, the product to be stored will determine the design and construction of both the warehouse and the installation of storage systems. In addition, the nature of the product will condition the reception of goods, their verification, transport between the various warehouse areas, storage of goods, order preparation, consolidation of loads, shipment of goods and stock management. However, not all goods are the same, so neither is their type of storage nor the logistics processes that they involve. For more info, refer to [this link](https://www.linkedin.com/pulse/6-common-load-types-warehouse-swifthub/) and [Types of Loads in a Warehouse and their storage](https://www.ar-racking.com/en/blog/types-of-loads-in-a-warehouse-and-their-storage/).
 
-<a name="anc-u">
+<a name="anc-u"><hr></a>
+[Back to Index](#term-idx)
 
 **Unit Load**: In warehouse management system, “unit load types” refer to the different forms or configurations in which goods or products are grouped together for storage, handling, and transportation within a warehouse or distribution center. Unit load types are designed to facilitate efficient movement and storage of goods, optimize space utilization, and enhance operational processes. For more info, refer to [this link](https://swifthub.net/en/blog-en/6-common-load-types-in-a-warehouse) and [What is a palletised unit load?](https://www.mecalux.com/warehouse-manual/the-warehouse/pallet-unit-load).
 
@@ -470,14 +489,16 @@ For more info, refer to [this link](https://www.maersk.com/logistics-explained/s
 
 **Unit Sorter**: The distinction between a unit and a case is important when talking about sortation systems because they generally require different types of equipment. In warehouse management, an inventory unit is the language used to describe the smallest unit of an item. All other inventory measurements can be split into multiple parts, including a case. For example, a case is a box that contains numerous inventory units, and the size of the case can vary based on the unit size and logistics. Likewise, there is a case sorter that is designed to handle cases, and there is a unit sorter designed to manage individual units. The exception to this is when a hybrid model is used that can accommodate both units and cases. For more info, refer to [this link](https://www.elementlogic.net/us/insights/types-of-sortation-systems).
 
-<a name="anc-v">
+<a name="anc-v"><hr></a>
+[Back to Index](#term-idx)
 
 **Voice Picking**: Voice picking, also known as voice-directed warehousing (VDW), is a system that uses voice prompts to help warehouse workers pick items. It works by using speech recognition software to translate picking orders into voice instructions. These instructions guide workers to the correct locations and items, and they can confirm their actions verbally. (ref. 2 part 4). This is a WMS feature. For more info, refer to [this link](https://www.lucasware.com/voice-picking-introduction/) and [this link](https://www.autostoresystem.com/insights/what-is-voice-picking-a-fading-trend)
 
 - [Almasons Voice Picking Solutions](https://almasons.com/voice-picking-solutions)
 - [Lucasware Voice Picking Software Selection Guide](https://www.lucasware.com/wp-content/uploads/2024/09/Voice_Picking_Software_Selection_Guide-5.pdf)
 
-<a name="anc-w">
+<a name="anc-w"><hr></a>
+[Back to Index](#term-idx)
 
 **Warehouse**: It is a physical building which stores products in containers & racks. There can many such warehouses in a place from which orders are fulfilled. Also known as **Distribution Center**.
 
@@ -543,13 +564,15 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 
 **WMS for Manufacturing**: Specific use-case of a WMS for manufacturing which has features to interface with a Manufacturing Execution System (MES) to produce finished goods from raw materials. This type of WMS deals with moving raw materials to the production line and to update the inventory after producing the finished goods. For more info, refer to [this link](https://www.mecalux.com/software/manufacturing-wms), [this video](https://www.mecalux.com/warehouse-logistics-videos/manufacturing-supply-wms) and [Four key features to look for in Manufacturing WMS](https://www.explorewms.com/four-key-features-to-look-for-in-a-manufacturing-wms).
 
-<a name="anc-y">
+<a name="anc-y"><hr></a>
+[Back to Index](#term-idx)
 
 **Yard Management**: Yard management is the act of planning, controlling, organizing, and guiding vehicles, containers, and other methods of transport to the optimal dock or location in the yard of a distribution center or warehouse to efficiently move goods from the warehouse to the point of transportation. When executed properly, it optimizes the flow of vehicles and cargo within the on-premises yard. This is an optional warehouse operation. For more info, refer to [this link](https://www.manh.com/our-insights/resources/articles/what-is-yard-management) and this [Fourkites' What is a Yard Management System?](https://www.fourkites.com/yard-management-system/).
 
 **Yard Management System (YMS)**: Yard Management System, or YMS is a software solution designed to monitor the movement of trailers in the yard and dock of a facility, distribution center, or warehouse. Yard Management Systems can create valuable opportunities for agility and efficiency by filling the visibility gaps in your operations between transportation and warehouse. For more info, refer to [this link](https://kaleris.com/solutions/yard-management/).
 
-<a name="anc-z">
+<a name="anc-z"><hr></a>
+[Back to Index](#term-idx)
 
 **Zone Picking**: This is one type of picking operation. Zone picking involves workers dedicated to a specific section passing order totes from one zone to the next. For more info, refer to [this link](https://www.autostoresystem.com/insights/zone-picking-from-a-z-strategies-benefits).
 
