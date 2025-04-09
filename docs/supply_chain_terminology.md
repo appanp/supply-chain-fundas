@@ -513,12 +513,12 @@ A few of the WES vendors are listed below:
 1. [Numina RDS WES](https://numinagroup.com/rds-warehouse-execution-system/)
 1. [Softeon WMS](https://www.softeon.com/solutions/warehouse-execution-system-wes/) - rule-based engine
 
-**WMS Implementation Process**: Refers to the stages followed in the implementation of WMS and this can be either a migration from any WMS vendor or a totally new implementation. Gartner proposes 4 phases/stages to any WMS implementation. Hopstack recommends a eight step process. For more info, refer to [this link](https://www.hopstack.io/blog/8-steps-cloud-wms-implementation). The *4 phases* recommended by Gartner are:
+**WMS Implementation Process**: Refers to the stages followed in the implementation of WMS and this can be either a migration from any WMS vendor or a totally new implementation. Gartner proposes 4 phases/stages to any WMS implementation. Hopstack recommends a eight step process. For more info, refer to [this link](https://www.hopstack.io/blog/8-steps-cloud-wms-implementation). The _4 phases_ recommended by Gartner are:
 
-* Planning/Preparation: [How to Successfully Implement WMS — Part 1: Preparation](https://www.gartner.com/en/documents/5380963), May 2024.
-* Design Phase: [How to Successfully Implement WMS — Part 2: Design](https://www.gartner.com/en/documents/5429163), May 2024.
-* Execution Phase: [How to Successfully Implement WMS — Part 3: Execution](https://www.gartner.com/en/documents/5429263), May 2024.
-* Evolution Phase: [How to Successfully Implement WMS — Part 4: Evolution](https://www.gartner.com/doc/reprints?id=1-2HQ3JUR3&ct=240531&st=sb)
+- Planning/Preparation: [How to Successfully Implement WMS — Part 1: Preparation](https://www.gartner.com/en/documents/5380963), May 2024.
+- Design Phase: [How to Successfully Implement WMS — Part 2: Design](https://www.gartner.com/en/documents/5429163), May 2024.
+- Execution Phase: [How to Successfully Implement WMS — Part 3: Execution](https://www.gartner.com/en/documents/5429263), May 2024.
+- Evolution Phase: [How to Successfully Implement WMS — Part 4: Evolution](https://www.gartner.com/doc/reprints?id=1-2HQ3JUR3&ct=240531&st=sb)
 
 **Warehouse Labor Standard**: In warehousing, a labor standard is the amount of time required by a fully trained associate, working at a reasonable effort level under normal operating conditions, to complete a task. Labor standards are critical to fulfillment organizations since they provide a benchmark to evaluate worker efficiency. For more info, refer to [this link](https://logisticsviewpoints.com/2010/09/07/warehousing-labor-standards-basics-part-1/), [Optimizing warehouse efficiency with labor standards](https://www.logiwa.com/blog/optimizing-warehouse-efficiency-with-labor-standards) and [Creating Successful Engineered Labor Standards](https://envistacorp.com/blog/creating-successful-engineered-labor-standards/).
 
@@ -604,7 +604,7 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
    Platforms, Mar 2024 - [Download link](https://www.gartner.com/doc/reprints?id=1-2H5E4M0F&ct=240401&st=sb)
 1. [Warehouse of the Future, MIT Report](https://ctl.mit.edu/sites/ctl.mit.edu/files/2024-03/The%20Warehouse%20of%20the%20Future.pdf), Mar 2024
 1. [Powering the Future of Supply Chain](https://emt.gartnerweb.com/ngw/globalassets/en/supply-chain/documents/trends/future-of-sc-ebook.pdf)
-    * Explore 3 drivers that will redefine value & increase productivity in 2024 and beyond.
+   - Explore 3 drivers that will redefine value & increase productivity in 2024 and beyond.
 1. [Critical Capabilities for Transportation Management Systems](https://www.gartner.com/doc/reprints?id=1-2H605JL2&ct=240402&st=sb), Gartner, Mar 2024
 1. [Critical Capabilities for Warehouse Management Systems](https://www.gartner.com/doc/reprints?id=1-2I2QN8RE&ct=240712&st=sb), Gartner, Aug 2024
 1. [Gartner Magic Quadrant for Transportation Management Systems](https://www.gartner.com/doc/reprints?id=1-2H3GE7Y1&ct=240327&st=sb), Jun 2024
@@ -646,17 +646,17 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 1. [WMS Technology Value Matrix](https://tecsys.com/hubfs/nucleus-report/2024/nucleus-research-WMS-technology-value-matrix.pdf), Nucleus Research.
 1. [How Anheuser-Busch Doubled Its Productivity Through Supply Chain Innovation](https://www.gartner.com/en/experts/eureka-series/anheuser-busch-doubled-productivity-supply-chain-innovation), Gartner Eureka! series.
 1. [Royal4 System recognised in 2023 Gartner MQ for WMS mid-market report](https://www.royal4.com/wp-content/uploads/2023/12/GartnerMidMarket-2023.pdf)
-    * [Royal 4 Systems named by Gartner as one of the 12 Notable Vendors in its annual Mid Market Report for WMS](https://www.businessheraldonline.com/article/591328427-royal-4-systems-named-by-gartner-as-one-of-the-12-notable-vendors-in-its-annual-mid-market-report-for-wms), September 19, 2022.
+   - [Royal 4 Systems named by Gartner as one of the 12 Notable Vendors in its annual Mid Market Report for WMS](https://www.businessheraldonline.com/article/591328427-royal-4-systems-named-by-gartner-as-one-of-the-12-notable-vendors-in-its-annual-mid-market-report-for-wms), September 19, 2022.
 1. [JDA Named a Leader in Gartner Magic Quadrant for Transportation Management Systems](https://www.businesswire.com/news/home/20170313005626/en/JDA-Named-a-Leader-in-Gartner-Magic-Quadrant-for-Transportation-Management-Systems), 13 Mar 2017.
-    * More than 4,000 global customers run JDA, including 73 of the top 100 retailers, 71 of the top 100 consumer goods companies, and 13 of the top 16 3PLs. With JDA, you can plan to deliver.
+   - More than 4,000 global customers run JDA, including 73 of the top 100 retailers, 71 of the top 100 consumer goods companies, and 13 of the top 16 3PLs. With JDA, you can plan to deliver.
 1. [EVS named a Notable Vendor in the 2024 Gartner® ‘Midmarket Context: Magic Quadrant™ for Warehouse Management Systems’ for sixth consecutive year](https://www.evssw.com/newsroom/gartner-magic-quadrant-for-wms)
-    * mobe3 is the first WMS with embedded real-time location (RTLS) technology which is built iOS-native.
+   - mobe3 is the first WMS with embedded real-time location (RTLS) technology which is built iOS-native.
 1. [Da Vinci Named as Notable Vendor in the 2023 Gartner® Midmarket Context: ‘Magic Quadrant™ for Warehouse Management Systems’](https://dvunified.com/press-releases/da-vinci-named-as-notable-vendor-in-the-2023-gartner-midmarket-context-magic-quadrant-for-warehouse-management-systems/), Nov 2023.
 1. [OnPalms WMS from Technoforte Software](https://www.onpalms.com/), Bangalore Company in existence since 2001.
-    * [Gartner Reviews link](https://www.gartner.com/reviews/market/warehouse-management-systems/vendor/technoforte/product/palms-smart-wms)
+   - [Gartner Reviews link](https://www.gartner.com/reviews/market/warehouse-management-systems/vendor/technoforte/product/palms-smart-wms)
 1. [Datex has been mentioned as a Notable Vendor in the 2024 Gartner® report titled, Midmarket Context: Magic Quadrant for WMS](https://mys-showfiles.s3.amazonaws.com/production/pm2025/press/43928/2B920C1E-A0AF-36A5-FD0F9F88F37C0134.pdf)
 1. Gartner MQ for WMS, 2 May 2024 - locally stored, [link](https://www.gartner.com/doc/reprints?__hstc=224503109.9e75fea6e387cc859287bb60737b901c.1737825932592.1737825932593.1737825932593.1&__hssc=224503109.1.1737825932593&__hsfp=2099812365&id=1-2HEDBY7R&ct=240425&st=sb&submissionGuid=5f22d549-9195-482c-8b07-77b7ddfc4895)
-    * [Key takeaways of the Magic Quadrant from Made4Net](https://alpinesupplychain.com/2024-gartner-magic-quadrant-for-warehouse-management-systems/),
+   - [Key takeaways of the Magic Quadrant from Made4Net](https://alpinesupplychain.com/2024-gartner-magic-quadrant-for-warehouse-management-systems/),
 1. Gartner MQ for WMS, Feb 2023, locally stored.
 1. [Gartner MQ for WMS, Jun 2022](https://itlligenze.com/wp-content/uploads/2022/12/Magic-Quadrant-for-Warehouse-Management-systems.pdf)
 1. [Gartner MQ for WMS, Jun 2021](https://www.pyrabyte.com/wp-content/uploads/2021/08/WMS.pdf), [Gartner link](https://www.gartner.com/doc/reprints?id=1-26Q6LWOF&ct=210706&st=sb) - could have expired.
@@ -664,25 +664,29 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 1. Gartner MQ for WMS, Feb 2017, locally stored.
 1. [Gartner MQ for WMS, 2016](https://www.oracle.com/us/corporate/analystreports/gartner-magic-quadrant-wms-2884695.pdf), 2016
 1. [Hype Cycle for Supply Chain Execution Technologies, 2023](https://go.greyorange.com/hubfs/2024/Gartner%20SC%20Hype%20Cycle%200923/Hype_Cycle_Gartner_from%20GreyOrange.pdf), Gartner.
+1. [Hype Cycle for Supply Chain Execution Technologies, 2024](https://www.gartner.com/doc/reprints?id=1-2IJ1TLL8&ct=240814&st=sb)
+   - [Hype cycle image link](../imgs/Gartner_Hype_Cycle_for_Supply_Chain_Execution_Technologies_2024.png)
+   - [Form to download](https://www.onerail.com/gartner-report-2024-hype-cycle-for-supply-chain-execution-technologies), [expired content link](https://www.gartner.com/doc/reprints?id=1-2I22YQ88&ct=240710&st=sb)
+   - [Link for Gartner subscribers](https://www.gartner.com/document/5532495?ref=solrAll&refval=418485227&)
 1. [The Gartner Supply Chain Top 25 for 2024](https://www.gartner.com/en/supply-chain/research/supply-chain-top-25), [pdf link](https://emt.gartnerweb.com/ngw/globalassets/en/supply-chain/documents/trends-top-25/gartner-global-supply-chain-top-25-for-2024.pdf)
-    * Gartner’s Supply Chain Top 25 identifies, celebrates and profiles global supply chain excellence. 
+   - Gartner’s Supply Chain Top 25 identifies, celebrates and profiles global supply chain excellence.
 1. [Vimaan Named in the Gartner® Hype Cycle™ Reports, 2024 for Autonomous Data Collection and Inspection](https://s24.q4cdn.com/538403808/files/doc_news/Vimaan-Named-in-the-Gartner-Hype-Cycle-Reports-2024-for-Autonomous-Data-Collection-and-Inspection-2024.pdf)
 1. [RoboForce announces $10M early-stage funding for AI-enabled MMRs](https://www.robotics247.com/article/roboforce_announces_10m_early_stage_funding_for_ai_enabled_mmrs), 12 Jan 2025
-    * MMRs designed to reduce labor shortages in solar renewable energy construction
+   - MMRs designed to reduce labor shortages in solar renewable energy construction
 1. [A decade after acquiring Kiva, Amazon unveils its first AMR](https://www.therobotreport.com/a-decade-after-acquiring-kiva-amazon-unveils-its-first-amr/), 22 Jun 2022
 1. [A Framework for Digital Twins Solutions for 5pl Operators](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4562905), 6 Sep 2023
 1. [8 of the top supply chain management career paths](https://www.techtarget.com/whatis/Top-10-Careers-in-Supply-Chain-Management), Jun 2024
-    * Strategic sourcing manager, Commodity manager, Procurement manager, Purchasing manager, Supply chain manager, Logistics manager, Facilities manager and Production Planner.
+   - Strategic sourcing manager, Commodity manager, Procurement manager, Purchasing manager, Supply chain manager, Logistics manager, Facilities manager and Production Planner.
 1. [Apply an Architectural Framework to Stratifying WMS](https://www.scribd.com/document/625272366/Apply-an-Architectural-Framework-to-Stratifying-Warehouse-Management-Systems), 2023 - this scribd doc link seems to be a older 2017 version.
 1. [Leverage Last-Mile Delivery Technology for Supply Chain Efficiency](https://www.gartner.com/en/articles/last-mile-delivery)
-    * To overcome ongoing challenges, supply chain technology leaders can heed last-mile delivery strategy and technology trends in three categories: proximity, experience and innovation. The six trends are:
-        - Fine-tuned delivery with reliability and speed
-        - Microfulfillment to supercharge last-mile delivery
-        - Customer centricity
-        - Ultraconvenient delivery
-        - Sustainability and electrification of fleets
-        - Proliferation of unmanned vehicles
-        - AI and GenAI in last-mile delivery
+   - To overcome ongoing challenges, supply chain technology leaders can heed last-mile delivery strategy and technology trends in three categories: proximity, experience and innovation. The six trends are:
+     - Fine-tuned delivery with reliability and speed
+     - Microfulfillment to supercharge last-mile delivery
+     - Customer centricity
+     - Ultraconvenient delivery
+     - Sustainability and electrification of fleets
+     - Proliferation of unmanned vehicles
+     - AI and GenAI in last-mile delivery
 1. [Use the right software to support warehouse automation & robotics](https://www.scribd.com/document/807149045/Use-the-Right-Softwa-788893-ndx), 20 Nov 2023.
 1. [Gartner Predicts Half of Companies With Warehouse Operations Will Leverage AI-Enabled Vision Systems by 2027](https://www.gartner.com/en/newsroom/press-releases/2024-06-12-gartner-predicts-half-of-companies-with-warehouse-operations-will-leverage-ai-enabled-vision-systems-by-2027)
 1. [Power of an Integrated Warehouse Management System (WMS) & Manufacturing Execution System (MES)](https://www.youtube.com/watch?v=tSWVf-wP9To), Youtube video
@@ -690,7 +694,7 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 1. [Connecting MES and DCS in your pharma or biotech factory](https://www.youtube.com/watch?v=i0crMOFweZY), Youtube video
 1. [Manufacturing Execution System - What is it](https://www.youtube.com/watch?v=l40Y16bmDq8), youtube video, 40 mins
 1. [What is MES/MOM?](https://www.youtube.com/watch?v=A_uW-fFcZK4)
-    * This video, explains  "what is MOM / MES?" for anyone who has heard multiple terminologies like Manufacturing operations management (MOM), Manufacturing Execution systems (MES), Shop floor data collection (SFDC), production actvity control (PAC), traceability, geneology, electronic batch records (eBR) or electronic device history records (eDHR) etc.
+   - This video, explains "what is MOM / MES?" for anyone who has heard multiple terminologies like Manufacturing operations management (MOM), Manufacturing Execution systems (MES), Shop floor data collection (SFDC), production actvity control (PAC), traceability, geneology, electronic batch records (eBR) or electronic device history records (eDHR) etc.
 1. [Softeon WMS Implemenation Guide](https://www.softeon.com/blog/warehouse-management-system-implementation-guide), suggest a 4 stage implementation phase before go-live.
 1. [5 Phases of a WMS Implementation](https://www.aptean.com/en-US/insights/blog/5-phases-wms-implementation), Aptean, 15 Oct 2019.
 1. [Fulfillment center in 30 days](https://www.youtube.com/watch?v=WpozEe_bwno&list=PLRv_KQE258Qaw-ZM9iesH0BZvad7ZOK9S&index=3), ShipHero Youtube video, 8 mins
@@ -698,3 +702,8 @@ Wave picking is useful for both low-pick and high-pick operations. For low-pick 
 1. [Warehouse Management System Market Size, Share & Trends Analysis Report By Component (Software, Services), By Deployment (On-premise, Cloud), By Function, By Application, By Region, And Segment Forecasts, 2024 - 2030](https://www.grandviewresearch.com/industry-analysis/warehouse-management-system-wms-market)
 1. [Warehouse Management System Market – Global Industry Analysis and Forecast (2024-2030)](https://www.maximizemarketresearch.com/market-report/global-warehouse-management-system-market/54930/)
 1. [Statzon's Robots Everywhere, Market Guide, 2nd Ed](https://25601177.fs1.hubspotusercontent-eu1.net/hubfs/25601177/Downloadable%20content/Robots%20Everywhere-%20%20A%20Comprehensive%20Market%20Guide%20for%20Robotics%20Enthusiast%202023%20%20-%202nd%20edition.pdf)
+1. [Gartner Technology Trends Transforming Warehousing — Part 1: Improving Upgrades](https://www.gartner.com/en/documents/5347263), April 2024.
+1. [Gartner Technology Trends Transforming Warehousing — Part 2: Handling Volatility & Complexity](https://www.gartner.com/en/documents/5347363), April 2024.
+1. [Gartner Technology Trends Transforming Warehousing — Part 3: Labor Challenges](https://www.gartner.com/en/documents/5347463), April 2024.
+1. [The future of Warehousing - How Digitalisation is Set to Change Warehousing](https://www.getac.com/content/dam/uploads/2023/05/Getac_Statista_Future-of-Warehousing_Engl_final.pdf), Statista.
+1. [Gartner Identifies Top Supply Chain Technology Trends for 2025](https://www.gartner.com/en/newsroom/press-releases/2025-03-18-gartner-identifies-top-supply-chain-technology-trends-for-2025), 18 March 2025
