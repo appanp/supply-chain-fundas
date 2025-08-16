@@ -35,26 +35,3 @@
     * [xPIM+ Product Demo Video](https://www.youtube.com/watch?v=Z3IblwxSHRY), Mobile product data collection
     * [How much can you save with mobile dimensioning](https://www.mobiledemand.com/mobile-dimensioning-roi-calculator?utm_campaign=12888125-MMH%20Publication)
 
-h3. Resources: Manufacturing Settings & Data Collection
-
-The following resources were selected to provide additional information on the subject of Manufacturing Settings and Data Collection. We would like to acknowledge the authors of the various web articles for their insightful discussions and analysis which formed the basis for some sections of this lesson. 
-
-Title of resource: 
-1. [Process vs. Discrete ERP](http://www.processproerp.com/wp-content/uploads/process-vs-discrete1.pdf)
-    * Description: Article exploring the difference between process and discrete ERP software
-1. [Relationship of data, information and intelligence](https://upload.wikimedia.org/wikipedia/commons/e/ee/Relationship_of_data%2C_information_and_intelligence.png)
-    * Resource type: Image
-    * Description: U.S. Joint Chiefs of Staff diagram of the relationship between data, information and intelligence
-1. [Why Businesses Need To Shift Data Analysis From The Center To The Front Line](http://www.forbes.com/sites/rogertrapp/2014/09/29/why-businesses-need-to-shift-data-analysis-from-the-centre-to-the-front-line/#fcdebf5524af)
-    * Author: Roger Trapp
-    * Resource type: Web article
-    * Description:Forbes article that discusses the factors encouraging a shift in the way that companies handle data
-1. [Continuous versus Discrete Manufacturing in ERP](https://en.wikiversity.org/wiki/Continuous_versus_Discrete_Manufacturing_in_ERP)
-    * Description: Wikiversity page comparing continuous and discrete manufacturing in ERP. Introduction states “When choosing a ERP system for a manufacturing operation it is critically important to choose a system that is designed to work with the company's processes. Manufacturing operations are at a high level divided into two major categories, discrete manufacturing which is concerned with assembly of products and continuous/process which is concerned primarily with the blending of formulas.” 
-1. [SIEMENS: Advanced Analysis in Medical Industry](https://buffalo.app.box.com/v/advancedanalysisinmi)
-    * Resource type: Video
-    * Description: Gerry Keane, VP, Consumer Packaged Goods, Life Sciences Division, Siemens PLM Software discusses solutions for the medical industry. Run time- 1:55
-1. [Data Collection and Analysis (Published in association with The Open University) 2nd Edition](https://www.amazon.com/Collection-Analysis-Published-association-University/dp/0761943633/ref=sr_1_2?ie=UTF8&qid=1485805657&sr=8-2&keywords=Data+Collection+and+Analysis)
-    * Resource type: Book
-    * Editors: Roger Sapsford and Victor Jupp 
-    * Description (from Amazon): This comprehensive text covers both quantitative and qualitative approaches to data collection and analysis in social research, considering both the structure and logic of research projects and the ethics and politics of research. 
