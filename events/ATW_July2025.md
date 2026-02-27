@@ -1,24 +1,34 @@
+### Industry Events
+
+1. [PROMAT](https://www.promatshow.com/)
+   - As the manufacturing and supply chain industry’s premier global event, ProMat brings over 50,000 manufacturing and supply chain buyers together to learn, engage and connect with the leading trends and equipment and technology solutions.
+1. [Manifest, presented by DHL](https://manife.st/agenda/).
+1. [LogiMAT India 2025](https://www.logimat.in/), 13-15 Feb 2025, Bombay Exhibition Center, Mumbai
+1. [LogiMAT Stuttgart 2025](https://www.logimat-messe.de/en), 11-13 Mar 2025
+1. [Saudi Warehousing & Logistics Expo](https://www.saudilogisticsexpo.com/), 27-29 May 2025.
+1. [Seamless Middle East Digital Commerce 2025](https://www.expobeds.com/event/seamless), 20-22 May 2025, Dubai WTC.
+   - [Another link](https://www.terrapinn.com/exhibition/seamless-middle-east/index.stm)
 
 ### Talks & their Recordings
 
 1. Title: MMH VS KEYNOTE: The Future of Automation is Interconnected
-    * [URL](https://event.on24.com/wcc/r/4942070/173F3C7E2849EBEAE2F94ED1824B6B8D/6107378?mr=s)
-    * Duration: 45 minutes
+   - [URL](https://event.on24.com/wcc/r/4942070/173F3C7E2849EBEAE2F94ED1824B6B8D/6107378?mr=s)
+   - Duration: 45 minutes
 1. Title: MMH VS Software & AI: The Connective Tissue of Warehouse Automation
-    * [URL](https://event.on24.com/wcc/r/4942071/871D6D0208D1A031E365C0E55E996B03/6107378?mr=s)
-    * Duration: 45 minutes
+   - [URL](https://event.on24.com/wcc/r/4942071/871D6D0208D1A031E365C0E55E996B03/6107378?mr=s)
+   - Duration: 45 minutes
 1. Title: MMH VS Automation: How to Make Smart Moves, Not Just Fast Ones
-    * [URL](https://event.on24.com/wcc/r/4942072/D10070BD2844C2F6CC4A0BCC778AE0D8/6107378?mr=s)
-    * Duration: 45 minutes
+   - [URL](https://event.on24.com/wcc/r/4942072/D10070BD2844C2F6CC4A0BCC778AE0D8/6107378?mr=s)
+   - Duration: 45 minutes
 1. Title: MMH VS Robotics: Systems vs. Point Solutions
-    * [URL](https://event.on24.com/wcc/r/4942073/D180574363CF0FF6D56F8E7E325D6F20/6107378?mr=s)
-    * Duration: 45 minutes
+   - [URL](https://event.on24.com/wcc/r/4942073/D180574363CF0FF6D56F8E7E325D6F20/6107378?mr=s)
+   - Duration: 45 minutes
 1. Title: MMH VS Mobility & AIDC: Unlocking Warehouse Efficiency
-    * [URL](https://event.on24.com/wcc/r/4942085/7CAFC47448D001BF4CB58230F9A01AC9/6107378?mr=s)
-    * Duration: 45 minutes
+   - [URL](https://event.on24.com/wcc/r/4942085/7CAFC47448D001BF4CB58230F9A01AC9/6107378?mr=s)
+   - Duration: 45 minutes
 1. Title: MMH VS Robotics: The Road Ahead for Humanoid Robots in Warehousing
-    * [URL](https://event.on24.com/wcc/r/4942080/EB786D460F87F23938531871F6E90DF6/6107378?mr=s)
-    * Duration: 30 minutes
+   - [URL](https://event.on24.com/wcc/r/4942080/EB786D460F87F23938531871F6E90DF6/6107378?mr=s)
+   - Duration: 30 minutes
 
 ### References
 
@@ -32,6 +42,6 @@
 1. [AutoStore: Space saving storage and order picking system for small parts. Now available for deep-freeze applications](https://www.swisslog.com/en-us/products-systems-solutions/asrs-automated-storage-retrieval-systems/autostore-integrator)
 1. [Zebra symmetry fulfillment](https://www.zebra.com/us/en/products/autonomous-mobile-robots/order-fulfillment-solutions.html), Zebra
 1. [xPIM: MobileDemands' patented technology for quickly building master item data](https://www.mobiledemand.com/hubfs/ROI%20White%20Paper%202025/White%20Paper%20Mobile%20Dimensioning%20in%20Modern%20Logistics%20-%20ROI%20Calculator%20-%20Download%20and%20Share.pdf), Zebra
-    * [xPIM+ Product Demo Video](https://www.youtube.com/watch?v=Z3IblwxSHRY), Mobile product data collection
-    * [How much can you save with mobile dimensioning](https://www.mobiledemand.com/mobile-dimensioning-roi-calculator?utm_campaign=12888125-MMH%20Publication)
-
+   _ [xPIM+ Product Demo Video](https://www.youtube.com/watch?v=Z3IblwxSHRY), Mobile product data collection
+   _ [How much can you save with mobile dimensioning](https://www.mobiledemand.com/mobile-dimensioning-roi-calculator?utm_campaign=12888125-MMH%20Publication)
+1. [Strategic shift from IC to electric, Unicarriers Forklift](https://www.logisnextamericas.com/-/media/logisnext/sites/public/documents/unicarriers/sales-literature/the%20strategic%20shift%20from%20internal%20combustion%20to%20electric.pdf)
